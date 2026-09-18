@@ -1,0 +1,101 @@
+company_id,company_name,phone,email,country,website,merchant_category,merchant_price_position
+b-2222,Ac Fermentum Incorporated,+64 601 244 6320,donec.porttitor.tellus@yahoo.net,Germany,https://www.ac-fermentum-incorporated.com,Beauty,mid-market
+b-2226,Magna A Neque Industries,+33 823 560 3779,risus.donec.nibh@icloud.org,Australia,https://www.magna-a-neque-industries.com,Travel,budget
+b-2230,Fusce Corp.,+29 657 646 4324,risus@protonmail.edu,United States,https://www.fusce-corp.com,Home,mid-market
+b-2234,Convallis In Incorporated,+6 693 982 1255,mauris.ut@aol.couk,Germany,https://www.convallis-in-incorporated.com,Sports,mid-market
+b-2238,Ante Iaculis Nec Foundation,+69 914 549 1009,sed.dictum.proin@outlook.ca,New Zealand,https://www.ante-iaculis-nec-foundation.com,Toys,mid-market
+b-2242,Donec Ltd,+56 897 341 8418,at.iaculis@hotmail.couk,Norway,https://www.donec-ltd.com,Home,mid-market
+b-2246,Sed Nunc Ltd,+5 218 900 3193,nibh@yahoo.org,United Kingdom,https://www.sed-nunc-ltd.com,Home,mid-market
+b-2250,Amet Nulla Donec Corporation,+96 338 276 8449,mattis.integer.eu@protonmail.net,Italy,https://www.amet-nulla-donec-corporation.com,Gaming,budget
+b-2254,Nascetur Ridiculus Mus Inc.,+63 316 953 7970,suspendisse.dui@icloud.net,United States,https://www.nascetur-ridiculus-mus-inc.com,Food,budget
+b-2258,Vestibulum Lorem PC,+27 788 560 5000,aenean.massa.integer@aol.net,Belgium,https://www.vestibulum-lorem-pc.com,Electronics,premium
+b-2262,Gravida Sagittis LLP,+98 204 198 9702,turpis.vitae@google.ca,Sweden,https://www.gravida-sagittis-llp.com,Sports,premium
+b-2266,Mus Aenean Eget Foundation,+1 504 922 3000,mi.duis@hotmail.net,Sweden,https://www.mus-aenean-eget-foundation.com,Sports,mid-market
+b-2270,Dis Parturient Institute,+69 962 744 6989,purus@protonmail.org,Ireland,https://www.dis-parturient-institute.com,Food,premium
+b-2274,Sed LLC,+3 536 122 8140,at@outlook.com,Belgium,https://www.sed-llc.com,Fashion,mid-market
+b-2278,Arcu LLP,+53 776 813 5178,dui@aol.ca,Norway,https://www.arcu-llp.com,Home,mid-market
+b-2282,Pretium Neque Corp.,+17 184 177 7600,eleifend.nec.malesuada@protonmail.couk,Australia,https://www.pretium-neque-corp.com,Electronics,mid-market
+b-2286,Fringilla LLC,+1 150 784 1716,gravida@protonmail.couk,New Zealand,https://www.fringilla-llc.com,Sports,budget
+b-2290,Quisque Libero LLC,+4 545 548 5976,sapien.molestie.orci@hotmail.couk,China,https://www.quisque-libero-llc.com,Toys,budget
+b-2294,Auctor Mauris Vel LLP,+32 133 447 8239,nec.tempus@icloud.couk,United States,https://www.auctor-mauris-vel-llp.com,Electronics,mid-market
+b-2298,Elit Etiam Laoreet Associates,+39 253 349 9865,ultrices@google.couk,Canada,https://www.elit-etiam-laoreet-associates.com,Gaming,mid-market
+b-2302,Nunc Interdum Incorporated,+54 217 870 5363,non@outlook.com,Germany,https://www.nunc-interdum-incorporated.com,Sports,budget
+b-2306,Augue Foundation,+65 153 335 9580,mauris@yahoo.com,Germany,https://www.augue-foundation.com,Fashion,premium
+b-2310,Non Magna LLC,+94 833 862 7544,nisl.quisque.fringilla@hotmail.ca,United Kingdom,https://www.non-magna-llc.com,Electronics,mid-market
+b-2314,A Institute,+47 306 328 7996,metus.aliquam@google.edu,Belgium,https://www.a-institute.com,Home,budget
+b-2318,Quam A Felis Industries,+14 677 174 5530,proin.velit@icloud.edu,Italy,https://www.quam-a-felis-industries.com,Gaming,premium
+b-2322,Integer Mollis Corp.,+38 803 863 7881,eu.eros@protonmail.ca,Italy,https://www.integer-mollis-corp.com,Toys,premium
+b-2326,Enim Condimentum Ltd,+38 405 197 9017,imperdiet.non.vestibulum@yahoo.net,United Kingdom,https://www.enim-condimentum-ltd.com,Beauty,premium
+b-2330,Donec Fringilla PC,+30 434 958 2331,ut.tincidunt@hotmail.ca,France,https://www.donec-fringilla-pc.com,Toys,budget
+b-2334,Amet Institute,+38 580 434 6115,nullam.lobortis.quam@outlook.net,Australia,https://www.amet-institute.com,Sports,mid-market
+b-2338,Magna Incorporated,+30 858 205 8730,non@google.net,New Zealand,https://www.magna-incorporated.com,Food,mid-market
+b-2342,Fringilla Porttitor Incorporated,+81 232 896 8043,ultrices.a.auctor@protonmail.couk,Sweden,https://www.fringilla-porttitor-incorporated.com,Electronics,mid-market
+b-2346,Ut Semper Foundation,+10 283 500 6449,consectetuer@google.ca,Sweden,https://www.ut-semper-foundation.com,Books,premium
+b-2350,Aliquet Vel Vulputate Incorporated,+17 607 951 5164,suspendisse.commodo@outlook.couk,Netherlands,https://www.aliquet-vel-vulputate-incorporated.com,Home,mid-market
+b-2354,Ac Libero Inc.,+34 873 152 6569,mollis.lectus@protonmail.ca,United Kingdom,https://www.ac-libero-inc.com,Electronics,premium
+b-2358,Ac Industries,+77 225 846 2906,ipsum@yahoo.com,Germany,https://www.ac-industries.com,Fashion,premium
+b-2362,Lorem Eu Incorporated,+23 282 947 7238,enim.gravida.sit@hotmail.net,Canada,https://www.lorem-eu-incorporated.com,Electronics,premium
+b-2366,Mauris Institute,+75 473 619 9472,morbi.vehicula@outlook.couk,Sweden,https://www.mauris-institute.com,Electronics,mid-market
+b-2370,Non Justo Corp.,+67 963 294 1666,urna.ut.tincidunt@yahoo.edu,Sweden,https://www.non-justo-corp.com,Fashion,budget
+b-2374,Amet Faucibus Ut Foundation,+93 771 160 7777,malesuada@icloud.net,United Kingdom,https://www.amet-faucibus-ut-foundation.com,Gaming,mid-market
+b-2378,Erat LLP,+51 502 888 6124,non.vestibulum@protonmail.net,Netherlands,https://www.erat-llp.com,Home,premium
+b-2382,Neque Tellus Incorporated,+82 703 781 4900,ultrices.iaculis.odio@aol.ca,Ireland,https://www.neque-tellus-incorporated.com,Electronics,budget
+b-2386,Lacus Quisque Associates,+22 504 937 7376,convallis@yahoo.couk,United States,https://www.lacus-quisque-associates.com,Food,mid-market
+b-2390,Neque Tellus Imperdiet Corp.,+12 445 145 3593,vestibulum.ante.ipsum@aol.edu,Ireland,https://www.neque-tellus-imperdiet-corp.com,Food,budget
+b-2394,Tortor Nunc Commodo Company,+49 177 829 8240,placerat.cras@hotmail.net,United States,https://www.tortor-nunc-commodo-company.com,Fashion,mid-market
+b-2398,Eget Ipsum Ltd,+26 348 146 6240,lacinia.at.iaculis@hotmail.net,United States,https://www.eget-ipsum-ltd.com,Beauty,premium
+b-2402,At Pede Corp.,+86 338 155 7493,ac.mi.eleifend@hotmail.edu,Italy,https://www.at-pede-corp.com,Toys,premium
+b-2406,Non Ante LLP,+63 147 672 5432,at.augue.id@aol.net,Sweden,https://www.non-ante-llp.com,Electronics,budget
+b-2410,Sed Id Limited,+26 903 356 2276,iaculis.enim@outlook.net,United States,https://www.sed-id-limited.com,Gaming,premium
+b-2414,Netus Et Malesuada Ltd,+52 818 402 1638,et.ipsum.cursus@aol.edu,Netherlands,https://www.netus-et-malesuada-ltd.com,Travel,mid-market
+b-2418,Mauris Id Inc.,+56 825 625 9150,bibendum.sed.est@yahoo.net,Ireland,https://www.mauris-id-inc.com,Fashion,mid-market
+b-2422,Urna Convallis Associates,+78 315 485 1364,aliquam@yahoo.org,United States,https://www.urna-convallis-associates.com,Electronics,mid-market
+b-2426,Pede Cum Ltd,+26 625 798 6126,lorem.ipsum.sodales@yahoo.ca,Norway,https://www.pede-cum-ltd.com,Gaming,mid-market
+b-2430,Interdum Feugiat Sed Associates,+3 722 849 7506,consectetuer.mauris@yahoo.couk,United Kingdom,https://www.interdum-feugiat-sed-associates.com,Beauty,mid-market
+b-2434,Tristique Neque Venenatis Institute,+18 605 905 7882,ullamcorper.magna@hotmail.ca,Sweden,https://www.tristique-neque-venenatis-institute.com,Books,mid-market
+b-2438,Nunc Ac PC,+15 291 730 9905,non.ante@google.com,Sweden,https://www.nunc-ac-pc.com,Toys,budget
+b-2442,Aliquam Erat Volutpat LLP,+39 372 330 7229,pede.nunc@icloud.net,Italy,https://www.aliquam-erat-volutpat-llp.com,Books,mid-market
+b-2446,Risus Associates,+90 225 911 5632,egestas.ligula.nullam@google.edu,Australia,https://www.risus-associates.com,Gaming,mid-market
+b-2450,Turpis Company,+17 624 311 7168,cursus.integer@outlook.ca,Netherlands,https://www.turpis-company.com,Gaming,budget
+b-2454,Justo Eu Arcu Ltd,+68 493 166 1232,ac.facilisis@icloud.couk,Italy,https://www.justo-eu-arcu-ltd.com,Travel,mid-market
+b-2458,Eget Tincidunt Dui Institute,+18 210 327 5206,eget.laoreet@hotmail.org,Netherlands,https://www.eget-tincidunt-dui-institute.com,Toys,mid-market
+b-2462,Pede Ultrices Ltd,+86 133 722 8943,justo.proin@yahoo.com,Belgium,https://www.pede-ultrices-ltd.com,Food,mid-market
+b-2466,Amet Lorem LLP,+40 468 847 7738,ultricies.adipiscing@icloud.edu,Spain,https://www.amet-lorem-llp.com,Toys,mid-market
+b-2470,Nec Luctus LLC,+42 524 712 3739,consectetuer.cursus@protonmail.couk,Norway,https://www.nec-luctus-llc.com,Books,premium
+b-2474,Mauris Incorporated,+26 419 837 1876,nisi.mauris.nulla@hotmail.net,Norway,https://www.mauris-incorporated.com,Electronics,mid-market
+b-2478,Etiam Bibendum Fermentum Industries,+70 840 476 2460,sem.magna@icloud.ca,France,https://www.etiam-bibendum-fermentum-industries.com,Food,mid-market
+b-2482,Dui Cras Associates,+22 376 809 2605,tristique@yahoo.com,Italy,https://www.dui-cras-associates.com,Travel,budget
+b-2486,Tincidunt Orci Limited,+4 449 942 4517,velit.pellentesque@outlook.edu,Norway,https://www.tincidunt-orci-limited.com,Toys,mid-market
+b-2490,Nunc Sit Incorporated,+62 449 706 4735,pede.ultrices@icloud.net,Norway,https://www.nunc-sit-incorporated.com,Travel,mid-market
+b-2494,Malesuada PC,+55 236 858 9434,cras.lorem.lorem@outlook.com,Ireland,https://www.malesuada-pc.com,Toys,budget
+b-2498,Metus Vitae Associates,+31 139 328 6342,ad@protonmail.com,Australia,https://www.metus-vitae-associates.com,Home,mid-market
+b-2502,Dolor Vitae Limited,+6 421 567 9195,purus.maecenas@yahoo.edu,France,https://www.dolor-vitae-limited.com,Fashion,mid-market
+b-2506,Sapien Nunc Pulvinar LLP,+79 745 217 3551,sit.amet@yahoo.net,New Zealand,https://www.sapien-nunc-pulvinar-llp.com,Home,premium
+b-2510,Maecenas Malesuada Fringilla Inc.,+51 673 540 5289,id.ante@yahoo.ca,Netherlands,https://www.maecenas-malesuada-fringilla-inc.com,Sports,premium
+b-2514,Cras Consulting,+79 814 491 7316,sed.consequat@google.ca,Belgium,https://www.cras-consulting.com,Electronics,mid-market
+b-2518,Aliquet Sem Limited,+44 744 425 9915,sem.magna@yahoo.edu,Netherlands,https://www.aliquet-sem-limited.com,Books,mid-market
+b-2522,Viverra Donec Foundation,+97 631 212 7283,dictum.eu@outlook.net,United Kingdom,https://www.viverra-donec-foundation.com,Fashion,budget
+b-2526,Amet Luctus Vulputate Foundation,+47 100 189 2828,nulla@outlook.com,Canada,https://www.amet-luctus-vulputate-foundation.com,Toys,premium
+b-2530,Tincidunt Associates,+11 610 967 7988,neque.sed@hotmail.com,Ireland,https://www.tincidunt-associates.com,Sports,premium
+b-2534,Mattis Foundation,+3 772 789 1009,sed@google.couk,Australia,https://www.mattis-foundation.com,Toys,budget
+b-2538,At Associates,+5 749 271 8041,tristique.neque@yahoo.couk,New Zealand,https://www.at-associates.com,Fashion,mid-market
+b-2542,Nunc In Foundation,+13 267 741 2619,ac.fermentum@protonmail.com,Italy,https://www.nunc-in-foundation.com,Fashion,budget
+b-2546,Lorem Ipsum Dolor Corp.,+65 418 712 3832,augue.id@icloud.net,Sweden,https://www.lorem-ipsum-dolor-corp.com,Beauty,budget
+b-2550,Auctor Mauris Corp.,+9 649 518 8984,eget.metus@protonmail.ca,Germany,https://www.auctor-mauris-corp.com,Toys,budget
+b-2554,Cras Vehicula Aliquet Industries,+69 417 335 2908,arcu@hotmail.org,Netherlands,https://www.cras-vehicula-aliquet-industries.com,Fashion,mid-market
+b-2558,Nulla Integer Vulputate Corp.,+75 236 687 9162,interdum@protonmail.org,Sweden,https://www.nulla-integer-vulputate-corp.com,Gaming,premium
+b-2562,Dictum Eu Corp.,+35 612 395 4391,donec.vitae@icloud.ca,Canada,https://www.dictum-eu-corp.com,Electronics,mid-market
+b-2566,Aliquam PC,+22 671 931 6468,scelerisque.mollis@icloud.org,Germany,https://www.aliquam-pc.com,Sports,mid-market
+b-2570,Aliquet Diam Limited,+72 878 972 7413,eu.eros.nam@icloud.org,United States,https://www.aliquet-diam-limited.com,Gaming,mid-market
+b-2574,Orci Adipiscing Limited,+60 897 390 5820,dolor.fusce@protonmail.ca,United Kingdom,https://www.orci-adipiscing-limited.com,Books,premium
+b-2578,Dui Quis Institute,+37 104 950 8546,luctus.sit.amet@yahoo.couk,New Zealand,https://www.dui-quis-institute.com,Sports,premium
+b-2582,Nibh Phasellus Corporation,+78 509 673 5227,nisi@google.edu,China,https://www.nibh-phasellus-corporation.com,Books,budget
+b-2586,Tempor Diam Institute,+89 848 141 3136,cursus.in@yahoo.com,Netherlands,https://www.tempor-diam-institute.com,Books,mid-market
+b-2590,Euismod Mauris Institute,+18 395 939 7943,vivamus.molestie@icloud.ca,Belgium,https://www.euismod-mauris-institute.com,Food,budget
+b-2594,Et Magnis Ltd,+51 736 521 6984,dapibus.ligula@protonmail.net,Belgium,https://www.et-magnis-ltd.com,Electronics,mid-market
+b-2598,Aliquam Iaculis Lacus Corp.,+23 674 242 3712,dictum@aol.org,Belgium,https://www.aliquam-iaculis-lacus-corp.com,Fashion,budget
+b-2602,Placerat LLP,+17 324 602 5033,tellus.suspendisse@hotmail.org,Netherlands,https://www.placerat-llp.com,Books,mid-market
+b-2606,Sed Est Corp.,+78 920 715 5018,tempor.bibendum@google.couk,Canada,https://www.sed-est-corp.com,Travel,mid-market
+b-2610,Egestas Nunc Sed Limited,+39 297 745 2202,vitae@hotmail.edu,Italy,https://www.egestas-nunc-sed-limited.com,Books,budget
+b-2614,Rutrum Non Inc.,+72 653 547 8667,neque@protonmail.net,Germany,https://www.rutrum-non-inc.com,Fashion,budget
+b-2618,Non Institute,+15 722 768 6408,amet.metus@protonmail.couk,United Kingdom,https://www.non-institute.com,Toys,mid-market

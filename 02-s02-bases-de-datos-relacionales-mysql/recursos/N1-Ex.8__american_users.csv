@@ -1,0 +1,1011 @@
+id,name,surname,phone,email,birth_date,country,city,postal_code,address,signup_date,user_segment,income_band
+1,Zeus,Gamble,1-282-581-0551,interdum.enim@protonmail.edu,"Nov 17, 1985",United States,New York,10001,348-7818 Sagittis St.,2014-04-23,young_professional,high
+2,Garrett,Mcconnell,(718) 257-2412,integer.vitae.nibh@protonmail.org,"Aug 23, 1992",United States,Philadelphia,19101,903 Sit Ave,2014-07-04,young_professional,high
+3,Ciaran,Harrison,(522) 598-1365,interdum.feugiat@aol.org,"Apr 29, 1998",United States,Houston,77001,736-2063 Tellus St.,2014-02-15,frequent_shopper,high
+4,Howard,Stafford,1-411-740-3269,ornare.egestas@icloud.edu,"Feb 18, 1989",United States,Phoenix,85001,Ap #545-2244 Erat. Rd.,2014-08-21,premium,high
+5,Hayfa,Pierce,1-554-541-2077,et.malesuada.fames@hotmail.org,"Sep 26, 1998",United States,Philadelphia,19101,341-2821 Ultrices Av.,2013-04-28,frequent_shopper,high
+6,Joel,Tyson,(718) 288-8020,gravida.nunc.sed@yahoo.ca,"Oct 15, 1989",United States,San Jose,95101,888-2799 Amet Street,2013-08-16,young_professional,medium
+7,Rafael,Jimenez,(817) 689-0478,eget@outlook.ca,"Dec 4, 1981",United States,Chicago,60601,8627 Malesuada Rd.,2013-01-15,frequent_shopper,high
+8,Nissim,Franks,(692) 157-3469,egestas.aliquam.fringilla@google.ca,"Aug 1, 1993",United States,New York,10001,Ap #251-7144 Integer St.,2013-02-16,young_professional,medium
+9,Mannix,Mcclain,(590) 883-2184,aliquam.nisl@outlook.com,"Jan 24, 1987",United States,San Antonio,78201,647-3080 Lacus. St.,2014-02-15,young_professional,medium
+10,Robert,Mccarthy,(324) 746-6771,fermentum@protonmail.com,"Apr 30, 1984",United States,San Jose,95101,P.O. Box 773,2013-10-19,premium,high
+11,Joan,Baird,(981) 429-8106,et.11@outlook.net,"Feb 25, 1990",United States,Los Angeles,90001,P.O. Box 687,2013-01-11,premium,very_high
+12,Benedict,Wheeler,1-515-824-2855,tincidunt.donec.vitae@hotmail.couk,"Aug 6, 1999",United States,Phoenix,85001,748-8694 Porttitor Avenue,2013-05-14,student,medium
+13,Allegra,Stanton,1-927-753-6488,proin.eget@protonmail.ca,"May 19, 1990",United States,New York,10001,4457 Ante. Av.,2013-10-29,frequent_shopper,medium
+14,Sara,Flynn,1-311-646-9333,integer@outlook.net,"Dec 27, 1988",United States,Los Angeles,90001,P.O. Box 865,2014-09-08,young_professional,medium
+15,Noelani,Patrick,1-723-488-5894,sem.magna@google.com,"Sep 17, 1993",United States,Los Angeles,90001,596-5044 Sapien,2014-09-15,premium,high
+16,Eric,Roth,1-218-549-8253,lorem.sit@yahoo.net,"Sep 7, 1988",United States,San Diego,92101,P.O. Box 541,2015-10-01,young_professional,medium
+17,Bruce,Gill,(744) 732-8628,metus@aol.net,"Mar 4, 1990",United States,Houston,77001,Ap #836-9508 Vitae,2015-03-16,frequent_shopper,high
+18,Russell,Jimenez,(657) 779-2438,orci@outlook.edu,"Aug 26, 1993",United States,Chicago,60601,4095 Quam Rd.,2014-08-27,occasional,medium
+19,Nicholas,Travis,1-330-223-9652,libero.dui@hotmail.com,"Jul 15, 1981",United States,Los Angeles,90001,Ap #459-539 Lectus Avenue,2013-02-20,young_professional,high
+20,Kelsey,Bates,(653) 724-4754,ullamcorper.nisl@aol.com,"May 6, 1981",United States,San Jose,95101,824-3624 Lacinia St.,2014-12-27,premium,very_high
+21,Hall,Reeves,(241) 759-9235,erat.eget@hotmail.edu,"Jul 22, 1987",United States,Chicago,60601,Ap #745-5948 Sollicitudin St.,2014-02-24,frequent_shopper,low
+22,Allistair,Holmes,1-265-323-0812,donec.tempor.est@protonmail.com,"Nov 5, 1990",United States,Dallas,75201,Ap #794-4229 Ante Rd.,2014-07-21,young_professional,medium
+23,Kelsie,Bass,1-837-832-5631,consequat@google.ca,"Apr 2, 1990",United States,San Antonio,78201,407-7562 A,2014-03-07,family,low
+24,Nolan,Cash,(273) 334-3785,nam@hotmail.com,"Sep 9, 1994",United States,Chicago,60601,501-2733 Luctus. Rd.,2014-03-12,premium,high
+25,Wanda,Campbell,(702) 823-5535,sagittis@google.couk,"May 31, 1999",United States,Phoenix,85001,Ap #337-8747 Auctor. Ave,2014-07-29,young_professional,medium
+26,Aquila,Strickland,1-246-231-5495,enim.sit@icloud.com,"Sep 28, 1982",United States,Philadelphia,19101,Ap #260-4612 Massa Road,2014-01-21,family,medium
+27,Diana,Williamson,1-285-365-7779,id.nunc@google.com,"Dec 14, 1991",United States,Chicago,60601,362-9552 Sed Rd.,2013-12-13,occasional,medium
+28,Elmo,Cain,1-663-583-6021,nec.metus.facilisis@google.org,"Oct 13, 1980",United States,New York,10001,P.O. Box 585,2015-02-02,occasional,low
+29,Deacon,Sharpe,(312) 529-1643,hendrerit@icloud.net,"Sep 19, 1979",United States,Dallas,75201,672-9145 Ullamcorper,2013-06-29,frequent_shopper,medium
+30,Martena,Blackwell,1-336-632-3280,at.nisi.cum@icloud.org,"Feb 21, 1987",United States,San Antonio,78201,641 Lacus. St.,2013-06-26,frequent_shopper,high
+31,Francis,Bryant,(654) 360-7374,quisque.ac.libero@protonmail.edu,"Aug 17, 1992",United States,Phoenix,85001,P.O. Box 596,2014-10-28,young_professional,low
+32,Chase,Yang,1-771-216-5335,pellentesque.eget@google.net,"Apr 23, 1999",United States,New York,10001,207-9951 Mi,2015-04-29,premium,very_high
+33,Venus,Sanders,(679) 326-6342,nec.ante.maecenas@aol.com,"Jan 6, 1990",United States,Philadelphia,19101,4840 Lorem Rd.,2014-09-22,premium,high
+34,Sopoline,Branch,1-557-503-3642,nec@yahoo.org,"Apr 8, 1979",United States,Dallas,75201,745 Vivamus Avenue,2013-12-26,young_professional,medium
+35,Yvonne,Gibson,1-424-288-3275,risus@outlook.org,"Jan 7, 1993",United States,Chicago,60601,Ap #356-7162 Ligula Rd.,2016-03-10,family,medium
+36,Raymond,Thornton,1-581-648-7426,enim.nisl@google.edu,"Dec 6, 1982",United States,San Diego,92101,746-3251 Aptent Avenue,2014-12-24,family,medium
+37,Graiden,Glover,(888) 957-3868,non.hendrerit@hotmail.ca,"Nov 11, 1987",United States,Philadelphia,19101,Ap #497-8090 Vel Avenue,2013-11-01,family,low
+38,Abra,Doyle,(367) 861-9621,augue.eu@outlook.edu,"Aug 22, 1986",United States,Los Angeles,90001,409-9169 Cubilia St.,2014-02-28,occasional,medium
+39,Nyssa,Shaffer,1-899-494-4941,malesuada.fames@google.ca,"Jul 2, 1991",United States,Los Angeles,90001,4215 Libero Road,2014-01-06,family,medium
+40,Astra,Alexander,1-877-546-5066,lectus.nullam.suscipit@google.org,"Mar 12, 1983",United States,San Jose,95101,P.O. Box 384,2013-04-23,family,medium
+41,Uriel,Hebert,1-265-846-2455,donec@outlook.com,"Nov 30, 1981",United States,San Antonio,78201,670-5867 Eget Street,2014-10-06,frequent_shopper,medium
+42,Lucy,Branch,(459) 164-9989,odio.etiam@aol.couk,"Oct 31, 1991",United States,Philadelphia,19101,134-848 Orci,2014-10-05,occasional,medium
+43,Jayme,Chavez,(542) 568-7326,fusce.feugiat@outlook.com,"Jul 29, 1984",United States,San Jose,95101,8659 Enim. Rd.,2013-06-11,occasional,medium
+44,Aquila,Haley,1-951-243-1892,tempus.risus@outlook.edu,"Jan 21, 1996",United States,San Diego,92101,Ap #197-7436 Neque. Road,2014-04-21,young_professional,high
+45,Richard,O'donnell,1-275-844-6782,ac.nulla@outlook.org,"Oct 4, 1986",United States,Phoenix,85001,P.O. Box 333,2013-01-08,occasional,low
+46,Alika,Valdez,(781) 178-0838,dapibus.gravida@yahoo.net,"Aug 8, 1990",United States,Chicago,60601,P.O. Box 580,2014-03-19,young_professional,medium
+47,Herrod,Wright,(575) 645-3218,odio.auctor.vitae@yahoo.edu,"Nov 11, 1999",United States,Chicago,60601,8745 Elementum Road,2015-01-31,frequent_shopper,high
+48,Patrick,Reyes,1-607-729-5993,conubia.nostra@icloud.com,"Jul 29, 1986",United States,San Jose,95101,1150 Etiam Av.,2014-09-01,young_professional,medium
+49,Lev,Roth,1-685-331-7392,auctor.vitae.aliquet@yahoo.net,"Dec 3, 1981",United States,San Antonio,78201,P.O. Box 455,2015-03-14,young_professional,medium
+50,Aretha,Chang,1-634-250-1977,suspendisse.aliquet.molestie@hotmail.edu,"May 11, 1998",United States,Houston,77001,491 Neque St.,2015-03-25,frequent_shopper,high
+51,Lionel,Griffith,1-816-243-8788,ultricies.sem.magna@yahoo.org,"Apr 3, 1993",United States,New York,10001,P.O. Box 191,2013-06-14,family,low
+52,Sheila,Sullivan,(426) 608-1653,arcu.vel@google.edu,"May 17, 1981",United States,Phoenix,85001,Ap #644-7695 Nec,2015-04-03,frequent_shopper,high
+53,Lucas,Lloyd,(513) 819-9413,sagittis.duis.gravida@outlook.net,"Jun 20, 1980",United States,Los Angeles,90001,745-3814 Metus. Rd.,2015-02-14,young_professional,high
+54,Emma,Park,(581) 468-8549,vel.turpis.aliquam@icloud.org,"May 27, 1991",United States,Chicago,60601,Ap #558-7250 Vivamus Rd.,2014-09-16,young_professional,medium
+55,Barrett,Andrews,(573) 474-8979,ligula.consectetuer@protonmail.edu,"Nov 28, 1995",United States,Phoenix,85001,5363 Rhoncus Street,2014-12-01,young_professional,high
+56,Odysseus,Frye,(236) 402-6048,sociis.natoque@outlook.org,"Feb 19, 1983",United States,San Antonio,78201,772-6878 Sociosqu Av.,2014-12-10,occasional,medium
+57,Daquan,Kirk,1-748-565-9125,ultricies@hotmail.ca,"Dec 22, 1994",United States,San Diego,92101,5438 Odio. Avenue,2014-01-21,occasional,medium
+58,Sandra,Owens,1-961-472-4829,eu.enim@icloud.ca,"Oct 14, 1980",United States,Los Angeles,90001,465-230 Ullamcorper,2014-06-16,family,medium
+59,Heather,Bradshaw,1-535-845-1352,luctus.et@aol.couk,"Dec 4, 1984",United States,San Diego,92101,6641 Convallis St.,2015-01-04,frequent_shopper,medium
+60,Roth,Cook,(122) 759-2618,ullamcorper.eu@icloud.edu,"Nov 23, 1996",United States,Los Angeles,90001,Ap #815-8102 Ante. St.,2014-05-15,frequent_shopper,very_high
+61,Duncan,Romero,1-226-441-1416,ligula.aenean.euismod@hotmail.com,"Feb 4, 1990",United States,Houston,77001,267-173 Felis Rd.,2014-08-16,premium,high
+62,Phyllis,Holt,1-806-654-1534,metus.vitae.velit@outlook.couk,"Jun 7, 1987",United States,New York,10001,Ap #111-6364 Libero. Rd.,2014-12-28,frequent_shopper,high
+63,Beverly,Burt,(336) 263-4576,aliquam.enim@aol.edu,"Dec 12, 1996",United States,Philadelphia,19101,P.O. Box 632,2013-04-25,young_professional,medium
+64,Irma,Whitehead,1-332-774-7232,mauris.quis@google.org,"Feb 14, 1988",United States,Philadelphia,19101,393-6189 Sem Ave,2013-08-25,occasional,medium
+65,Yeo,Emerson,(473) 596-9486,lacinia.at.iaculis@aol.net,"Sep 26, 1993",United States,Philadelphia,19101,Ap #897-3426 Orci,2013-10-05,young_professional,high
+66,Bert,Juarez,1-404-537-2914,pede.nec@outlook.net,"Sep 14, 1988",United States,Dallas,75201,757-6748 Placerat St.,2014-03-18,premium,high
+67,Kenneth,Morrison,1-214-178-7152,elementum.sem.vitae@outlook.org,"Sep 10, 1981",United States,Chicago,60601,801-4640 Odio Rd.,2015-03-16,frequent_shopper,low
+68,Whoopi,Ford,1-548-301-4313,enim.diam.vel@google.com,"Apr 30, 1979",United States,Los Angeles,90001,P.O. Box 312,2013-02-11,occasional,medium
+69,Stone,Atkinson,1-751-189-8258,etiam@outlook.com,"Jan 31, 1993",United States,Philadelphia,19101,Ap #820-7449 Tellus Rd.,2013-01-17,family,medium
+70,Debra,Farley,(377) 214-5814,non.justo@aol.com,"Jan 31, 1985",United States,Philadelphia,19101,P.O. Box 855,2014-08-11,occasional,medium
+71,Emerson,Hess,1-342-775-1174,orci.tincidunt.adipiscing@icloud.ca,"May 12, 1984",United States,New York,10001,Ap #191-5633 Lectus Rd.,2013-01-27,young_professional,high
+72,Jael,Robles,(267) 616-3375,lorem.eget.mollis@protonmail.net,"Jun 6, 1983",United States,San Antonio,78201,266 Dictum Avenue,2013-06-17,young_professional,medium
+73,Warren,Christian,1-125-829-9354,malesuada.vel@icloud.ca,"Jan 12, 1993",United States,New York,10001,Ap #323-5264 Convallis Rd.,2014-03-31,frequent_shopper,medium
+74,Zelenia,Good,1-971-397-7840,aenean@google.couk,"Sep 21, 1988",United States,Dallas,75201,176-5987 Sociis St.,2014-04-21,frequent_shopper,high
+75,Colleen,Juarez,1-647-277-0329,sodales@yahoo.edu,"May 25, 1990",United States,Philadelphia,19101,919-2582 Et,2013-05-10,young_professional,low
+76,Glenna,Gutierrez,(567) 428-5368,amet@outlook.couk,"Sep 25, 1990",United States,Chicago,60601,9288 Posuere St.,2015-03-30,young_professional,low
+77,Jared,Compton,1-416-623-5165,vel.quam@outlook.net,"Jan 18, 1999",United States,San Antonio,78201,354-782 Tempor Ave,2013-01-29,student,medium
+78,Camilla,Zimmerman,(403) 839-3861,enim@aol.com,"Nov 20, 1997",United States,San Antonio,78201,Ap #612-9307 Metus Av.,2014-05-27,frequent_shopper,very_high
+79,Preston,Hubbard,(485) 611-5951,in.cursus.et@protonmail.com,"Aug 16, 2000",United States,San Diego,92101,P.O. Box 761,2015-01-14,student,medium
+80,Sophia,Bradford,(795) 358-4243,eu@outlook.com,"Feb 10, 1985",United States,San Jose,95101,Ap #425-5343 Fermentum Rd.,2014-09-15,premium,very_high
+81,Acton,Gallegos,1-784-875-8068,rhoncus.donec@yahoo.org,"Feb 6, 1989",United States,Chicago,60601,5613 Ut St.,2013-11-08,occasional,medium
+82,Stacey,Moses,(768) 696-2845,ante.iaculis.nec@hotmail.edu,"Sep 7, 1985",United States,San Jose,95101,Ap #786-4555 Scelerisque Avenue,2013-05-28,frequent_shopper,low
+83,Dana,Ware,1-997-209-1750,nisi.a@outlook.net,"Nov 29, 1979",United States,San Antonio,78201,Ap #801-3094 Nec Av.,2015-08-16,premium,very_high
+84,Craig,Shepherd,1-817-268-8038,feugiat@protonmail.net,"Jul 21, 1997",United States,San Jose,95101,P.O. Box 629,2013-07-20,frequent_shopper,high
+85,Dawn,Murray,1-818-547-6341,ante.dictum.mi@outlook.couk,"Dec 13, 1989",United States,San Antonio,78201,8209 Morbi Av.,2014-12-14,family,medium
+86,Quintessa,Buckley,1-461-623-4184,justo.sit.amet@hotmail.ca,"Dec 16, 1987",United States,San Antonio,78201,572-4088 Tempor,2013-03-02,frequent_shopper,high
+87,Camden,Carpenter,1-842-231-7504,enim.commodo@google.ca,"Aug 14, 1981",United States,San Diego,92101,5748 Amet Road,2013-02-08,occasional,low
+88,Holmes,Ramsey,(913) 726-8674,id.erat@aol.net,"Jul 3, 1998",United States,San Antonio,78201,P.O. Box 359,2013-04-18,frequent_shopper,high
+89,Lars,Mercado,1-561-562-1561,sem.vitae@aol.net,"Apr 27, 1991",United States,San Diego,92101,Ap #892-9811 Proin St.,2014-06-08,occasional,medium
+90,Alika,Kinney,(625) 262-0063,parturient@hotmail.org,"Jan 3, 1996",United States,Phoenix,85001,P.O. Box 898,2013-01-17,premium,very_high
+91,Serina,Carter,(852) 256-1633,tellus.id.nunc@icloud.com,"Feb 14, 1984",United States,San Antonio,78201,424-6510 Sit Street,2015-03-26,frequent_shopper,low
+92,Lynn,Riddle,1-387-885-4057,vitae.aliquet@outlook.edu,"Sep 21, 1984",United States,San Jose,95101,P.O. Box 712,2013-12-05,young_professional,high
+93,Kimberley,Avila,(614) 862-3520,magna.phasellus@outlook.com,"Apr 4, 1997",United States,San Antonio,78201,269-4732 Maecenas Street,2014-12-28,premium,high
+94,Kim,Zimmerman,(406) 496-7968,sed.dictum@hotmail.couk,"Oct 7, 1981",United States,San Antonio,78201,Ap #274-5686 Nec Rd.,2013-07-19,family,medium
+95,Chase,Ellis,(322) 137-3271,quisque.purus@hotmail.edu,"Dec 19, 2000",United States,Dallas,75201,1311 Accumsan Road,2014-10-17,frequent_shopper,high
+96,Brennan,Wynn,(831) 607-3574,nullam.ut@yahoo.net,"Nov 1, 1988",United States,San Jose,95101,Ap #774-4981 Elementum Avenue,2014-06-22,young_professional,low
+97,Joseph,Davidson,1-184-847-8256,mauris@outlook.net,"Jan 18, 1987",United States,Dallas,75201,P.O. Box 178,2014-12-12,premium,very_high
+98,Cassandra,Ferguson,(594) 318-2465,eu@google.couk,"May 8, 1992",United States,San Jose,95101,497-7857 Eget,2013-03-27,premium,very_high
+99,Reed,Rutledge,1-472-670-2236,facilisis.facilisis@outlook.net,"Feb 17, 1997",United States,Philadelphia,19101,225-6073 Magna Ave,2014-09-21,frequent_shopper,high
+100,Melodie,Mclean,1-677-221-7152,risus.varius@google.ca,"Sep 15, 1989",United States,San Jose,95101,Ap #644-8492 Sagittis St.,2015-04-20,frequent_shopper,very_high
+101,Sarah,Beck,(358) 691-4345,vitae.risus@aol.couk,"Apr 9, 1983",United States,Philadelphia,19101,665-9047 In,2014-08-17,frequent_shopper,high
+102,Jasper,Landry,1-397-765-1118,consectetuer.euismod@aol.org,"Apr 16, 1982",United States,Philadelphia,19101,Ap #374-7325 Sodales Rd.,2014-02-06,young_professional,medium
+103,Upton,Chavez,(227) 785-6484,euismod.est@aol.ca,"Mar 15, 1986",United States,Philadelphia,19101,1990 Vel,2014-06-10,occasional,medium
+104,Martha,Barlow,(732) 326-5448,vulputate@hotmail.net,"Oct 29, 1988",United States,Los Angeles,90001,Ap #311-7103 In Avenue,2013-07-07,frequent_shopper,medium
+105,Hashim,Rose,(858) 313-6727,urna@icloud.com,"Mar 28, 1983",United States,Los Angeles,90001,8034 Tortor,2013-06-20,young_professional,medium
+106,Tanner,Valenzuela,1-346-421-3135,nascetur.ridiculus@google.net,"Apr 6, 1993",United States,Phoenix,85001,Ap #114-2616 Fusce Road,2013-12-30,young_professional,medium
+107,Victor,Valencia,(239) 569-1938,non.enim@hotmail.couk,"May 1, 1998",United States,Chicago,60601,Ap #182-9926 At St.,2014-05-31,frequent_shopper,high
+108,Germaine,Suarez,1-931-750-6983,risus@icloud.com,"Feb 1, 1984",United States,San Antonio,78201,Ap #383-1856 Mauris Avenue,2014-12-23,family,medium
+109,Raven,Reynolds,(667) 453-9731,sed@aol.com,"Jul 11, 1986",United States,Phoenix,85001,P.O. Box 753,2016-02-06,occasional,medium
+110,Neil,Powers,(864) 881-6737,nec.metus@aol.edu,"Sep 3, 1980",United States,Houston,77001,571-2024 Quam Avenue,2013-06-19,premium,very_high
+111,Astra,Baldwin,1-643-565-3266,adipiscing.ligula.aenean@protonmail.net,"Jul 3, 1999",United States,San Antonio,78201,932-8297 Ac Ave,2015-02-20,young_professional,medium
+112,Ryder,Cole,1-572-759-8544,nec.enim.nunc@protonmail.net,"Sep 4, 1990",United States,Houston,77001,Ap #286-4884 Arcu. Avenue,2015-01-09,occasional,low
+113,Risa,Frost,1-712-488-5451,neque.pellentesque@outlook.org,"May 5, 1996",United States,Philadelphia,19101,Ap #678-785 Leo. Road,2013-01-29,frequent_shopper,high
+114,Jasmine,Castro,1-512-143-0648,lorem@google.ca,"Jan 5, 1987",United States,San Jose,95101,9948 Dictum. Road,2013-09-02,young_professional,medium
+115,Urielle,Holman,1-424-793-4354,leo@google.ca,"Oct 11, 1985",United States,Chicago,60601,268-1889 Adipiscing Rd.,2015-01-18,frequent_shopper,very_high
+116,Sacha,Compton,(265) 342-4775,sed.dictum.proin@yahoo.org,"Sep 1, 1981",United States,Los Angeles,90001,Ap #722-5423 Velit. Road,2013-12-25,young_professional,medium
+117,Halla,Pearson,(681) 698-7518,lacus.etiam@protonmail.couk,"Apr 19, 1994",United States,New York,10001,664-903 In,2014-11-20,family,low
+118,Brooke,Jensen,(124) 739-9067,purus.mauris.a@icloud.ca,"Aug 23, 1981",United States,Phoenix,85001,P.O. Box 718,2014-11-01,young_professional,high
+119,Damian,Mcgee,(712) 572-8735,neque.nullam@hotmail.edu,"Sep 20, 1988",United States,Dallas,75201,Ap #383-8201 Orci Street,2013-10-20,occasional,low
+120,Solomon,Blake,1-814-753-4054,in.at.pede@hotmail.edu,"Feb 23, 1990",United States,Chicago,60601,469-4293 Aenean St.,2014-08-08,family,low
+121,Ainsley,Herrera,1-380-341-6875,est.congue@hotmail.couk,"Mar 28, 1996",United States,Los Angeles,90001,779-913 Cras Rd.,2013-05-20,frequent_shopper,very_high
+122,Desiree,Carey,(888) 429-3660,pellentesque.tellus.sem@protonmail.edu,"Sep 10, 1989",United States,San Jose,95101,P.O. Box 651,2014-01-15,frequent_shopper,medium
+123,Dominique,Tillman,1-956-793-8208,vitae.dolor.donec@google.ca,"Sep 28, 1999",United States,Phoenix,85001,618-3352 Amet,2013-10-29,young_professional,medium
+124,Walter,Larsen,(435) 652-7642,et.netus.et@yahoo.net,"Sep 15, 1979",United States,Houston,77001,Ap #946-1494 Mauris Rd.,2013-08-14,frequent_shopper,low
+125,Celeste,Ellis,1-847-855-3441,dapibus.rutrum@yahoo.org,"Jan 29, 1994",United States,San Diego,92101,Ap #521-1005 Dolor Av.,2014-07-25,frequent_shopper,medium
+126,Kim,Mooney,1-252-337-6661,sed.nec@google.org,"Nov 28, 2000",United States,New York,10001,377-2270 Ante St.,2013-11-06,student,medium
+127,Ezra,Beard,(743) 567-0923,morbi.sit@google.com,"Apr 8, 1984",United States,San Antonio,78201,P.O. Box 783,2013-11-26,family,low
+128,Lucas,Dawson,(404) 491-1122,in.consectetuer.ipsum@yahoo.com,"Sep 13, 1983",United States,Phoenix,85001,P.O. Box 926,2015-01-23,frequent_shopper,very_high
+129,Amber,Blevins,(734) 712-6456,nunc@outlook.org,"Aug 14, 1979",United States,Los Angeles,90001,P.O. Box 878,2014-06-01,frequent_shopper,low
+130,Oscar,Neal,1-923-222-4140,magna.nec@icloud.net,"Dec 29, 1983",United States,Los Angeles,90001,653 Posuere Road,2014-11-20,young_professional,medium
+131,Hiram,Preston,(774) 220-4835,ridiculus.mus@yahoo.net,"Jan 14, 1996",United States,San Antonio,78201,P.O. Box 579,2015-01-23,family,low
+132,Gisela,Johnston,(223) 563-2771,accumsan.sed@outlook.couk,"Jul 29, 1993",United States,New York,10001,489-8011 Faucibus Ave,2014-11-21,frequent_shopper,medium
+133,Iona,Soto,1-249-240-5843,tristique.aliquet@protonmail.com,"Apr 15, 1998",United States,Houston,77001,Ap #327-9970 Sollicitudin St.,2013-01-03,frequent_shopper,high
+134,Tiger,Davis,(571) 492-5568,nonummy.ut@hotmail.ca,"Apr 12, 1997",United States,San Diego,92101,P.O. Box 346,2013-04-30,frequent_shopper,high
+135,Zahir,Swanson,(758) 354-1913,nam.ac@hotmail.couk,"Jan 12, 1991",United States,San Jose,95101,684 Sed Ave,2014-08-03,occasional,medium
+136,Sonya,Hobbs,1-508-176-1405,quis.pede@aol.com,"Jan 8, 1981",United States,Philadelphia,19101,Ap #959-1231 Aliquam Road,2014-09-09,occasional,medium
+137,Brody,Goodwin,1-789-944-8575,donec.felis@outlook.couk,"Apr 2, 1982",United States,Houston,77001,779-7842 Dolor Ave,2014-06-25,young_professional,high
+138,Wesley,Bush,1-814-353-8532,fermentum.arcu@hotmail.com,"Feb 8, 1987",United States,San Jose,95101,270-4210 Et,2013-11-28,family,low
+139,Walker,Gibson,1-935-527-2111,ipsum.primis@yahoo.edu,"Jan 20, 1980",United States,Phoenix,85001,P.O. Box 694,2014-06-21,occasional,medium
+140,Oprah,Nicholson,(485) 970-9786,a@google.edu,"Sep 19, 1981",United States,San Antonio,78201,8543 Velit Av.,2013-05-04,occasional,medium
+141,Clark,Hewitt,1-522-475-6115,et.malesuada@aol.couk,"Oct 20, 1997",United States,San Jose,95101,Ap #260-1064 Quisque St.,2013-06-25,occasional,medium
+142,Wyatt,Morris,1-402-317-8621,consequat@google.org,"Oct 11, 1992",United States,Dallas,75201,P.O. Box 436,2013-11-12,frequent_shopper,low
+143,Genevieve,Nolan,1-346-724-1579,quis@outlook.com,"Sep 3, 1990",United States,San Diego,92101,Ap #124-9427 Ante. Rd.,2014-08-16,frequent_shopper,low
+144,Jeanette,Blanchard,1-287-355-3938,amet.dapibus@google.couk,"Jul 6, 1996",United States,Chicago,60601,Ap #529-6734 Ipsum Road,2013-11-14,frequent_shopper,medium
+145,Ursula,Stewart,1-442-838-6756,commodo.auctor.velit@outlook.ca,"Feb 17, 1994",United States,Houston,77001,161-6225 Ac,2014-07-22,premium,high
+146,Priscilla,Skinner,(468) 855-0771,laoreet.lectus@aol.edu,"Jul 31, 1980",United States,Philadelphia,19101,207-6998 At Ave,2013-10-16,young_professional,high
+147,Brody,Talley,(307) 307-2751,metus.sit.amet@outlook.org,"Jun 13, 1991",United States,Houston,77001,469-5852 Tellus Street,2013-06-17,occasional,medium
+148,Kerry,Adkins,(528) 872-1974,augue.eu.tempor@icloud.couk,"Mar 13, 1983",United States,Chicago,60601,Ap #422-4836 Nunc Rd.,2014-11-12,occasional,medium
+149,Brock,Doyle,(265) 140-9567,cursus.a@aol.edu,"Feb 19, 1986",United States,Chicago,60601,Ap #172-5737 Lorem St.,2014-11-24,premium,high
+150,Oleg,Coleman,1-131-139-5673,dis@outlook.edu,"Dec 2, 1981",United States,Chicago,60601,722-3056 Eu,2014-02-26,frequent_shopper,medium
+201,Iola,Powers,018-139-4717,ante.blandit@outlook.edu,"Mar 20, 2000",Canada,Calgary,T1Y 0A1,154-5415 Auctor St.,2014-07-11,frequent_shopper,high
+202,Maxwell,Holden,045-402-7693,donec@hotmail.edu,"Dec 2, 1986",Canada,Edmonton,T5A 0A1,Ap #880-6372 Ultrices. St.,2014-06-19,young_professional,low
+203,Jarrod,Fields,010-741-8105,sit.amet@google.couk,"Jan 6, 1982",Canada,Quebec City,G1A 0A1,441-8969 Rhoncus Road,2013-03-23,young_professional,high
+204,Emerson,Sharp,068-138-9383,ante.iaculis@outlook.ca,"Oct 15, 1994",Canada,Hamilton,L8E 0A1,517-6759 Ut,2014-06-08,occasional,low
+205,Sonya,Mckee,041-151-9737,magna.phasellus.dolor@google.ca,"May 7, 1983",Canada,Calgary,T1Y 0A1,Ap #916-8051 A St.,2013-02-15,family,medium
+206,Harper,Hart,030-656-1670,fringilla.donec@outlook.net,"Nov 17, 2000",Canada,Toronto,M5A 1A1,8588 Massa. Ave,2013-12-26,young_professional,medium
+207,Yvonne,Hatfield,003-854-1445,magna.et.ipsum@google.edu,"Sep 22, 1981",Canada,Hamilton,L8E 0A1,Ap #636-8055 Egestas St.,2013-12-31,frequent_shopper,high
+208,Burke,Graham,064-568-4454,vel@yahoo.org,"Feb 23, 1993",Canada,Toronto,M5A 1A1,Ap #983-6042 Amet Street,2014-02-18,family,low
+209,Athena,Malone,027-280-8275,pellentesque.tincidunt@yahoo.ca,"Dec 14, 1991",Canada,Edmonton,T5A 0A1,Ap #388-8542 Est St.,2014-02-16,frequent_shopper,medium
+210,Slade,Poole,084-771-1363,amet@icloud.com,"Feb 16, 2001",Canada,Kitchener,N2A 0A1,601-6142 Etiam St.,2013-10-05,frequent_shopper,very_high
+211,Larissa,Carpenter,066-617-3711,congue@aol.org,"Jan 21, 1998",Canada,Ottawa,K1A 0A1,7285 Sed St.,2013-08-30,premium,very_high
+212,Zeph,Schmidt,056-157-7412,vestibulum.lorem@hotmail.ca,"Apr 10, 1986",Canada,Kitchener,N2A 0A1,4756 Tempor Rd.,2014-06-08,young_professional,low
+213,Blake,Strickland,067-339-3024,ac.libero.nec@yahoo.com,"Apr 15, 1983",Canada,Calgary,T1Y 0A1,P.O. Box 207,2014-12-06,occasional,low
+214,Cleo,George,026-867-1198,pellentesque.habitant@outlook.net,"Dec 24, 1998",Canada,Edmonton,T5A 0A1,Ap #266-9424 Orci St.,2013-07-29,young_professional,high
+215,Keegan,Watson,058-771-3718,interdum.enim.non@protonmail.edu,"May 2, 1996",Canada,Edmonton,T5A 0A1,270-2964 Aliquet Avenue,2013-10-12,young_professional,medium
+216,Tana,Stout,035-569-5523,et.magnis.dis@aol.net,"Jun 28, 1983",Canada,Winnipeg,R2C 0A1,7884 Vulputate Rd.,2014-01-16,occasional,medium
+217,Avye,Key,016-727-3427,non.dui@yahoo.net,"Mar 16, 1987",Canada,Winnipeg,R2C 0A1,P.O. Box 712,2013-02-02,family,medium
+218,Sonia,Dejesus,091-540-1865,ipsum.porta@google.edu,"Jun 13, 1997",Canada,Calgary,T1Y 0A1,231-8704 Tempor Ave,2014-04-04,family,medium
+219,Ivan,Saunders,036-230-9218,egestas.blandit.nam@icloud.org,"Jul 7, 1985",Canada,Vancouver,V5K 0A1,350-1489 Sit Road,2014-03-06,frequent_shopper,medium
+220,Martha,Roth,077-482-6236,semper.rutrum@yahoo.edu,"Apr 5, 1994",Canada,Montreal,H1A 0A1,Ap #179-4366 Pellentesque St.,2013-04-09,occasional,medium
+221,Sasha,Emerson,024-226-4281,tempor.augue.ac@icloud.couk,"Aug 24, 1981",Canada,Toronto,M5A 1A1,885-8605 Egestas Rd.,2013-06-06,frequent_shopper,medium
+222,Theodore,Barry,098-447-1583,at.pede.cras@google.ca,"Feb 16, 1983",Canada,Ottawa,K1A 0A1,786-2757 Diam Rd.,2014-11-18,young_professional,medium
+223,Linus,Willis,056-347-2535,ultrices.posuere@yahoo.couk,"Mar 23, 1992",Canada,Montreal,H1A 0A1,6491 Cursus St.,2014-06-23,young_professional,high
+224,Raymond,Oneil,001-668-7183,lorem@outlook.ca,"Jan 21, 1987",Canada,Toronto,M5A 1A1,172 Enim. St.,2014-03-16,frequent_shopper,medium
+225,Ursa,Kelly,007-454-7455,vitae.diam@icloud.ca,"Aug 21, 1996",Canada,Winnipeg,R2C 0A1,540-895 Bibendum. Avenue,2015-05-19,family,medium
+226,Willa,Rowland,011-259-1714,sociosqu.ad.litora@outlook.net,"Feb 19, 2001",Canada,Toronto,M5A 1A1,Ap #728-8176 A,2014-03-29,premium,very_high
+227,Idola,Bowen,039-398-2123,gravida.molestie.arcu@outlook.org,"Jan 18, 1991",Canada,Edmonton,T5A 0A1,Ap #685-1370 Curabitur Av.,2015-06-11,young_professional,high
+228,Leonard,Davenport,033-159-5147,venenatis@yahoo.net,"Oct 30, 1989",Canada,Montreal,H1A 0A1,P.O. Box 293,2013-06-12,young_professional,low
+229,Wade,Russell,002-612-8695,ipsum@yahoo.org,"Oct 13, 1987",Canada,Winnipeg,R2C 0A1,579-6807 Tellus Road,2014-06-08,family,medium
+230,Dean,Donovan,064-828-4927,dolor.elit@outlook.org,"Jan 31, 1989",Canada,Edmonton,T5A 0A1,346-6657 Diam Rd.,2014-06-23,premium,very_high
+231,Zoe,Morrow,039-828-3280,lacinia@google.com,"Oct 25, 1987",Canada,Quebec City,G1A 0A1,Ap #672-8013 Natoque St.,2014-10-19,occasional,low
+232,Elijah,Stone,035-145-1918,in@yahoo.net,"Jan 24, 1988",Canada,Kitchener,N2A 0A1,Ap #210-4430 Donec Road,2013-01-27,young_professional,high
+233,Griffith,Golden,056-674-6383,nunc@yahoo.org,"Dec 4, 1989",Canada,Quebec City,G1A 0A1,190-7471 Dolor. Street,2014-01-22,frequent_shopper,high
+234,Camilla,Roach,011-421-2427,tristique.senectus@hotmail.edu,"Feb 27, 1993",Canada,Edmonton,T5A 0A1,Ap #858-5803 Praesent Street,2014-06-20,premium,high
+235,Medge,Nieves,044-518-5071,ac@icloud.couk,"Jun 11, 1993",Canada,Montreal,H1A 0A1,561-787 Pellentesque Street,2014-07-12,occasional,medium
+236,Gemma,Calderon,049-527-1060,in.faucibus.morbi@aol.edu,"Nov 12, 1989",Canada,Ottawa,K1A 0A1,983-9057 Integer Av.,2014-03-31,young_professional,low
+237,Drake,Walsh,048-338-9721,libero.integer@google.edu,"Jan 22, 1984",Canada,Quebec City,G1A 0A1,P.O. Box 511,2014-06-05,family,medium
+238,Chester,Haynes,059-783-3104,ut@protonmail.edu,"Sep 13, 1988",Canada,Quebec City,G1A 0A1,P.O. Box 284,2014-12-27,occasional,medium
+239,Melissa,Cameron,012-127-5563,quisque.varius@protonmail.ca,"Feb 21, 1992",Canada,Ottawa,K1A 0A1,Ap #147-7582 Ante St.,2013-12-10,frequent_shopper,medium
+240,Jada,Porter,074-247-8256,condimentum.donec@aol.ca,"Sep 8, 1987",Canada,Ottawa,K1A 0A1,P.O. Box 557,2014-12-22,occasional,low
+241,Xandra,Spencer,016-322-6574,cursus.in@outlook.net,"Jun 22, 1989",Canada,Montreal,H1A 0A1,P.O. Box 848,2013-11-16,frequent_shopper,medium
+242,Neville,Donovan,027-122-5812,ac@protonmail.edu,"May 21, 1988",Canada,Kitchener,N2A 0A1,326-1559 Nunc. Avenue,2013-06-15,young_professional,medium
+243,Alan,Vazquez,084-548-5311,sapien.gravida.non@protonmail.couk,"Jun 17, 1996",Canada,Toronto,M5A 1A1,697-3023 Donec Road,2015-03-12,frequent_shopper,very_high
+244,Andrew,Strong,037-676-0570,nulla.at@google.ca,"May 17, 1997",Canada,Hamilton,L8E 0A1,P.O. Box 961,2015-02-18,occasional,medium
+245,Iola,Griffith,081-781-2806,magna@protonmail.couk,"May 5, 1995",Canada,Winnipeg,R2C 0A1,P.O. Box 912,2014-02-05,family,low
+246,Lewis,Lynn,061-978-2835,consectetuer.adipiscing@outlook.edu,"Jun 13, 1979",Canada,Toronto,M5A 1A1,Ap #549-4391 Dapibus St.,2014-04-08,young_professional,medium
+247,Olga,Case,083-633-4683,turpis@yahoo.edu,"Jul 4, 1991",Canada,Hamilton,L8E 0A1,P.O. Box 140,2014-10-22,young_professional,medium
+248,Allen,Calhoun,024-836-3222,ipsum.non@outlook.ca,"Nov 1, 1987",Canada,Hamilton,L8E 0A1,Ap #698-8629 Nulla Street,2013-08-30,family,medium
+249,Rhea,Harvey,052-042-5654,proin@protonmail.org,"Jul 2, 1997",Canada,Winnipeg,R2C 0A1,910-7903 Habitant Avenue,2015-03-12,frequent_shopper,high
+250,Hilda,Levy,088-867-5267,et.libero@yahoo.org,"Dec 21, 1994",Canada,Ottawa,K1A 0A1,P.O. Box 306,2014-08-12,family,low
+251,Zane,Collier,098-548-1455,in.aliquet.lobortis@icloud.com,"Aug 25, 1980",Canada,Toronto,M5A 1A1,P.O. Box 309,2013-07-13,premium,very_high
+252,Zephania,Collins,031-817-1549,urna.vivamus@icloud.ca,"Jun 29, 1994",Canada,Toronto,M5A 1A1,237-5532 Donec St.,2013-05-02,frequent_shopper,high
+253,Keane,Parks,048-303-4775,consectetuer.adipiscing@google.edu,"Oct 2, 1986",Canada,Kitchener,N2A 0A1,793-2776 Ornare St.,2014-03-04,young_professional,low
+254,John,Cotton,085-253-4901,diam@yahoo.org,"Sep 26, 1983",Canada,Toronto,M5A 1A1,Ap #324-6329 Ipsum Road,2015-08-21,premium,high
+255,Blaze,Daniel,087-870-8309,felis@protonmail.org,"Oct 11, 1998",Canada,Kitchener,N2A 0A1,811-6644 Id,2013-03-14,family,low
+256,Lane,Paul,044-254-6877,nec.euismod@aol.edu,"Aug 10, 1983",Canada,Edmonton,T5A 0A1,P.O. Box 850,2014-01-05,frequent_shopper,very_high
+257,Heather,Burks,053-588-8671,primis.in@protonmail.com,"Oct 13, 1994",Canada,Edmonton,T5A 0A1,Ap #966-2226 Congue,2013-11-14,premium,high
+258,Stone,Robbins,076-226-5738,tempus.eu.ligula@google.edu,"Jun 26, 1980",Canada,Montreal,H1A 0A1,Ap #169-3524 Quam Street,2014-01-18,frequent_shopper,low
+259,Slade,Downs,034-228-4880,nunc@protonmail.net,"May 28, 1994",Canada,Hamilton,L8E 0A1,Ap #219-2963 Tristique Road,2014-01-25,premium,high
+260,Grace,Rowe,071-756-4297,convallis.convallis@hotmail.edu,"Mar 25, 1987",Canada,Vancouver,V5K 0A1,Ap #417-5793 Tincidunt Rd.,2014-05-30,occasional,low
+261,Violet,Weber,019-661-3744,aliquet.metus@hotmail.couk,"Sep 23, 1984",Canada,Montreal,H1A 0A1,102-5355 Aliquet. Av.,2013-01-14,occasional,low
+262,Brett,Kirby,076-166-2169,auctor.nunc.nulla@outlook.org,"Dec 12, 1988",Canada,Ottawa,K1A 0A1,Ap #431-3047 Adipiscing Rd.,2013-03-28,family,medium
+263,Ima,Hendricks,065-953-8795,diam.proin@icloud.net,"Nov 6, 1990",Canada,Vancouver,V5K 0A1,Ap #750-483 Lorem,2013-05-02,family,medium
+264,Keiko,Guerra,034-741-6314,blandit@outlook.ca,"Dec 12, 1993",Canada,Toronto,M5A 1A1,Ap #243-4259 Lectus Street,2014-11-16,young_professional,low
+265,Chloe,Keith,022-178-1548,arcu.eu@protonmail.org,"Jan 10, 1999",Canada,Winnipeg,R2C 0A1,P.O. Box 289,2014-11-26,student,low
+266,Aiko,Chaney,026-660-1876,ante.ipsum.primis@protonmail.ca,"Oct 16, 1986",Canada,Vancouver,V5K 0A1,821-3499 Sapien. Ave,2014-12-24,frequent_shopper,medium
+267,Ocean,Nelson,079-481-2745,aenean@yahoo.com,"Dec 26, 1991",Canada,Edmonton,T5A 0A1,Ap #732-8357 Pede,2015-05-23,occasional,medium
+268,Clark,Olson,029-086-1867,nunc@icloud.net,"Mar 15, 1987",Canada,Montreal,H1A 0A1,1315 Est Rd.,2015-01-25,occasional,medium
+269,Haley,Fitzpatrick,055-871-6664,in.aliquet@outlook.org,"Jan 10, 1996",Canada,Vancouver,V5K 0A1,P.O. Box 914,2013-07-26,family,medium
+270,Elton,Roberson,096-325-5107,tristique.pharetra@google.net,"Oct 12, 1990",Canada,Winnipeg,R2C 0A1,2857 Natoque Road,2014-12-26,young_professional,high
+271,Leandra,Cherry,089-285-7016,lobortis.quis@hotmail.ca,"Sep 2, 1991",Canada,Edmonton,T5A 0A1,554-9293 Sollicitudin Av.,2014-02-08,young_professional,medium
+272,Hedwig,Gilbert,064-204-8788,sem.eget@icloud.edu,"Apr 16, 1991",Canada,Quebec City,G1A 0A1,P.O. Box 496,2014-01-17,premium,very_high
+273,Hilary,Ferguson,060-710-1604,sapien.molestie.orci@google.edu,"Nov 3, 1981",Canada,Montreal,H1A 0A1,Ap #736-4628 Cras St.,2014-11-20,young_professional,medium
+274,Jameson,Hunt,024-732-2321,fringilla@protonmail.com,"Jan 29, 1982",Canada,Edmonton,T5A 0A1,224-4927 Praesent Ave,2013-09-07,premium,high
+275,Kenyon,Hartman,082-871-7248,convallis.ante.lectus@yahoo.com,"Aug 3, 1982",Canada,Ottawa,K1A 0A1,8564 Facilisi. St.,2014-08-01,young_professional,medium
+501,Tmccok,Sxbscyht,+33-488-7845,tmccok.sxbscyht@example.com,"Jun 12, 1990",Canada,Winnipeg,R2C 0A1,351 Sxbscyht St,2013-10-22,young_professional,medium
+509,Ixiner,Wpbbmtbn,+71-514-2903,ixiner.wpbbmtbn@example.com,"Jun 5, 1996",United States,San Diego,92101,400 Wpbbmtbn St,2014-09-29,young_professional,medium
+513,Dbfuci,Siyehlkk,+88-757-4094,dbfuci.siyehlkk@example.com,"Jun 5, 1967",United States,Houston,77001,157 Siyehlkk St,2014-07-06,established,high
+517,Levfcr,Ioyohudf,+81-119-2350,levfcr.ioyohudf@example.com,"Sep 28, 1970",Canada,Hamilton,L8E 0A1,226 Ioyohudf St,2015-03-05,young_professional,high
+519,Xcacqh,Tpkbooho,+71-990-1059,xcacqh.tpkbooho@example.com,"Aug 17, 1985",United States,San Jose,95101,243 Tpkbooho St,2014-08-22,family,medium
+520,Qdunsj,Vvlsseyy,+80-709-7058,qdunsj.vvlsseyy@example.com,"Oct 17, 2004",Canada,Quebec City,G1A 0A1,661 Vvlsseyy St,2013-01-02,young_professional,low
+529,Euujuw,Mnmrizvy,+87-854-5464,euujuw.mnmrizvy@example.com,"Jul 24, 1980",Canada,Toronto,M5A 1A1,911 Mnmrizvy St,2014-07-07,frequent_shopper,medium
+531,Zixsfe,Hnhefywm,+47-178-8519,zixsfe.hnhefywm@example.com,"Aug 16, 1957",Canada,Toronto,M5A 1A1,138 Hnhefywm St,2013-01-14,established,medium
+534,Sfkpzy,Urntpved,+97-673-5230,sfkpzy.urntpved@example.com,"Sep 17, 1958",Canada,Vancouver,V5K 0A1,122 Urntpved St,2013-05-10,occasional,low
+540,Mppwwg,Edpwpmpd,+68-982-8399,mppwwg.edpwpmpd@example.com,"Jun 25, 1960",United States,Houston,77001,206 Edpwpmpd St,2013-01-28,occasional,medium
+547,Tkvuim,Mgikkuoq,+38-574-9132,tkvuim.mgikkuoq@example.com,"Oct 22, 1984",United States,Phoenix,85001,881 Mgikkuoq St,2014-04-05,frequent_shopper,low
+549,Rlbhdo,Ehskyhsf,+34-324-7672,rlbhdo.ehskyhsf@example.com,"Aug 20, 1984",Canada,Ottawa,K1A 0A1,919 Ehskyhsf St,2013-10-30,frequent_shopper,medium
+553,Msxenc,Rvhyyujf,+41-597-8666,msxenc.rvhyyujf@example.com,"Oct 15, 2000",United States,Chicago,60601,451 Rvhyyujf St,2014-09-22,student,low
+578,Iojnhk,Ovgosdxj,+31-781-3923,iojnhk.ovgosdxj@example.com,"Oct 19, 1995",Canada,Toronto,M5A 1A1,54 Ovgosdxj St,2015-02-17,occasional,medium
+584,Kaious,Oejnagfu,+67-625-3197,kaious.oejnagfu@example.com,"Jul 14, 1994",United States,Philadelphia,19101,856 Oejnagfu St,2013-05-13,young_professional,medium
+590,Ctvsvm,Kfgvpqpd,+73-278-9036,ctvsvm.kfgvpqpd@example.com,"Feb 7, 1996",Canada,Winnipeg,R2C 0A1,813 Kfgvpqpd St,2014-05-28,family,medium
+597,Kmejbl,Mdfpoyhe,+39-414-5721,kmejbl.mdfpoyhe@example.com,"Sep 10, 1953",United States,Philadelphia,19101,203 Mdfpoyhe St,2013-10-11,occasional,low
+599,Imhhfa,Ztzhxbco,+74-888-3342,imhhfa.ztzhxbco@example.com,"Feb 6, 1992",United States,San Diego,92101,356 Ztzhxbco St,2013-07-23,frequent_shopper,medium
+604,Walgbx,Tsvcdjxd,+85-878-7053,walgbx.tsvcdjxd@example.com,"Sep 18, 1952",United States,New York,10001,639 Tsvcdjxd St,2014-07-10,occasional,medium
+605,Jyxxig,Hmnfwvcx,+49-207-6112,jyxxig.hmnfwvcx@example.com,"Nov 9, 1983",Canada,Vancouver,V5K 0A1,598 Hmnfwvcx St,2015-06-21,occasional,medium
+609,Zvnpai,Eanrtfxs,+69-304-1296,zvnpai.eanrtfxs@example.com,"Jul 11, 1955",Canada,Vancouver,V5K 0A1,711 Eanrtfxs St,2013-11-30,established,low
+620,Shjiqe,Lurrmyhd,+55-503-1730,shjiqe.lurrmyhd@example.com,"Nov 17, 1989",Canada,Kitchener,N2A 0A1,398 Lurrmyhd St,2015-11-10,young_professional,low
+621,Iamxlz,Vsrikupg,+76-438-9851,iamxlz.vsrikupg@example.com,"Jan 6, 1969",Canada,Hamilton,L8E 0A1,68 Vsrikupg St,2015-11-25,occasional,medium
+633,Dvzipv,Twuxankm,+68-470-5238,dvzipv.twuxankm@example.com,"Nov 10, 1964",United States,San Jose,95101,296 Twuxankm St,2013-06-10,established,medium
+634,Insghp,Fgulhxzt,+79-570-5470,insghp.fgulhxzt@example.com,"Jul 2, 1977",Canada,Calgary,T1Y 0A1,374 Fgulhxzt St,2014-05-05,family,medium
+644,Vjmtbs,Jlqutihp,+81-323-9128,vjmtbs.jlqutihp@example.com,"Apr 17, 1953",United States,San Antonio,78201,690 Jlqutihp St,2013-09-08,occasional,low
+646,Izdvku,Ksgtfjvm,+93-351-3821,izdvku.ksgtfjvm@example.com,"Feb 19, 1963",United States,San Diego,92101,442 Ksgtfjvm St,2013-11-02,premium,very_high
+649,Gmuvfz,Twuesvie,+34-225-1434,gmuvfz.twuesvie@example.com,"Sep 19, 2000",United States,Chicago,60601,925 Twuesvie St,2013-07-03,student,medium
+651,Tythzs,Fwnlnuhf,+94-698-3925,tythzs.fwnlnuhf@example.com,"Jan 28, 1987",United States,Los Angeles,90001,853 Fwnlnuhf St,2013-05-31,family,low
+655,Bxehom,Lupkzsbr,+69-285-5002,bxehom.lupkzsbr@example.com,"Dec 21, 2005",Canada,Vancouver,V5K 0A1,701 Lupkzsbr St,2015-01-16,frequent_shopper,high
+657,Zqsauw,Irooruxm,+42-262-7778,zqsauw.irooruxm@example.com,"Dec 11, 1963",United States,Dallas,75201,814 Irooruxm St,2013-05-09,established,high
+668,Mbtzmi,Fryrncoj,+68-942-9082,mbtzmi.fryrncoj@example.com,"Apr 17, 1968",United States,Philadelphia,19101,211 Fryrncoj St,2014-06-01,premium,very_high
+673,Iasjuo,Lvbgjnel,+38-265-9113,iasjuo.lvbgjnel@example.com,"Mar 17, 1996",United States,New York,10001,727 Lvbgjnel St,2013-11-07,premium,very_high
+674,Wepmti,Mflpnxgu,+82-691-4250,wepmti.mflpnxgu@example.com,"Apr 8, 1978",Canada,Quebec City,G1A 0A1,986 Mflpnxgu St,2013-04-24,frequent_shopper,medium
+688,Umicgs,Iwgllnhl,+75-388-4780,umicgs.iwgllnhl@example.com,"Aug 3, 1955",Canada,Toronto,M5A 1A1,694 Iwgllnhl St,2013-10-30,established,medium
+690,Morobk,Ibdlnyzr,+81-569-3407,morobk.ibdlnyzr@example.com,"May 9, 1987",Canada,Winnipeg,R2C 0A1,577 Ibdlnyzr St,2013-12-11,young_professional,medium
+699,Ujguzw,Prrieoog,+79-388-6694,ujguzw.prrieoog@example.com,"Sep 12, 1956",Canada,Montreal,H1A 0A1,135 Prrieoog St,2013-05-27,frequent_shopper,very_high
+701,Rokpxk,Qgatijho,+85-317-1724,rokpxk.qgatijho@example.com,"Sep 21, 1976",Canada,Hamilton,L8E 0A1,641 Qgatijho St,2013-10-31,occasional,medium
+702,Nzsvly,Jalncdlu,+37-308-3210,nzsvly.jalncdlu@example.com,"Sep 6, 1951",Canada,Vancouver,V5K 0A1,188 Jalncdlu St,2013-08-08,occasional,low
+706,Fbsnhi,Kpuyaijr,+81-533-9339,fbsnhi.kpuyaijr@example.com,"Sep 6, 1957",Canada,Vancouver,V5K 0A1,159 Kpuyaijr St,2014-07-29,premium,very_high
+710,Ulmwnu,Qxgcmjys,+92-748-5549,ulmwnu.qxgcmjys@example.com,"Jul 7, 2003",United States,Chicago,60601,997 Qxgcmjys St,2014-11-19,frequent_shopper,high
+717,Ogocbh,Hylqvnkf,+44-282-3627,ogocbh.hylqvnkf@example.com,"Aug 2, 2004",Canada,Winnipeg,R2C 0A1,986 Hylqvnkf St,2016-03-28,young_professional,high
+723,Wdgzjh,Wiqjuhfn,+62-276-1153,wdgzjh.wiqjuhfn@example.com,"Apr 23, 1976",Canada,Quebec City,G1A 0A1,792 Wiqjuhfn St,2014-01-16,young_professional,high
+726,Obcflx,Mdlvnljv,+49-864-8616,obcflx.mdlvnljv@example.com,"Apr 13, 2004",United States,San Diego,92101,638 Mdlvnljv St,2013-01-19,young_professional,high
+733,Hezeer,Dvikrshy,+98-553-4875,hezeer.dvikrshy@example.com,"Jul 11, 1987",Canada,Kitchener,N2A 0A1,372 Dvikrshy St,2013-10-06,young_professional,medium
+735,Dtylij,Xhkyakha,+44-633-7397,dtylij.xhkyakha@example.com,"Feb 3, 1951",United States,Philadelphia,19101,733 Xhkyakha St,2013-12-10,occasional,medium
+737,Mxesao,Dmyxpndf,+68-556-5720,mxesao.dmyxpndf@example.com,"Nov 2, 1987",United States,Houston,77001,47 Dmyxpndf St,2014-12-26,family,medium
+744,Unwpxd,Kjbbdpwl,+38-751-3796,unwpxd.kjbbdpwl@example.com,"Jan 24, 1978",Canada,Toronto,M5A 1A1,178 Kjbbdpwl St,2014-12-12,family,medium
+753,Dtxdnw,Eymiaslw,+82-600-5015,dtxdnw.eymiaslw@example.com,"Oct 17, 1993",Canada,Winnipeg,R2C 0A1,606 Eymiaslw St,2014-08-28,occasional,medium
+754,Cqwezq,Gqqoxsnw,+58-425-4852,cqwezq.gqqoxsnw@example.com,"Feb 17, 1954",United States,Los Angeles,90001,31 Gqqoxsnw St,2014-05-12,established,medium
+768,Ujxpwn,Dgfbrflg,+33-505-8075,ujxpwn.dgfbrflg@example.com,"Apr 27, 1986",United States,San Jose,95101,350 Dgfbrflg St,2015-05-17,young_professional,low
+769,Lxgzmv,Vyheldfm,+72-602-6827,lxgzmv.vyheldfm@example.com,"Dec 28, 1969",United States,San Diego,92101,238 Vyheldfm St,2013-01-03,occasional,medium
+795,Ilsytg,Pmwbkhzt,+58-255-3873,ilsytg.pmwbkhzt@example.com,"Dec 6, 1995",United States,Dallas,75201,571 Pmwbkhzt St,2014-03-26,occasional,medium
+800,Epbccz,Muabzpra,+46-508-3118,epbccz.muabzpra@example.com,"Jan 12, 1976",United States,Philadelphia,19101,813 Muabzpra St,2013-06-03,occasional,low
+801,Hrriew,Qgvmnhsn,+74-822-2253,hrriew.qgvmnhsn@example.com,"Jan 21, 1954",Canada,Kitchener,N2A 0A1,145 Qgvmnhsn St,2013-10-31,established,medium
+809,Xnzahg,Nnqgelcj,+94-581-8184,xnzahg.nnqgelcj@example.com,"Dec 17, 1983",United States,Los Angeles,90001,669 Nnqgelcj St,2013-02-12,young_professional,high
+811,Dvvdbu,Pqoyegkc,+46-245-4546,dvvdbu.pqoyegkc@example.com,"Nov 7, 1991",United States,Houston,77001,350 Pqoyegkc St,2014-05-13,premium,high
+820,Myserr,Izepjypb,+65-196-3540,myserr.izepjypb@example.com,"Dec 6, 1976",Canada,Hamilton,L8E 0A1,901 Izepjypb St,2013-01-21,occasional,low
+821,Sckoxi,Xthxvtak,+30-713-9194,sckoxi.xthxvtak@example.com,"May 23, 1992",Canada,Quebec City,G1A 0A1,589 Xthxvtak St,2015-03-26,frequent_shopper,low
+824,Cwgyxr,Cbwrlqfa,+78-335-4817,cwgyxr.cbwrlqfa@example.com,"May 28, 2002",United States,Chicago,60601,740 Cbwrlqfa St,2014-12-16,student,medium
+834,Ffjrqe,Pazdjtgn,+85-446-3606,ffjrqe.pazdjtgn@example.com,"Aug 10, 1967",Canada,Hamilton,L8E 0A1,376 Pazdjtgn St,2013-05-21,established,medium
+848,Jcfbid,Qddufjrs,+59-752-1256,jcfbid.qddufjrs@example.com,"Sep 14, 1993",United States,Phoenix,85001,180 Qddufjrs St,2014-01-08,family,medium
+854,Qnfhnu,Vjdyarxe,+92-874-2612,qnfhnu.vjdyarxe@example.com,"Dec 5, 1956",United States,Phoenix,85001,74 Vjdyarxe St,2015-01-21,occasional,medium
+855,Ulrwry,Mbrwmyxg,+57-915-8737,ulrwry.mbrwmyxg@example.com,"Jul 13, 1972",Canada,Vancouver,V5K 0A1,386 Mbrwmyxg St,2013-04-16,young_professional,medium
+874,Gfvajw,Usslehdu,+79-167-2241,gfvajw.usslehdu@example.com,"Feb 2, 1997",Canada,Vancouver,V5K 0A1,69 Usslehdu St,2014-08-12,occasional,medium
+875,Pxgfkd,Nmdukfxl,+46-444-9089,pxgfkd.nmdukfxl@example.com,"May 18, 2004",United States,Houston,77001,694 Nmdukfxl St,2015-11-29,young_professional,medium
+888,Gmflrn,Roafcntb,+69-267-1797,gmflrn.roafcntb@example.com,"Aug 12, 1960",Canada,Kitchener,N2A 0A1,95 Roafcntb St,2013-11-08,established,high
+889,Pycuph,Utsndydb,+41-783-4460,pycuph.utsndydb@example.com,"Jul 6, 1964",United States,New York,10001,913 Utsndydb St,2013-02-05,established,medium
+891,Nqrlgq,Bmowbqwc,+88-625-1787,nqrlgq.bmowbqwc@example.com,"May 19, 1985",Canada,Toronto,M5A 1A1,86 Bmowbqwc St,2014-01-20,family,medium
+895,Pimesu,Jzyalbpd,+36-755-3737,pimesu.jzyalbpd@example.com,"May 14, 1998",Canada,Quebec City,G1A 0A1,401 Jzyalbpd St,2014-07-13,premium,very_high
+899,Gbbdna,Ddzhlilq,+70-448-6350,gbbdna.ddzhlilq@example.com,"Oct 21, 1953",Canada,Winnipeg,R2C 0A1,594 Ddzhlilq St,2013-04-28,occasional,medium
+902,Qxfudo,Xzqlwwlr,+41-423-3727,qxfudo.xzqlwwlr@example.com,"Dec 13, 2004",Canada,Calgary,T1Y 0A1,777 Xzqlwwlr St,2013-01-26,young_professional,medium
+907,Zwtyhn,Solssgik,+94-191-7839,zwtyhn.solssgik@example.com,"Jan 3, 1996",Canada,Quebec City,G1A 0A1,598 Solssgik St,2014-01-13,frequent_shopper,medium
+909,Ddtrhr,Npgaullk,+87-775-4812,ddtrhr.npgaullk@example.com,"Feb 11, 1978",Canada,Kitchener,N2A 0A1,185 Npgaullk St,2013-06-01,occasional,medium
+910,Fdtmor,Fljmkwlh,+83-693-7704,fdtmor.fljmkwlh@example.com,"Jun 24, 2001",United States,Philadelphia,19101,669 Fljmkwlh St,2013-10-20,young_professional,medium
+915,Tusihl,Opxqdbzn,+96-988-8998,tusihl.opxqdbzn@example.com,"Jun 9, 1968",United States,Philadelphia,19101,942 Opxqdbzn St,2014-09-04,occasional,medium
+919,Rakizn,Gfetksnt,+71-647-6408,rakizn.gfetksnt@example.com,"May 12, 1962",Canada,Toronto,M5A 1A1,877 Gfetksnt St,2013-05-26,established,high
+930,Hleyaw,Cubdprku,+77-311-1346,hleyaw.cubdprku@example.com,"Apr 2, 1978",Canada,Toronto,M5A 1A1,345 Cubdprku St,2014-03-15,occasional,medium
+934,Syjiep,Dfnmpqpt,+50-357-2314,syjiep.dfnmpqpt@example.com,"Dec 16, 1993",Canada,Calgary,T1Y 0A1,603 Dfnmpqpt St,2014-04-28,premium,high
+936,Freqzt,Ewyywkgw,+67-501-5484,freqzt.ewyywkgw@example.com,"Nov 1, 1982",United States,Philadelphia,19101,686 Ewyywkgw St,2014-10-23,occasional,low
+940,Hsmkhe,Bqjrjwdj,+50-734-3564,hsmkhe.bqjrjwdj@example.com,"May 17, 1953",United States,Phoenix,85001,401 Bqjrjwdj St,2014-10-17,established,medium
+956,Qkbfuz,Vejosnmq,+61-933-7564,qkbfuz.vejosnmq@example.com,"Nov 7, 1981",United States,San Antonio,78201,453 Vejosnmq St,2014-06-07,family,medium
+962,Yznazz,Ghaqwsng,+77-541-5415,yznazz.ghaqwsng@example.com,"Apr 12, 1999",Canada,Montreal,H1A 0A1,248 Ghaqwsng St,2014-05-24,student,low
+968,Qlgyyr,Ilgmdwzt,+78-155-7487,qlgyyr.ilgmdwzt@example.com,"Oct 16, 1955",United States,Phoenix,85001,839 Ilgmdwzt St,2013-11-16,occasional,low
+972,Kkdhnb,Efdljsnr,+44-756-1226,kkdhnb.efdljsnr@example.com,"Apr 27, 1958",Canada,Montreal,H1A 0A1,622 Efdljsnr St,2014-09-29,occasional,high
+974,Hhibqc,Mgxuikbt,+79-417-9624,hhibqc.mgxuikbt@example.com,"Oct 8, 1995",Canada,Hamilton,L8E 0A1,915 Mgxuikbt St,2013-10-07,occasional,low
+979,Ajdutj,Sminkyrk,+60-698-4012,ajdutj.sminkyrk@example.com,"Jun 10, 1964",United States,San Jose,95101,751 Sminkyrk St,2013-08-06,occasional,medium
+981,Rrcxpi,Vgqksfdy,+37-826-3307,rrcxpi.vgqksfdy@example.com,"Oct 12, 1973",United States,Phoenix,85001,381 Vgqksfdy St,2014-09-13,occasional,low
+996,Rnjbqu,Kepprupi,+36-736-3647,rnjbqu.kepprupi@example.com,"Mar 22, 1970",Canada,Calgary,T1Y 0A1,973 Kepprupi St,2013-12-19,family,medium
+998,Senxyp,Wjtliptg,+76-168-2201,senxyp.wjtliptg@example.com,"Jan 11, 1950",Canada,Edmonton,T5A 0A1,179 Wjtliptg St,2013-12-19,established,medium
+1006,Rbkocq,Swkmynuj,+38-186-8580,rbkocq.swkmynuj@example.com,"Dec 2, 1989",United States,New York,10001,567 Swkmynuj St,2014-12-09,frequent_shopper,medium
+1011,Vosctr,Cpmnpofu,+74-726-8327,vosctr.cpmnpofu@example.com,"Mar 21, 1954",United States,San Jose,95101,775 Cpmnpofu St,2015-08-14,established,high
+1015,Ydxljl,Yhswlpqn,+84-730-3250,ydxljl.yhswlpqn@example.com,"Nov 13, 2000",Canada,Hamilton,L8E 0A1,209 Yhswlpqn St,2013-05-29,young_professional,medium
+1018,Ugddlo,Zpbkcjgo,+78-537-1497,ugddlo.zpbkcjgo@example.com,"Aug 7, 1950",United States,Chicago,60601,47 Zpbkcjgo St,2013-03-08,established,medium
+1037,Igeldc,Blnegpaz,+64-495-5490,igeldc.blnegpaz@example.com,"Oct 26, 2000",Canada,Hamilton,L8E 0A1,634 Blnegpaz St,2013-09-16,student,low
+1042,Gfmdyb,Kjyosqmc,+63-719-3839,gfmdyb.kjyosqmc@example.com,"Nov 26, 1960",United States,Houston,77001,408 Kjyosqmc St,2013-06-21,occasional,high
+1061,Xxjhpb,Esshjbff,+79-146-7104,xxjhpb.esshjbff@example.com,"Jan 5, 1992",United States,New York,10001,218 Esshjbff St,2013-12-20,family,medium
+1062,Fiupbm,Uvpqbcjh,+73-965-8428,fiupbm.uvpqbcjh@example.com,"Oct 23, 1989",Canada,Vancouver,V5K 0A1,976 Uvpqbcjh St,2014-10-24,frequent_shopper,medium
+1068,Ekbvch,Ttzhirtl,+87-595-7198,ekbvch.ttzhirtl@example.com,"Jan 5, 2003",United States,New York,10001,10 Ttzhirtl St,2014-04-22,frequent_shopper,high
+1074,Dzosao,Iycoxmwy,+45-787-2146,dzosao.iycoxmwy@example.com,"Jan 14, 1962",Canada,Winnipeg,R2C 0A1,999 Iycoxmwy St,2013-07-27,established,medium
+1076,Vgsagv,Mjcfblcc,+57-333-8302,vgsagv.mjcfblcc@example.com,"Nov 18, 2001",Canada,Toronto,M5A 1A1,574 Mjcfblcc St,2013-02-24,frequent_shopper,high
+1078,Uqsdld,Bmljvasd,+41-918-1411,uqsdld.bmljvasd@example.com,"Oct 1, 1957",Canada,Toronto,M5A 1A1,807 Bmljvasd St,2015-09-07,established,medium
+1079,Bwuygk,Dojofrsi,+31-534-6318,bwuygk.dojofrsi@example.com,"Jun 11, 1987",United States,Philadelphia,19101,831 Dojofrsi St,2013-12-14,premium,very_high
+1080,Jmiwhi,Forpdybe,+90-778-9893,jmiwhi.forpdybe@example.com,"Feb 4, 1953",Canada,Ottawa,K1A 0A1,560 Forpdybe St,2013-09-05,occasional,medium
+1090,Uwoedf,Hmbkesqk,+44-727-1454,uwoedf.hmbkesqk@example.com,"Aug 20, 1997",United States,Los Angeles,90001,216 Hmbkesqk St,2013-05-29,occasional,low
+1093,Zcdezm,Sgyfdasv,+37-314-8037,zcdezm.sgyfdasv@example.com,"Mar 23, 1980",Canada,Calgary,T1Y 0A1,969 Sgyfdasv St,2014-04-01,frequent_shopper,high
+1098,Kbnfda,Slporeap,+39-365-4019,kbnfda.slporeap@example.com,"Aug 25, 1975",Canada,Edmonton,T5A 0A1,652 Slporeap St,2015-02-23,occasional,medium
+1107,Sikxai,Bhznujdk,+81-874-3538,sikxai.bhznujdk@example.com,"Sep 23, 1960",Canada,Kitchener,N2A 0A1,678 Bhznujdk St,2014-05-24,established,low
+1121,Pubhvh,Hpasmzgy,+76-796-1359,pubhvh.hpasmzgy@example.com,"Jun 4, 1986",Canada,Edmonton,T5A 0A1,612 Hpasmzgy St,2013-04-24,family,medium
+1123,Zlbojb,Lesbehre,+71-341-3001,zlbojb.lesbehre@example.com,"Apr 3, 1967",Canada,Vancouver,V5K 0A1,913 Lesbehre St,2015-02-09,premium,very_high
+1126,Fthblq,Mhjnjsna,+91-344-1046,fthblq.mhjnjsna@example.com,"Apr 24, 1976",United States,Philadelphia,19101,138 Mhjnjsna St,2013-06-29,frequent_shopper,medium
+1128,Pqcuyl,Mphdvnep,+71-744-9313,pqcuyl.mphdvnep@example.com,"Dec 19, 1961",United States,Chicago,60601,668 Mphdvnep St,2014-04-11,occasional,medium
+1135,Farsui,Nsufsqbp,+52-639-4576,farsui.nsufsqbp@example.com,"Jun 12, 1996",Canada,Kitchener,N2A 0A1,697 Nsufsqbp St,2013-05-23,frequent_shopper,very_high
+1141,Xbixfz,Gcptgcfd,+97-714-1923,xbixfz.gcptgcfd@example.com,"Oct 27, 1953",Canada,Ottawa,K1A 0A1,375 Gcptgcfd St,2014-05-05,established,medium
+1144,Rxxrge,Stjycxil,+50-930-3979,rxxrge.stjycxil@example.com,"Apr 12, 1971",United States,New York,10001,232 Stjycxil St,2014-11-09,frequent_shopper,high
+1145,Moaqli,Sjtybxmc,+57-670-2711,moaqli.sjtybxmc@example.com,"Jul 27, 1980",United States,Houston,77001,675 Sjtybxmc St,2013-08-04,young_professional,medium
+1148,Ihtvyu,Kbwehplg,+85-206-8442,ihtvyu.kbwehplg@example.com,"Oct 12, 1962",Canada,Ottawa,K1A 0A1,846 Kbwehplg St,2015-12-27,established,high
+1164,Rbnfju,Czwjoztq,+71-518-5535,rbnfju.czwjoztq@example.com,"Nov 27, 1968",United States,Dallas,75201,246 Czwjoztq St,2013-03-14,established,medium
+1171,Regkhd,Cfhyxqvy,+59-857-5432,regkhd.cfhyxqvy@example.com,"Aug 21, 1986",United States,San Diego,92101,541 Cfhyxqvy St,2013-05-10,frequent_shopper,medium
+1179,Mdzmux,Jevmrmua,+87-424-9435,mdzmux.jevmrmua@example.com,"Dec 22, 2004",Canada,Kitchener,N2A 0A1,976 Jevmrmua St,2015-02-07,premium,very_high
+1186,Jieazb,Ymoyfxuc,+56-194-9895,jieazb.ymoyfxuc@example.com,"Dec 21, 1956",United States,San Diego,92101,268 Ymoyfxuc St,2013-09-10,occasional,high
+1188,Azeikf,Nkdmfgrr,+30-222-6406,azeikf.nkdmfgrr@example.com,"May 25, 1954",Canada,Kitchener,N2A 0A1,612 Nkdmfgrr St,2015-04-13,occasional,medium
+1195,Gmnbnu,Oxdvhkll,+44-696-5746,gmnbnu.oxdvhkll@example.com,"Jan 10, 1994",United States,Philadelphia,19101,100 Oxdvhkll St,2014-01-16,frequent_shopper,medium
+1198,Rljdeh,Lcxfovsl,+52-574-2271,rljdeh.lcxfovsl@example.com,"Jun 20, 1979",United States,Los Angeles,90001,248 Lcxfovsl St,2015-06-21,family,low
+1209,Euvhav,Zuofkzhk,+33-558-6150,euvhav.zuofkzhk@example.com,"Dec 27, 1958",United States,New York,10001,747 Zuofkzhk St,2014-01-27,established,medium
+1211,Bbvmdp,Wmpausse,+77-925-9234,bbvmdp.wmpausse@example.com,"Sep 6, 1993",United States,Los Angeles,90001,312 Wmpausse St,2016-01-08,premium,very_high
+1221,Kynjmc,Bypvbffi,+43-251-2806,kynjmc.bypvbffi@example.com,"Nov 9, 1965",United States,San Antonio,78201,337 Bypvbffi St,2013-05-08,established,medium
+1229,Jkrgzq,Sqfrxdij,+54-512-7227,jkrgzq.sqfrxdij@example.com,"May 8, 2003",Canada,Kitchener,N2A 0A1,303 Sqfrxdij St,2015-04-26,frequent_shopper,high
+1230,Leginv,Pigidlnq,+38-596-1050,leginv.pigidlnq@example.com,"Jan 27, 1966",United States,Philadelphia,19101,409 Pigidlnq St,2014-03-23,established,medium
+1239,Fjngga,Ykxdhzdu,+69-430-3586,fjngga.ykxdhzdu@example.com,"Sep 27, 2003",Canada,Winnipeg,R2C 0A1,725 Ykxdhzdu St,2013-09-11,student,medium
+1250,Sdlfdx,Dtdyiwov,+89-364-2939,sdlfdx.dtdyiwov@example.com,"May 25, 1950",United States,San Jose,95101,929 Dtdyiwov St,2013-10-14,occasional,low
+1251,Ouogbi,Grgrfehg,+86-555-9927,ouogbi.grgrfehg@example.com,"May 1, 1995",Canada,Hamilton,L8E 0A1,419 Grgrfehg St,2015-02-17,family,medium
+1252,Ndfnwn,Mctopyxw,+53-277-2471,ndfnwn.mctopyxw@example.com,"Feb 19, 1982",Canada,Quebec City,G1A 0A1,834 Mctopyxw St,2014-11-21,young_professional,low
+1256,Tcmiub,Poucronm,+86-388-3570,tcmiub.poucronm@example.com,"Apr 16, 1968",Canada,Hamilton,L8E 0A1,680 Poucronm St,2014-04-02,established,medium
+1259,Olbnxq,Rglpnmvp,+48-727-2758,olbnxq.rglpnmvp@example.com,"Dec 9, 1996",United States,San Antonio,78201,823 Rglpnmvp St,2013-05-29,family,low
+1263,Ycfdjr,Pvhyyocv,+65-165-8542,ycfdjr.pvhyyocv@example.com,"Oct 21, 1988",United States,Los Angeles,90001,825 Pvhyyocv St,2013-09-20,frequent_shopper,high
+1264,Wshyuo,Lobshirq,+65-332-1721,wshyuo.lobshirq@example.com,"Jun 15, 1960",United States,Dallas,75201,523 Lobshirq St,2013-09-17,established,medium
+1266,Fsgwqn,Fvwrefig,+51-904-9897,fsgwqn.fvwrefig@example.com,"Mar 9, 1990",United States,San Diego,92101,163 Fvwrefig St,2013-04-11,family,medium
+1276,Mssdnv,Qotkphyj,+30-851-4602,mssdnv.qotkphyj@example.com,"Sep 28, 1957",Canada,Toronto,M5A 1A1,309 Qotkphyj St,2014-02-24,established,medium
+1284,Hhbred,Extswhhr,+74-147-2392,hhbred.extswhhr@example.com,"Mar 14, 1975",Canada,Quebec City,G1A 0A1,375 Extswhhr St,2013-03-04,frequent_shopper,high
+1291,Xocdhg,Xqrveeja,+74-510-4761,xocdhg.xqrveeja@example.com,"Oct 27, 1965",United States,Dallas,75201,895 Xqrveeja St,2015-02-07,established,medium
+1292,Rnofxp,Hczrtbck,+34-160-5657,rnofxp.hczrtbck@example.com,"Jun 16, 1957",Canada,Edmonton,T5A 0A1,499 Hczrtbck St,2013-04-02,established,medium
+1293,Bxpetx,Mryyldwa,+94-696-4436,bxpetx.mryyldwa@example.com,"Jan 18, 1953",United States,Philadelphia,19101,395 Mryyldwa St,2014-08-21,premium,very_high
+1297,Ukrowl,Qqjclmlo,+56-938-8672,ukrowl.qqjclmlo@example.com,"May 15, 1957",United States,Dallas,75201,555 Qqjclmlo St,2014-07-28,established,medium
+1298,Xgjjnd,Hgtpiaqr,+89-245-6739,xgjjnd.hgtpiaqr@example.com,"Oct 12, 1979",Canada,Hamilton,L8E 0A1,67 Hgtpiaqr St,2014-08-14,young_professional,medium
+1301,Sfkunt,Wkabvygz,+86-274-8229,sfkunt.wkabvygz@example.com,"May 6, 1986",Canada,Calgary,T1Y 0A1,101 Wkabvygz St,2014-02-27,family,medium
+1305,Hrotfs,Ofvhiyok,+65-572-2875,hrotfs.ofvhiyok@example.com,"Mar 23, 1987",United States,Houston,77001,797 Ofvhiyok St,2015-09-13,frequent_shopper,medium
+1309,Posiwu,Bjtqeobf,+69-838-7050,posiwu.bjtqeobf@example.com,"Feb 28, 1958",Canada,Hamilton,L8E 0A1,527 Bjtqeobf St,2013-12-04,established,low
+1312,Jpsjbp,Vdfeahkm,+74-646-2474,jpsjbp.vdfeahkm@example.com,"Nov 9, 2004",United States,Dallas,75201,804 Vdfeahkm St,2014-04-10,student,low
+1321,Hzndfu,Lcnvbhyt,+95-122-4524,hzndfu.lcnvbhyt@example.com,"Jul 28, 2000",Canada,Hamilton,L8E 0A1,909 Lcnvbhyt St,2014-12-04,student,medium
+1326,Epfowu,Zsuerskb,+90-373-1953,epfowu.zsuerskb@example.com,"Mar 25, 1983",Canada,Hamilton,L8E 0A1,994 Zsuerskb St,2014-09-21,occasional,medium
+1327,Xojakp,Lwbliosn,+94-639-1505,xojakp.lwbliosn@example.com,"Dec 7, 1976",Canada,Hamilton,L8E 0A1,29 Lwbliosn St,2014-07-18,young_professional,medium
+1333,Znurzn,Lhqdwshp,+37-112-1022,znurzn.lhqdwshp@example.com,"Aug 22, 1992",Canada,Montreal,H1A 0A1,674 Lhqdwshp St,2013-08-15,family,medium
+1337,Ewrmsm,Elhgiczk,+93-869-1351,ewrmsm.elhgiczk@example.com,"Jan 16, 1977",Canada,Calgary,T1Y 0A1,235 Elhgiczk St,2014-02-26,frequent_shopper,medium
+1347,Erwttq,Eyfgrdxb,+30-621-6719,erwttq.eyfgrdxb@example.com,"Jul 4, 2000",Canada,Ottawa,K1A 0A1,722 Eyfgrdxb St,2014-09-17,frequent_shopper,very_high
+1354,Pulfso,Zdixccny,+93-304-6786,pulfso.zdixccny@example.com,"Nov 18, 1993",Canada,Kitchener,N2A 0A1,152 Zdixccny St,2014-01-28,frequent_shopper,very_high
+1359,Ccgwmi,Tdtpnalu,+96-984-6209,ccgwmi.tdtpnalu@example.com,"Feb 21, 1969",Canada,Toronto,M5A 1A1,696 Tdtpnalu St,2017-05-03,occasional,medium
+1365,Njjdhd,Khrwciwl,+67-379-5897,njjdhd.khrwciwl@example.com,"Sep 25, 1964",Canada,Montreal,H1A 0A1,445 Khrwciwl St,2013-08-20,occasional,medium
+1367,Ubutrz,Xrjltlon,+54-595-5792,ubutrz.xrjltlon@example.com,"Aug 2, 1951",Canada,Ottawa,K1A 0A1,920 Xrjltlon St,2014-12-27,occasional,medium
+1373,Soyzgv,Wugjlgxe,+36-881-6236,soyzgv.wugjlgxe@example.com,"Jun 21, 1990",Canada,Winnipeg,R2C 0A1,264 Wugjlgxe St,2013-06-22,young_professional,low
+1379,Puhbur,Nowbutaa,+31-882-8003,puhbur.nowbutaa@example.com,"Jul 6, 1962",Canada,Winnipeg,R2C 0A1,159 Nowbutaa St,2014-03-25,established,medium
+1382,Rpmoqu,Prftlkms,+51-643-9685,rpmoqu.prftlkms@example.com,"Dec 24, 1969",Canada,Quebec City,G1A 0A1,562 Prftlkms St,2013-07-19,occasional,low
+1400,Ydkhjc,Wilqzhig,+65-825-5766,ydkhjc.wilqzhig@example.com,"Jun 24, 1959",United States,Los Angeles,90001,161 Wilqzhig St,2014-09-13,established,high
+1401,Devnbq,Zlqgskuu,+71-537-6029,devnbq.zlqgskuu@example.com,"Sep 22, 1950",Canada,Quebec City,G1A 0A1,950 Zlqgskuu St,2013-01-17,frequent_shopper,very_high
+1405,Chjqfw,Pzbfjhvp,+61-591-8811,chjqfw.pzbfjhvp@example.com,"Jul 24, 1975",Canada,Quebec City,G1A 0A1,242 Pzbfjhvp St,2014-01-01,frequent_shopper,very_high
+1408,Gowerg,Qiodrcxd,+93-579-2947,gowerg.qiodrcxd@example.com,"Sep 25, 1988",Canada,Calgary,T1Y 0A1,609 Qiodrcxd St,2013-07-30,occasional,medium
+1423,Gdonys,Megqewgn,+76-114-3680,gdonys.megqewgn@example.com,"Mar 27, 1975",Canada,Vancouver,V5K 0A1,168 Megqewgn St,2014-05-06,family,medium
+1427,Opkamm,Qanyjgtc,+95-765-7076,opkamm.qanyjgtc@example.com,"Nov 7, 1977",United States,Phoenix,85001,167 Qanyjgtc St,2013-12-18,family,low
+1435,Bbrrkv,Igrbrpxu,+54-619-9309,bbrrkv.igrbrpxu@example.com,"Mar 22, 1997",United States,Phoenix,85001,592 Igrbrpxu St,2014-09-15,frequent_shopper,low
+1439,Wcklqx,Tdhtsmee,+94-459-6451,wcklqx.tdhtsmee@example.com,"Feb 5, 1984",United States,Phoenix,85001,194 Tdhtsmee St,2013-08-11,frequent_shopper,high
+1440,Xggljb,Xpqrbgpi,+80-512-9699,xggljb.xpqrbgpi@example.com,"Jun 2, 1968",United States,Houston,77001,667 Xpqrbgpi St,2013-11-25,established,medium
+1446,Nfdguz,Pamqcynz,+98-214-7036,nfdguz.pamqcynz@example.com,"Dec 8, 1999",United States,Philadelphia,19101,778 Pamqcynz St,2014-07-15,student,medium
+1447,Broxpu,Ajasvqja,+33-167-4704,broxpu.ajasvqja@example.com,"Jun 16, 1982",United States,Philadelphia,19101,766 Ajasvqja St,2014-09-09,family,medium
+1448,Xehhyn,Szgvpbym,+92-502-5093,xehhyn.szgvpbym@example.com,"Jul 5, 2005",Canada,Hamilton,L8E 0A1,924 Szgvpbym St,2013-07-09,frequent_shopper,high
+1452,Mtnxog,Wwaqmvaa,+60-466-6922,mtnxog.wwaqmvaa@example.com,"Nov 11, 1997",United States,San Antonio,78201,609 Wwaqmvaa St,2014-11-07,frequent_shopper,medium
+1463,Ovrblb,Wnappxxt,+76-683-9168,ovrblb.wnappxxt@example.com,"Feb 27, 1990",Canada,Quebec City,G1A 0A1,611 Wnappxxt St,2014-01-09,frequent_shopper,medium
+1475,Udqhih,Aravuryw,+63-834-2528,udqhih.aravuryw@example.com,"Mar 25, 1979",United States,Philadelphia,19101,907 Aravuryw St,2013-10-15,occasional,medium
+1479,Dqlckm,Usiwlkip,+33-159-9696,dqlckm.usiwlkip@example.com,"Apr 24, 1969",Canada,Kitchener,N2A 0A1,623 Usiwlkip St,2014-06-06,occasional,medium
+1485,Erzqgr,Nuqsnmph,+47-119-8125,erzqgr.nuqsnmph@example.com,"May 9, 1999",United States,San Jose,95101,154 Nuqsnmph St,2013-07-02,student,low
+1492,Nanotk,Yximutuu,+64-931-7590,nanotk.yximutuu@example.com,"Dec 3, 1984",United States,San Diego,92101,362 Yximutuu St,2013-05-04,occasional,medium
+1494,Iqahhf,Byrhtpyc,+99-666-7272,iqahhf.byrhtpyc@example.com,"Feb 24, 1974",Canada,Ottawa,K1A 0A1,700 Byrhtpyc St,2014-02-18,premium,high
+1497,Etcuyh,Irysyzge,+55-760-9477,etcuyh.irysyzge@example.com,"Mar 18, 2005",Canada,Quebec City,G1A 0A1,335 Irysyzge St,2014-11-17,young_professional,low
+1510,Cvcgdt,Cwjjsyun,+62-201-2338,cvcgdt.cwjjsyun@example.com,"Aug 2, 2000",Canada,Kitchener,N2A 0A1,578 Cwjjsyun St,2013-05-02,young_professional,high
+1513,Lcfmoq,Tgikafkn,+95-219-6208,lcfmoq.tgikafkn@example.com,"Dec 16, 1984",Canada,Calgary,T1Y 0A1,700 Tgikafkn St,2014-05-12,family,medium
+1517,Sgtswb,Deezpsud,+74-279-8171,sgtswb.deezpsud@example.com,"Jan 5, 1993",United States,Philadelphia,19101,879 Deezpsud St,2013-05-29,premium,high
+1519,Ypbcst,Rddaieum,+84-389-4284,ypbcst.rddaieum@example.com,"Jun 2, 1973",Canada,Quebec City,G1A 0A1,751 Rddaieum St,2015-06-23,premium,high
+1525,Zfmqbw,Okfbznam,+47-325-7907,zfmqbw.okfbznam@example.com,"Jul 2, 1989",Canada,Kitchener,N2A 0A1,836 Okfbznam St,2014-10-25,occasional,medium
+1528,Efwjip,Cdqvbptx,+94-863-1582,efwjip.cdqvbptx@example.com,"Mar 7, 1994",Canada,Calgary,T1Y 0A1,813 Cdqvbptx St,2014-08-21,frequent_shopper,high
+1533,Ovtrrz,Kvxgfehi,+69-584-8220,ovtrrz.kvxgfehi@example.com,"Jan 6, 1967",United States,Los Angeles,90001,206 Kvxgfehi St,2015-05-10,established,low
+1537,Octmrm,Byspmgak,+95-854-4804,octmrm.byspmgak@example.com,"Nov 10, 1996",United States,Philadelphia,19101,747 Byspmgak St,2014-06-25,frequent_shopper,high
+1538,Rpbixr,Dutkjrzw,+77-831-8612,rpbixr.dutkjrzw@example.com,"Jan 26, 2000",United States,Philadelphia,19101,915 Dutkjrzw St,2014-07-16,student,medium
+1547,Bfidhy,Tpqblcsp,+87-426-9538,bfidhy.tpqblcsp@example.com,"Mar 18, 1984",United States,San Diego,92101,859 Tpqblcsp St,2013-03-29,family,medium
+1555,Japghu,Cnfabcxd,+56-176-4202,japghu.cnfabcxd@example.com,"Feb 1, 1988",Canada,Toronto,M5A 1A1,684 Cnfabcxd St,2014-02-25,family,medium
+1557,Dnvazd,Bfzbpmth,+65-109-8290,dnvazd.bfzbpmth@example.com,"Jun 14, 1985",United States,San Antonio,78201,982 Bfzbpmth St,2014-12-04,occasional,low
+1558,Xksmcq,Nqklbzvw,+37-389-8166,xksmcq.nqklbzvw@example.com,"Nov 25, 1983",Canada,Ottawa,K1A 0A1,132 Nqklbzvw St,2013-01-30,premium,high
+1561,Itypdg,Bqmhsfek,+32-538-6437,itypdg.bqmhsfek@example.com,"May 13, 1992",United States,Phoenix,85001,475 Bqmhsfek St,2013-05-16,occasional,medium
+1567,Lrhyij,Gpxicvbl,+61-893-5029,lrhyij.gpxicvbl@example.com,"Dec 9, 1971",Canada,Ottawa,K1A 0A1,896 Gpxicvbl St,2013-05-09,young_professional,high
+1571,Xyejxn,Oxlnuatg,+50-956-9492,xyejxn.oxlnuatg@example.com,"Jun 20, 1951",United States,Philadelphia,19101,721 Oxlnuatg St,2016-02-02,occasional,medium
+1578,Wnrrrc,Vufbjbbw,+57-145-7517,wnrrrc.vufbjbbw@example.com,"May 26, 1984",Canada,Hamilton,L8E 0A1,102 Vufbjbbw St,2015-05-16,family,medium
+1584,Tsiaqa,Gyfiadne,+74-588-5915,tsiaqa.gyfiadne@example.com,"Jul 8, 2001",United States,San Jose,95101,535 Gyfiadne St,2013-10-29,student,medium
+1588,Opqbxp,Dzkzwckv,+53-369-5005,opqbxp.dzkzwckv@example.com,"Jul 10, 1973",United States,Dallas,75201,975 Dzkzwckv St,2013-04-22,premium,high
+1593,Iahtqy,Dmxjpssv,+87-616-6737,iahtqy.dmxjpssv@example.com,"Dec 16, 2001",United States,Dallas,75201,726 Dmxjpssv St,2014-08-21,young_professional,high
+1623,Jrmdqd,Gjchlxyu,+43-986-7892,jrmdqd.gjchlxyu@example.com,"Mar 7, 1970",Canada,Winnipeg,R2C 0A1,864 Gjchlxyu St,2013-01-12,frequent_shopper,high
+1625,Ixkbvu,Ldhdljzp,+95-372-9252,ixkbvu.ldhdljzp@example.com,"Mar 27, 1965",Canada,Edmonton,T5A 0A1,310 Ldhdljzp St,2014-02-22,occasional,high
+1646,Ejnmle,Qwualsku,+48-465-4710,ejnmle.qwualsku@example.com,"Dec 25, 2006",Canada,Toronto,M5A 1A1,964 Qwualsku St,2015-01-05,young_professional,medium
+1650,Lpvhvf,Irutvypz,+88-561-3962,lpvhvf.irutvypz@example.com,"Nov 22, 1989",Canada,Ottawa,K1A 0A1,176 Irutvypz St,2013-04-11,family,low
+1671,Shsvaz,Wgcdniqk,+99-269-8851,shsvaz.wgcdniqk@example.com,"Dec 20, 2006",United States,San Jose,95101,472 Wgcdniqk St,2016-03-01,young_professional,high
+1677,Hbjgaq,Mwjqvvrw,+46-977-5489,hbjgaq.mwjqvvrw@example.com,"Jun 19, 1987",United States,Houston,77001,116 Mwjqvvrw St,2013-08-15,young_professional,low
+1683,Jwejhq,Fhoojrlk,+66-379-4526,jwejhq.fhoojrlk@example.com,"Mar 7, 1970",United States,San Diego,92101,211 Fhoojrlk St,2015-04-02,frequent_shopper,high
+1684,Wmtjpx,Diaswtqz,+50-978-2256,wmtjpx.diaswtqz@example.com,"Aug 15, 2006",Canada,Toronto,M5A 1A1,98 Diaswtqz St,2013-02-07,student,low
+1687,Leofky,Nulpeosi,+94-869-8896,leofky.nulpeosi@example.com,"Jan 13, 1961",Canada,Winnipeg,R2C 0A1,721 Nulpeosi St,2015-07-30,occasional,low
+1690,Ybdxpi,Szaaneww,+55-789-1333,ybdxpi.szaaneww@example.com,"Sep 27, 1956",Canada,Ottawa,K1A 0A1,542 Szaaneww St,2014-05-31,occasional,medium
+1691,Nfyfnm,Hcqsuyzq,+90-790-9298,nfyfnm.hcqsuyzq@example.com,"Dec 27, 1975",Canada,Winnipeg,R2C 0A1,388 Hcqsuyzq St,2013-12-02,young_professional,medium
+1694,Hrltsy,Bkdlgclg,+49-975-8764,hrltsy.bkdlgclg@example.com,"Jul 9, 1978",Canada,Montreal,H1A 0A1,634 Bkdlgclg St,2015-06-07,young_professional,medium
+1698,Uipvcg,Eshmmzqd,+79-617-2743,uipvcg.eshmmzqd@example.com,"Apr 27, 2001",United States,Los Angeles,90001,804 Eshmmzqd St,2014-08-17,student,medium
+1700,Uskhia,Kyprrggg,+42-537-5280,uskhia.kyprrggg@example.com,"Apr 21, 1972",United States,San Antonio,78201,131 Kyprrggg St,2013-11-15,occasional,low
+1701,Gcabnp,Rsbbqkxg,+90-815-6613,gcabnp.rsbbqkxg@example.com,"Aug 10, 1967",Canada,Ottawa,K1A 0A1,478 Rsbbqkxg St,2013-04-19,occasional,high
+1704,Miltyv,Kicidahh,+45-881-5860,miltyv.kicidahh@example.com,"Jul 27, 2000",United States,Dallas,75201,227 Kicidahh St,2015-07-16,premium,high
+1707,Sujmui,Ccjvtfos,+71-152-9679,sujmui.ccjvtfos@example.com,"Jan 19, 2004",Canada,Vancouver,V5K 0A1,737 Ccjvtfos St,2014-11-16,student,low
+1715,Buaupx,Ozopoomz,+34-363-8012,buaupx.ozopoomz@example.com,"Jul 23, 1965",Canada,Hamilton,L8E 0A1,241 Ozopoomz St,2013-07-02,established,medium
+1725,Svvybq,Zwjuoine,+30-948-9086,svvybq.zwjuoine@example.com,"Dec 6, 1985",United States,New York,10001,928 Zwjuoine St,2013-04-23,young_professional,medium
+1743,Fccjmu,Bbyvgrtc,+95-158-4739,fccjmu.bbyvgrtc@example.com,"Feb 6, 2002",United States,New York,10001,747 Bbyvgrtc St,2015-08-29,frequent_shopper,high
+1748,Pifuft,Mpuvdscd,+47-222-8802,pifuft.mpuvdscd@example.com,"Jul 14, 1954",United States,Philadelphia,19101,411 Mpuvdscd St,2013-06-10,occasional,medium
+1749,Ahvwaj,Dcexouwm,+55-167-4737,ahvwaj.dcexouwm@example.com,"Aug 26, 1975",Canada,Vancouver,V5K 0A1,732 Dcexouwm St,2015-12-07,family,low
+1757,Mxehow,Eocgopkb,+86-512-5557,mxehow.eocgopkb@example.com,"May 10, 1955",United States,Chicago,60601,245 Eocgopkb St,2013-03-19,occasional,high
+1760,Gmhwrp,Ioxltfyv,+56-494-8132,gmhwrp.ioxltfyv@example.com,"Feb 14, 1986",Canada,Quebec City,G1A 0A1,916 Ioxltfyv St,2014-08-25,occasional,medium
+1772,Rysxpk,Jkfeheuh,+45-547-8984,rysxpk.jkfeheuh@example.com,"Aug 21, 2002",Canada,Quebec City,G1A 0A1,83 Jkfeheuh St,2014-07-27,premium,very_high
+1774,Zlnmjh,Ebdqiiuu,+56-333-5991,zlnmjh.ebdqiiuu@example.com,"Sep 21, 2000",United States,New York,10001,140 Ebdqiiuu St,2014-09-11,young_professional,low
+1780,Tklciq,Cyhzykgv,+82-174-3802,tklciq.cyhzykgv@example.com,"Feb 13, 1955",Canada,Winnipeg,R2C 0A1,271 Cyhzykgv St,2014-12-11,established,medium
+1784,Hstdih,Fkssmonr,+54-591-3132,hstdih.fkssmonr@example.com,"Jan 20, 1979",Canada,Calgary,T1Y 0A1,105 Fkssmonr St,2015-01-27,frequent_shopper,low
+1793,Imiiiw,Oiayjpfj,+50-255-5046,imiiiw.oiayjpfj@example.com,"Oct 23, 1992",Canada,Ottawa,K1A 0A1,499 Oiayjpfj St,2014-08-04,frequent_shopper,high
+1795,Vvlwgs,Bsoscuhj,+52-752-6328,vvlwgs.bsoscuhj@example.com,"Nov 8, 1956",United States,Los Angeles,90001,169 Bsoscuhj St,2013-02-18,occasional,medium
+1811,Jpdcmu,Mlbeqnhf,+92-801-3605,jpdcmu.mlbeqnhf@example.com,"Oct 2, 1966",Canada,Edmonton,T5A 0A1,937 Mlbeqnhf St,2013-12-22,established,low
+1813,Wktuqd,Blybbonr,+68-293-3317,wktuqd.blybbonr@example.com,"Apr 6, 1966",Canada,Winnipeg,R2C 0A1,466 Blybbonr St,2015-01-13,occasional,high
+1817,Bfgstp,Odzetxqh,+66-889-4830,bfgstp.odzetxqh@example.com,"Mar 16, 1972",Canada,Calgary,T1Y 0A1,490 Odzetxqh St,2015-03-03,young_professional,high
+1819,Cagsow,Namasghm,+53-721-4339,cagsow.namasghm@example.com,"May 25, 1979",Canada,Edmonton,T5A 0A1,284 Namasghm St,2013-07-01,occasional,medium
+1820,Ytxbwx,Oixqjhxl,+87-833-7046,ytxbwx.oixqjhxl@example.com,"Feb 16, 1975",United States,San Jose,95101,360 Oixqjhxl St,2014-07-23,premium,high
+1821,Rgrjoy,Fqhjwtcr,+65-145-5474,rgrjoy.fqhjwtcr@example.com,"Jul 26, 1980",United States,Phoenix,85001,184 Fqhjwtcr St,2014-07-02,occasional,low
+1826,Pynbkb,Vmapurum,+59-310-1889,pynbkb.vmapurum@example.com,"Jun 14, 1981",Canada,Calgary,T1Y 0A1,729 Vmapurum St,2014-09-10,occasional,medium
+1828,Muyugp,Jegsbvfv,+43-398-5969,muyugp.jegsbvfv@example.com,"Jul 21, 2006",Canada,Hamilton,L8E 0A1,305 Jegsbvfv St,2013-06-12,young_professional,medium
+1829,Focrcn,Kdcceuol,+75-553-6878,focrcn.kdcceuol@example.com,"Oct 22, 1969",Canada,Quebec City,G1A 0A1,359 Kdcceuol St,2015-04-28,established,medium
+1838,Brnbzt,Chenctbv,+56-249-1303,brnbzt.chenctbv@example.com,"Nov 16, 1998",United States,Dallas,75201,511 Chenctbv St,2014-12-30,frequent_shopper,high
+1843,Ukuqza,Orjvrvzw,+74-613-5151,ukuqza.orjvrvzw@example.com,"May 1, 2000",United States,Chicago,60601,484 Orjvrvzw St,2016-06-05,student,low
+1845,Fvpfwy,Esfmjwhb,+80-881-4413,fvpfwy.esfmjwhb@example.com,"Nov 28, 1994",Canada,Toronto,M5A 1A1,560 Esfmjwhb St,2013-09-07,family,medium
+1846,Ijvhac,Mquuwxei,+99-339-1501,ijvhac.mquuwxei@example.com,"Feb 1, 1951",Canada,Vancouver,V5K 0A1,477 Mquuwxei St,2014-11-21,established,medium
+1847,Tntmhd,Ebtwqhgy,+61-664-7422,tntmhd.ebtwqhgy@example.com,"Oct 9, 1986",Canada,Winnipeg,R2C 0A1,279 Ebtwqhgy St,2014-10-01,young_professional,medium
+1854,Honggx,Xkysckxe,+61-480-8291,honggx.xkysckxe@example.com,"May 21, 2006",Canada,Vancouver,V5K 0A1,566 Xkysckxe St,2013-07-22,premium,very_high
+1861,Gqmulv,Khgfqtlz,+43-176-1793,gqmulv.khgfqtlz@example.com,"Nov 4, 1955",United States,Houston,77001,426 Khgfqtlz St,2013-07-18,occasional,medium
+1864,Xezhiv,Qtwpxvwy,+51-698-1449,xezhiv.qtwpxvwy@example.com,"Oct 13, 1950",Canada,Toronto,M5A 1A1,416 Qtwpxvwy St,2015-06-15,established,medium
+1867,Wplbds,Ejuchosc,+41-754-1280,wplbds.ejuchosc@example.com,"Nov 14, 1969",Canada,Quebec City,G1A 0A1,309 Ejuchosc St,2013-01-21,occasional,medium
+1873,Scvysa,Sbtuzwli,+95-651-1317,scvysa.sbtuzwli@example.com,"Jan 1, 1964",United States,Philadelphia,19101,936 Sbtuzwli St,2014-12-31,established,medium
+1876,Wwekqq,Atflsyvg,+31-216-9629,wwekqq.atflsyvg@example.com,"Apr 23, 1960",Canada,Hamilton,L8E 0A1,391 Atflsyvg St,2014-01-06,premium,very_high
+1880,Osvpai,Gglqkmpb,+74-998-3774,osvpai.gglqkmpb@example.com,"Jun 19, 1972",United States,Philadelphia,19101,10 Gglqkmpb St,2014-03-21,occasional,low
+1891,Ksngmq,Hdhtikcx,+53-728-4502,ksngmq.hdhtikcx@example.com,"Jan 10, 1955",United States,Philadelphia,19101,656 Hdhtikcx St,2014-12-09,established,medium
+1893,Avujqj,Jpzaksgp,+73-516-8611,avujqj.jpzaksgp@example.com,"Oct 6, 1983",United States,Philadelphia,19101,299 Jpzaksgp St,2014-08-21,family,medium
+1901,Lmdttc,Txskmpiy,+44-704-2097,lmdttc.txskmpiy@example.com,"Feb 20, 1958",Canada,Kitchener,N2A 0A1,542 Txskmpiy St,2014-07-27,established,medium
+1903,Tgxjea,Xobkddfo,+99-732-4651,tgxjea.xobkddfo@example.com,"Apr 22, 1968",United States,San Diego,92101,97 Xobkddfo St,2013-02-12,occasional,low
+1908,Scsdcy,Jrccxgnk,+62-982-9863,scsdcy.jrccxgnk@example.com,"Nov 4, 1980",United States,Philadelphia,19101,530 Jrccxgnk St,2014-06-13,occasional,medium
+1912,Qfbrvx,Ahzmixev,+82-527-8761,qfbrvx.ahzmixev@example.com,"Dec 6, 1960",Canada,Vancouver,V5K 0A1,220 Ahzmixev St,2014-09-02,established,medium
+1921,Pnfuow,Khhufnof,+34-529-9560,pnfuow.khhufnof@example.com,"Oct 5, 1998",Canada,Calgary,T1Y 0A1,507 Khhufnof St,2014-05-29,occasional,medium
+1928,Lopzaj,Itgryfay,+41-528-3968,lopzaj.itgryfay@example.com,"Apr 9, 1978",United States,Dallas,75201,77 Itgryfay St,2015-04-22,family,medium
+1936,Ismiuf,Bxulgzts,+85-391-5141,ismiuf.bxulgzts@example.com,"Apr 12, 1972",Canada,Montreal,H1A 0A1,161 Bxulgzts St,2014-09-29,frequent_shopper,high
+1939,Zixkhp,Xnskjsfz,+79-703-6350,zixkhp.xnskjsfz@example.com,"Sep 3, 1950",Canada,Kitchener,N2A 0A1,348 Xnskjsfz St,2013-10-21,established,high
+1942,Ffelgn,Zxlniqqv,+65-737-8426,ffelgn.zxlniqqv@example.com,"Jan 15, 1993",United States,New York,10001,916 Zxlniqqv St,2014-12-05,premium,high
+1957,Hlislu,Hotqbdcm,+55-860-2855,hlislu.hotqbdcm@example.com,"May 4, 1975",United States,San Diego,92101,566 Hotqbdcm St,2013-02-01,occasional,medium
+1966,Yqepni,Hqzfzwnz,+32-211-7357,yqepni.hqzfzwnz@example.com,"Aug 18, 1981",Canada,Ottawa,K1A 0A1,276 Hqzfzwnz St,2014-01-18,young_professional,high
+1983,Fkkpqm,Cfktqwws,+89-858-3317,fkkpqm.cfktqwws@example.com,"Jan 21, 1984",United States,New York,10001,156 Cfktqwws St,2014-10-17,frequent_shopper,medium
+1987,Kimjgq,Tbnrsapa,+81-475-6027,kimjgq.tbnrsapa@example.com,"Feb 21, 1974",United States,New York,10001,914 Tbnrsapa St,2014-12-27,occasional,low
+1995,Bkhxbn,Fhwxzkcs,+75-431-9636,bkhxbn.fhwxzkcs@example.com,"Dec 7, 1964",Canada,Edmonton,T5A 0A1,538 Fhwxzkcs St,2015-09-28,occasional,medium
+1996,Kkfvhz,Jhzakvpr,+32-764-5908,kkfvhz.jhzakvpr@example.com,"Oct 5, 2006",Canada,Ottawa,K1A 0A1,575 Jhzakvpr St,2015-05-31,student,low
+1997,Uloyeg,Jwermomj,+79-358-2207,uloyeg.jwermomj@example.com,"Apr 20, 2000",United States,San Diego,92101,391 Jwermomj St,2013-09-11,student,medium
+2006,Adsqrm,Klyxopou,+75-305-8679,adsqrm.klyxopou@example.com,"Dec 14, 2002",Canada,Calgary,T1Y 0A1,973 Klyxopou St,2014-07-08,student,medium
+2009,Unymgk,Olqfsnrs,+58-715-9593,unymgk.olqfsnrs@example.com,"Jan 4, 1961",United States,San Antonio,78201,757 Olqfsnrs St,2014-03-12,established,medium
+2012,Ggkack,Xfsdqjft,+66-298-6039,ggkack.xfsdqjft@example.com,"May 14, 1994",United States,Los Angeles,90001,826 Xfsdqjft St,2014-03-03,young_professional,high
+2013,Erswsn,Ohijzach,+75-206-6920,erswsn.ohijzach@example.com,"Nov 8, 1975",Canada,Quebec City,G1A 0A1,11 Ohijzach St,2014-05-19,occasional,low
+2018,Nrwewe,Osqdidre,+55-720-1692,nrwewe.osqdidre@example.com,"Oct 7, 1980",Canada,Kitchener,N2A 0A1,198 Osqdidre St,2014-05-23,premium,high
+2023,Fplwfj,Rnmkvznu,+75-505-2106,fplwfj.rnmkvznu@example.com,"Jun 9, 1981",United States,San Jose,95101,466 Rnmkvznu St,2014-08-20,young_professional,medium
+2029,Amvugu,Uqehnmuu,+60-982-9446,amvugu.uqehnmuu@example.com,"Aug 16, 1959",United States,Phoenix,85001,869 Uqehnmuu St,2013-08-26,established,medium
+2040,Idfwfn,Inybceud,+41-367-9542,idfwfn.inybceud@example.com,"Aug 16, 1978",United States,Philadelphia,19101,903 Inybceud St,2014-04-13,occasional,medium
+2043,Vggjem,Rowsjdbg,+35-270-7949,vggjem.rowsjdbg@example.com,"Apr 15, 1966",United States,Philadelphia,19101,443 Rowsjdbg St,2014-01-22,occasional,medium
+2050,Ocvdtd,Qxazlwth,+48-204-2772,ocvdtd.qxazlwth@example.com,"Nov 28, 1953",Canada,Calgary,T1Y 0A1,353 Qxazlwth St,2015-05-25,premium,very_high
+2056,Oivhrn,Mbeyqsat,+67-781-8288,oivhrn.mbeyqsat@example.com,"Mar 19, 1999",United States,Phoenix,85001,780 Mbeyqsat St,2013-05-09,student,low
+2065,Rzfply,Ebmvcsua,+53-942-4699,rzfply.ebmvcsua@example.com,"Sep 8, 1959",Canada,Montreal,H1A 0A1,425 Ebmvcsua St,2014-11-19,established,low
+2072,Ykggcw,Rvawweax,+58-981-9769,ykggcw.rvawweax@example.com,"Mar 28, 1963",Canada,Calgary,T1Y 0A1,583 Rvawweax St,2014-01-01,occasional,low
+2076,Fcxfiq,Omhqkpwt,+62-740-2562,fcxfiq.omhqkpwt@example.com,"Oct 24, 1972",United States,Los Angeles,90001,50 Omhqkpwt St,2015-03-25,frequent_shopper,medium
+2079,Hihige,Rplahrbx,+92-157-7506,hihige.rplahrbx@example.com,"Jul 17, 1973",United States,Los Angeles,90001,306 Rplahrbx St,2013-04-19,frequent_shopper,very_high
+2082,Nthxiz,Mqzbferm,+70-167-2551,nthxiz.mqzbferm@example.com,"Jul 10, 2000",United States,San Jose,95101,503 Mqzbferm St,2013-09-26,young_professional,medium
+2087,Mznlqs,Aobqzpse,+87-730-9150,mznlqs.aobqzpse@example.com,"Jun 13, 1990",United States,Los Angeles,90001,645 Aobqzpse St,2014-05-21,occasional,medium
+2088,Nkvpfu,Iyoasgsn,+91-373-3575,nkvpfu.iyoasgsn@example.com,"Apr 24, 1999",United States,San Jose,95101,516 Iyoasgsn St,2014-06-21,student,low
+2097,Iubhej,Ulpzlalg,+98-520-3037,iubhej.ulpzlalg@example.com,"Nov 19, 1955",United States,Los Angeles,90001,97 Ulpzlalg St,2015-07-19,established,medium
+2115,Umhwoi,Ubmdxvmz,+38-316-6815,umhwoi.ubmdxvmz@example.com,"Feb 19, 1969",Canada,Edmonton,T5A 0A1,228 Ubmdxvmz St,2013-08-15,occasional,low
+2118,Wolake,Ukynumly,+63-443-9528,wolake.ukynumly@example.com,"Sep 4, 1995",United States,Houston,77001,48 Ukynumly St,2014-01-07,premium,very_high
+2123,Vllllp,Mjshncah,+69-925-8348,vllllp.mjshncah@example.com,"Jul 6, 1995",United States,Houston,77001,907 Mjshncah St,2014-07-26,family,medium
+2125,Eyvmza,Isjlffku,+31-117-8181,eyvmza.isjlffku@example.com,"Dec 10, 1971",Canada,Toronto,M5A 1A1,45 Isjlffku St,2015-08-01,family,medium
+2129,Dywiik,Mcgqqaby,+65-443-8713,dywiik.mcgqqaby@example.com,"Mar 27, 1994",Canada,Montreal,H1A 0A1,916 Mcgqqaby St,2014-12-29,frequent_shopper,medium
+2133,Zmkqkf,Gpbkshms,+53-715-3579,zmkqkf.gpbkshms@example.com,"Jun 27, 1987",Canada,Montreal,H1A 0A1,889 Gpbkshms St,2014-04-21,occasional,medium
+2134,Tdlahu,Hghzindm,+75-335-3129,tdlahu.hghzindm@example.com,"Jan 14, 1972",United States,San Antonio,78201,352 Hghzindm St,2013-06-05,frequent_shopper,high
+2135,Liipbd,Cidjvdku,+78-682-7397,liipbd.cidjvdku@example.com,"Aug 6, 1951",Canada,Kitchener,N2A 0A1,156 Cidjvdku St,2014-11-06,established,low
+2139,Ajjhha,Ztborskh,+33-711-8834,ajjhha.ztborskh@example.com,"Apr 28, 1985",Canada,Ottawa,K1A 0A1,421 Ztborskh St,2013-12-04,premium,high
+2145,Gizctq,Nzjmwvbl,+44-796-4314,gizctq.nzjmwvbl@example.com,"Aug 18, 1992",Canada,Edmonton,T5A 0A1,540 Nzjmwvbl St,2013-06-25,young_professional,medium
+2155,Khytrj,Ycggmcyi,+80-117-2351,khytrj.ycggmcyi@example.com,"Jul 12, 1975",United States,San Jose,95101,754 Ycggmcyi St,2014-09-12,frequent_shopper,medium
+2156,Pmnwsx,Mxzeaftt,+53-705-1539,pmnwsx.mxzeaftt@example.com,"Mar 14, 1984",Canada,Montreal,H1A 0A1,402 Mxzeaftt St,2015-07-20,young_professional,low
+2161,Mmsjvy,Yaeukgwy,+77-129-9157,mmsjvy.yaeukgwy@example.com,"Jan 5, 1958",Canada,Kitchener,N2A 0A1,77 Yaeukgwy St,2015-12-26,established,medium
+2167,Usdcdq,Lvuayibp,+60-493-5084,usdcdq.lvuayibp@example.com,"Feb 6, 1970",United States,Los Angeles,90001,972 Lvuayibp St,2013-02-16,frequent_shopper,low
+2168,Lqruih,Tmsuqyhh,+33-340-9617,lqruih.tmsuqyhh@example.com,"Jul 13, 1969",United States,Chicago,60601,177 Tmsuqyhh St,2013-05-04,premium,very_high
+2169,Pmhekd,Orkhveyi,+51-997-3222,pmhekd.orkhveyi@example.com,"Nov 28, 1992",United States,San Jose,95101,929 Orkhveyi St,2014-10-02,young_professional,medium
+2170,Yfjdzf,Hursdxuh,+61-270-9521,yfjdzf.hursdxuh@example.com,"Feb 3, 1950",United States,Chicago,60601,337 Hursdxuh St,2013-05-23,established,medium
+2173,Nhyoiw,Yjkmcson,+54-636-5794,nhyoiw.yjkmcson@example.com,"Jan 16, 1983",United States,San Jose,95101,231 Yjkmcson St,2014-09-21,young_professional,medium
+2178,Mzmunb,Yzfptude,+67-218-9827,mzmunb.yzfptude@example.com,"Nov 7, 1961",Canada,Calgary,T1Y 0A1,992 Yzfptude St,2014-04-05,occasional,medium
+2188,Hhkbcl,Fvplmlqg,+55-324-5246,hhkbcl.fvplmlqg@example.com,"Oct 27, 1967",United States,San Antonio,78201,283 Fvplmlqg St,2015-02-03,established,high
+2199,Szhsxj,Fcisdqtb,+33-677-6356,szhsxj.fcisdqtb@example.com,"Oct 17, 1957",United States,San Jose,95101,857 Fcisdqtb St,2015-01-07,established,high
+2203,Qpctaw,Turtyxmk,+97-921-7856,qpctaw.turtyxmk@example.com,"Oct 19, 1978",Canada,Ottawa,K1A 0A1,96 Turtyxmk St,2014-03-19,family,low
+2207,Jjsqtq,Bcrntcak,+47-630-4022,jjsqtq.bcrntcak@example.com,"Apr 15, 1960",United States,New York,10001,875 Bcrntcak St,2014-07-04,established,medium
+2208,Siuqwa,Hohjvcnf,+75-133-2718,siuqwa.hohjvcnf@example.com,"Aug 26, 1968",United States,Los Angeles,90001,196 Hohjvcnf St,2014-12-03,occasional,medium
+2212,Cwldco,Roithccl,+32-183-3928,cwldco.roithccl@example.com,"May 17, 1989",Canada,Toronto,M5A 1A1,900 Roithccl St,2015-04-26,occasional,medium
+2215,Sdfpkd,Dypuvcyk,+66-407-7263,sdfpkd.dypuvcyk@example.com,"Oct 2, 1950",Canada,Ottawa,K1A 0A1,720 Dypuvcyk St,2014-02-28,occasional,high
+2220,Ccmvkc,Puislftr,+46-635-9299,ccmvkc.puislftr@example.com,"Jul 7, 1959",United States,San Diego,92101,323 Puislftr St,2014-12-28,occasional,low
+2222,Ontzqr,Kfeajray,+59-318-2089,ontzqr.kfeajray@example.com,"Nov 5, 1992",Canada,Winnipeg,R2C 0A1,131 Kfeajray St,2015-08-05,premium,high
+2235,Fwpoub,Unfqxrll,+47-887-6691,fwpoub.unfqxrll@example.com,"Aug 10, 1959",Canada,Winnipeg,R2C 0A1,627 Unfqxrll St,2013-10-11,occasional,low
+2236,Ussywe,Yunvsqcg,+31-589-3046,ussywe.yunvsqcg@example.com,"Apr 16, 1995",United States,New York,10001,671 Yunvsqcg St,2015-12-23,young_professional,medium
+2240,Yedeep,Mykrzbbf,+80-490-2985,yedeep.mykrzbbf@example.com,"Dec 25, 2006",United States,San Jose,95101,981 Mykrzbbf St,2014-09-25,young_professional,medium
+2251,Unwecy,Mwrbjxnl,+86-342-6933,unwecy.mwrbjxnl@example.com,"Jan 4, 1970",United States,Los Angeles,90001,974 Mwrbjxnl St,2014-02-02,occasional,medium
+2257,Kytott,Odhxweur,+93-450-8657,kytott.odhxweur@example.com,"Jan 6, 1984",United States,Los Angeles,90001,291 Odhxweur St,2014-11-07,occasional,low
+2277,Rhtshc,Pjxeswfz,+77-489-2452,rhtshc.pjxeswfz@example.com,"Oct 16, 1950",Canada,Montreal,H1A 0A1,356 Pjxeswfz St,2013-11-16,established,medium
+2297,Zkczde,Caquustp,+77-662-6909,zkczde.caquustp@example.com,"Jan 14, 1998",Canada,Quebec City,G1A 0A1,326 Caquustp St,2014-10-16,occasional,medium
+2300,Biibui,Wlfcnvtr,+59-562-6219,biibui.wlfcnvtr@example.com,"Nov 13, 1972",United States,San Diego,92101,581 Wlfcnvtr St,2013-11-30,frequent_shopper,high
+2302,Khmnja,Jeirvylt,+90-697-1558,khmnja.jeirvylt@example.com,"Mar 13, 1996",United States,Philadelphia,19101,221 Jeirvylt St,2013-03-09,young_professional,high
+2307,Dviexc,Phcaqseq,+78-215-3510,dviexc.phcaqseq@example.com,"Mar 8, 1950",Canada,Quebec City,G1A 0A1,658 Phcaqseq St,2016-02-25,established,medium
+2308,Oogjvv,Mjvzwagl,+95-688-2798,oogjvv.mjvzwagl@example.com,"May 16, 2001",Canada,Hamilton,L8E 0A1,171 Mjvzwagl St,2015-12-22,frequent_shopper,high
+2309,Ahtpft,Drtkuyrc,+63-242-4169,ahtpft.drtkuyrc@example.com,"Mar 24, 1986",United States,Phoenix,85001,36 Drtkuyrc St,2013-02-04,young_professional,medium
+2318,Cugwqr,Tyfbgdel,+48-858-5645,cugwqr.tyfbgdel@example.com,"Dec 23, 1956",United States,Phoenix,85001,446 Tyfbgdel St,2014-04-14,established,medium
+2324,Leinme,Iazigqln,+32-402-8290,leinme.iazigqln@example.com,"Nov 19, 1976",United States,Houston,77001,103 Iazigqln St,2013-10-03,family,medium
+2327,Pkvvjv,Yjdvenuz,+31-958-3810,pkvvjv.yjdvenuz@example.com,"Aug 15, 1962",Canada,Quebec City,G1A 0A1,426 Yjdvenuz St,2013-07-20,occasional,high
+2328,Rznoyp,Uiznunyi,+37-403-8974,rznoyp.uiznunyi@example.com,"Dec 19, 2003",United States,Houston,77001,130 Uiznunyi St,2014-04-27,premium,high
+2333,Gicwfy,Lgsdliml,+94-231-1978,gicwfy.lgsdliml@example.com,"Jul 28, 1955",United States,San Jose,95101,916 Lgsdliml St,2013-12-09,established,medium
+2344,Yvrswi,Rjjowsiv,+77-262-6163,yvrswi.rjjowsiv@example.com,"Jul 3, 1965",United States,New York,10001,100 Rjjowsiv St,2014-08-11,established,medium
+2347,Avlidz,Jfxdejmv,+66-173-5189,avlidz.jfxdejmv@example.com,"Sep 11, 1986",Canada,Ottawa,K1A 0A1,573 Jfxdejmv St,2014-10-21,frequent_shopper,high
+2349,Qbpmus,Hqhezhhz,+69-358-5668,qbpmus.hqhezhhz@example.com,"Jul 22, 1950",United States,New York,10001,241 Hqhezhhz St,2013-08-20,premium,very_high
+2352,Taykjt,Ivwbcmyw,+83-292-9573,taykjt.ivwbcmyw@example.com,"Jun 8, 2001",United States,New York,10001,302 Ivwbcmyw St,2014-05-20,frequent_shopper,high
+2355,Uztmxv,Qnkvmhlu,+71-628-4115,uztmxv.qnkvmhlu@example.com,"Aug 14, 1998",Canada,Hamilton,L8E 0A1,119 Qnkvmhlu St,2014-03-31,occasional,low
+2366,Hlkozi,Fnwsrxtz,+83-862-3672,hlkozi.fnwsrxtz@example.com,"Oct 17, 1967",Canada,Kitchener,N2A 0A1,449 Fnwsrxtz St,2013-03-17,occasional,medium
+2368,Pbjkgb,Byooocmr,+73-185-5924,pbjkgb.byooocmr@example.com,"Feb 27, 1968",Canada,Toronto,M5A 1A1,809 Byooocmr St,2013-07-13,established,medium
+2381,Pahfuu,Ilmtkkhq,+71-225-9922,pahfuu.ilmtkkhq@example.com,"May 13, 1955",Canada,Winnipeg,R2C 0A1,261 Ilmtkkhq St,2013-12-27,occasional,medium
+2398,Iilckh,Xnhoackt,+91-447-9155,iilckh.xnhoackt@example.com,"Sep 21, 1978",United States,Los Angeles,90001,303 Xnhoackt St,2013-08-02,family,medium
+2399,Xtlvrv,Zcbhfibw,+30-991-4035,xtlvrv.zcbhfibw@example.com,"May 21, 1958",United States,Phoenix,85001,843 Zcbhfibw St,2015-02-19,occasional,medium
+2400,Esrtmk,Ouoxnnbw,+62-433-3348,esrtmk.ouoxnnbw@example.com,"Aug 19, 1953",Canada,Calgary,T1Y 0A1,301 Ouoxnnbw St,2014-04-12,occasional,medium
+2409,Wykljo,Yyelseds,+63-632-1070,wykljo.yyelseds@example.com,"May 5, 1969",Canada,Ottawa,K1A 0A1,433 Yyelseds St,2013-04-03,occasional,medium
+2410,Qityxy,Mnwvcsxh,+39-452-7216,qityxy.mnwvcsxh@example.com,"Aug 4, 1997",Canada,Hamilton,L8E 0A1,899 Mnwvcsxh St,2013-05-22,occasional,medium
+2411,Vozlkk,Dorbgycu,+73-671-7034,vozlkk.dorbgycu@example.com,"May 13, 1972",Canada,Hamilton,L8E 0A1,983 Dorbgycu St,2014-11-20,occasional,medium
+2419,Akezxe,Gyjheyuv,+66-453-6021,akezxe.gyjheyuv@example.com,"Apr 21, 1963",Canada,Quebec City,G1A 0A1,806 Gyjheyuv St,2013-10-29,occasional,low
+2422,Ncmkqy,Llacbuju,+56-980-9728,ncmkqy.llacbuju@example.com,"Dec 22, 2006",United States,Philadelphia,19101,564 Llacbuju St,2014-02-08,student,low
+2438,Ylddhx,Xdkwwgpe,+98-208-1730,ylddhx.xdkwwgpe@example.com,"Jun 21, 1966",United States,San Diego,92101,55 Xdkwwgpe St,2013-12-07,established,medium
+2445,Ehpczy,Rytipyhu,+94-986-3159,ehpczy.rytipyhu@example.com,"Mar 5, 1957",Canada,Vancouver,V5K 0A1,659 Rytipyhu St,2014-09-10,occasional,medium
+2449,Zwiykd,Yhcomplh,+60-632-8537,zwiykd.yhcomplh@example.com,"Apr 22, 2003",United States,Dallas,75201,351 Yhcomplh St,2015-02-16,frequent_shopper,high
+2450,Thdlss,Vioosomv,+37-501-1814,thdlss.vioosomv@example.com,"Apr 7, 1982",United States,San Diego,92101,405 Vioosomv St,2014-06-13,family,low
+2461,Pgmgeu,Fbpvblsy,+96-813-1701,pgmgeu.fbpvblsy@example.com,"Sep 17, 1985",United States,Phoenix,85001,384 Fbpvblsy St,2013-07-02,premium,high
+2464,Aivgwz,Ktydrirw,+75-444-5610,aivgwz.ktydrirw@example.com,"Jan 18, 1953",United States,Chicago,60601,619 Ktydrirw St,2015-02-18,established,low
+2469,Xhwsks,Azgmqtpe,+67-557-9074,xhwsks.azgmqtpe@example.com,"Nov 4, 1973",Canada,Hamilton,L8E 0A1,787 Azgmqtpe St,2013-05-07,family,medium
+2490,Vhnuox,Qhkkrtxm,+35-200-5553,vhnuox.qhkkrtxm@example.com,"Apr 21, 1978",United States,Dallas,75201,864 Qhkkrtxm St,2013-01-19,frequent_shopper,medium
+2494,Zmvdob,Ropgrfws,+67-959-1927,zmvdob.ropgrfws@example.com,"Feb 9, 1968",Canada,Winnipeg,R2C 0A1,903 Ropgrfws St,2013-04-19,established,medium
+2495,Bfvgeo,Ygnvbykn,+70-628-6623,bfvgeo.ygnvbykn@example.com,"Feb 2, 1967",Canada,Ottawa,K1A 0A1,62 Ygnvbykn St,2014-08-25,frequent_shopper,very_high
+2496,Supvpq,Xscyxktf,+49-202-4961,supvpq.xscyxktf@example.com,"Dec 24, 2002",Canada,Toronto,M5A 1A1,748 Xscyxktf St,2014-06-04,frequent_shopper,high
+2502,Ozelog,Tcoinzpw,+93-778-3081,ozelog.tcoinzpw@example.com,"Feb 18, 1991",United States,San Antonio,78201,24 Tcoinzpw St,2014-11-01,occasional,medium
+2509,Dgiuln,Tsowuhsn,+67-141-9486,dgiuln.tsowuhsn@example.com,"Sep 15, 1984",Canada,Calgary,T1Y 0A1,117 Tsowuhsn St,2014-11-18,frequent_shopper,high
+2513,Ghgiqm,Ovpzsruq,+79-910-6591,ghgiqm.ovpzsruq@example.com,"Oct 20, 1953",United States,San Jose,95101,590 Ovpzsruq St,2016-09-09,established,medium
+2514,Fprlgl,Ryyugmlm,+67-879-8582,fprlgl.ryyugmlm@example.com,"Feb 20, 1963",Canada,Toronto,M5A 1A1,176 Ryyugmlm St,2014-08-17,occasional,low
+2518,Jayhfl,Oqcxdiei,+83-175-9298,jayhfl.oqcxdiei@example.com,"Feb 15, 1984",Canada,Vancouver,V5K 0A1,13 Oqcxdiei St,2015-07-25,frequent_shopper,high
+2520,Hcfwxu,Xivadkki,+58-410-1237,hcfwxu.xivadkki@example.com,"Nov 18, 1959",Canada,Kitchener,N2A 0A1,615 Xivadkki St,2014-01-13,occasional,medium
+2536,Lbabcz,Ngfsdzdc,+56-661-8795,lbabcz.ngfsdzdc@example.com,"Jan 25, 1965",United States,Phoenix,85001,174 Ngfsdzdc St,2015-02-09,occasional,high
+2549,Hezdjx,Odkdzwkj,+82-724-1586,hezdjx.odkdzwkj@example.com,"Jul 27, 2003",United States,San Antonio,78201,327 Odkdzwkj St,2014-03-26,premium,high
+2556,Sehpuq,Ojtedvbd,+31-639-8450,sehpuq.ojtedvbd@example.com,"May 22, 2006",Canada,Winnipeg,R2C 0A1,719 Ojtedvbd St,2013-07-29,student,low
+2562,Auxdri,Ckvdadmj,+65-465-6303,auxdri.ckvdadmj@example.com,"Oct 3, 1962",United States,Phoenix,85001,16 Ckvdadmj St,2014-07-05,occasional,high
+2564,Alajye,Ailzrtkj,+41-824-5450,alajye.ailzrtkj@example.com,"Feb 12, 1950",Canada,Montreal,H1A 0A1,373 Ailzrtkj St,2014-10-29,established,high
+2566,Coyczj,Bdtvhafo,+40-963-7630,coyczj.bdtvhafo@example.com,"Dec 12, 1963",Canada,Toronto,M5A 1A1,426 Bdtvhafo St,2014-01-22,established,medium
+2578,Qantka,Dlucaprl,+82-801-4639,qantka.dlucaprl@example.com,"Sep 24, 1950",Canada,Winnipeg,R2C 0A1,99 Dlucaprl St,2013-03-22,established,medium
+2595,Rpozap,Fbtrsttd,+35-661-1254,rpozap.fbtrsttd@example.com,"Sep 19, 1989",United States,Philadelphia,19101,720 Fbtrsttd St,2013-08-23,family,medium
+2598,Iovakj,Dfripufe,+69-326-2833,iovakj.dfripufe@example.com,"Jun 13, 1964",Canada,Winnipeg,R2C 0A1,358 Dfripufe St,2013-12-23,occasional,low
+2600,Laolaf,Zlxzefjg,+43-617-8704,laolaf.zlxzefjg@example.com,"May 25, 2001",United States,Chicago,60601,119 Zlxzefjg St,2013-08-11,young_professional,medium
+2605,Gqcrpn,Uqjrdpof,+89-719-7724,gqcrpn.uqjrdpof@example.com,"Nov 24, 2001",United States,Los Angeles,90001,710 Uqjrdpof St,2013-10-21,premium,high
+2610,Pspkaw,Vwchxqgi,+97-891-6877,pspkaw.vwchxqgi@example.com,"Mar 2, 1966",Canada,Montreal,H1A 0A1,354 Vwchxqgi St,2014-10-20,established,medium
+2611,Mzxyze,Euvymaww,+75-275-5576,mzxyze.euvymaww@example.com,"Jan 13, 1991",Canada,Ottawa,K1A 0A1,340 Euvymaww St,2013-03-14,young_professional,medium
+2616,Gudhxf,Pnwbxvbb,+53-881-1359,gudhxf.pnwbxvbb@example.com,"Jul 25, 1989",Canada,Calgary,T1Y 0A1,482 Pnwbxvbb St,2013-07-07,family,medium
+2619,Dnyiqa,Vbxussuh,+71-946-9958,dnyiqa.vbxussuh@example.com,"Jun 7, 1963",United States,San Jose,95101,473 Vbxussuh St,2013-07-14,occasional,high
+2620,Yzisap,Uemaxvxb,+79-322-5448,yzisap.uemaxvxb@example.com,"Oct 10, 1969",United States,San Diego,92101,646 Uemaxvxb St,2013-03-04,occasional,low
+2626,Camhrb,Fpwpwqni,+59-957-4830,camhrb.fpwpwqni@example.com,"Dec 28, 1967",United States,Phoenix,85001,19 Fpwpwqni St,2014-11-03,occasional,medium
+2630,Pzbdoo,Yspmjosc,+71-685-4167,pzbdoo.yspmjosc@example.com,"Apr 19, 1968",United States,Dallas,75201,100 Yspmjosc St,2014-09-04,established,medium
+2636,Mrsxxw,Jkraaffi,+46-146-8639,mrsxxw.jkraaffi@example.com,"Dec 11, 1963",Canada,Ottawa,K1A 0A1,174 Jkraaffi St,2013-10-17,established,low
+2654,Mufmwj,Sywiafnz,+33-133-1347,mufmwj.sywiafnz@example.com,"Mar 12, 1968",Canada,Kitchener,N2A 0A1,883 Sywiafnz St,2013-07-15,occasional,low
+2661,Srhpcd,Gegngqrc,+54-559-7769,srhpcd.gegngqrc@example.com,"Oct 26, 1983",Canada,Edmonton,T5A 0A1,471 Gegngqrc St,2014-07-13,occasional,low
+2672,Tdpyie,Cqmlufhg,+89-119-7195,tdpyie.cqmlufhg@example.com,"Jun 18, 1963",Canada,Kitchener,N2A 0A1,105 Cqmlufhg St,2015-07-03,established,medium
+2673,Mswavj,Jhqswkng,+55-328-6497,mswavj.jhqswkng@example.com,"Feb 16, 1982",United States,Dallas,75201,30 Jhqswkng St,2014-04-24,premium,high
+2688,Gliaex,Bzpuntwl,+97-957-3913,gliaex.bzpuntwl@example.com,"Jul 20, 1955",Canada,Montreal,H1A 0A1,273 Bzpuntwl St,2015-03-17,established,high
+2693,Loxsqz,Xglzdqbv,+72-706-5233,loxsqz.xglzdqbv@example.com,"Sep 2, 1966",United States,Dallas,75201,955 Xglzdqbv St,2015-04-13,established,low
+2697,Kiodya,Efjtkozn,+39-308-1794,kiodya.efjtkozn@example.com,"Apr 27, 1982",Canada,Hamilton,L8E 0A1,587 Efjtkozn St,2014-03-10,occasional,medium
+2700,Cfwltk,Ymwxmpqu,+51-789-4819,cfwltk.ymwxmpqu@example.com,"Nov 6, 1972",United States,Los Angeles,90001,362 Ymwxmpqu St,2014-03-19,occasional,medium
+2705,Mpvxzm,Qavjhvpo,+41-203-1452,mpvxzm.qavjhvpo@example.com,"Mar 14, 1966",Canada,Toronto,M5A 1A1,551 Qavjhvpo St,2014-10-28,established,low
+2711,Hadixg,Ipfuhgub,+59-401-3365,hadixg.ipfuhgub@example.com,"Jun 12, 1959",Canada,Calgary,T1Y 0A1,365 Ipfuhgub St,2014-03-24,established,medium
+2713,Pojiuy,Zeznkinj,+48-602-6913,pojiuy.zeznkinj@example.com,"Nov 4, 1961",United States,San Diego,92101,812 Zeznkinj St,2013-09-19,established,high
+2722,Oswtcn,Puzourfx,+71-765-1435,oswtcn.puzourfx@example.com,"Mar 14, 1951",United States,Phoenix,85001,653 Puzourfx St,2014-06-26,occasional,low
+2723,Ulnmpg,Ukgnfrjh,+81-414-6272,ulnmpg.ukgnfrjh@example.com,"Dec 21, 1952",Canada,Winnipeg,R2C 0A1,765 Ukgnfrjh St,2014-07-03,premium,very_high
+2727,Ffbwrh,Erudfwuk,+88-757-9301,ffbwrh.erudfwuk@example.com,"Jul 13, 1970",Canada,Toronto,M5A 1A1,151 Erudfwuk St,2016-01-16,frequent_shopper,medium
+2734,Spdvex,Obwhipau,+40-736-2670,spdvex.obwhipau@example.com,"Sep 23, 1989",United States,San Diego,92101,187 Obwhipau St,2013-07-20,premium,very_high
+2742,Gfochm,Txonqqdd,+50-958-1591,gfochm.txonqqdd@example.com,"Nov 7, 1954",United States,Houston,77001,320 Txonqqdd St,2014-03-07,established,low
+2746,Sliygw,Jevwmssx,+33-285-2961,sliygw.jevwmssx@example.com,"Jan 13, 1954",United States,San Jose,95101,667 Jevwmssx St,2015-01-06,established,medium
+2747,Rkrudg,Appjfidz,+36-420-8994,rkrudg.appjfidz@example.com,"Aug 27, 1964",Canada,Hamilton,L8E 0A1,911 Appjfidz St,2013-06-14,established,medium
+2756,Xjglnt,Lugpkvvn,+65-497-6914,xjglnt.lugpkvvn@example.com,"Aug 28, 1965",Canada,Ottawa,K1A 0A1,270 Lugpkvvn St,2013-12-31,occasional,high
+2764,Lmluap,Qtftgztc,+45-210-1177,lmluap.qtftgztc@example.com,"Jul 9, 1990",Canada,Quebec City,G1A 0A1,369 Qtftgztc St,2014-07-08,young_professional,high
+2767,Szvdps,Juvjrsnv,+43-496-3751,szvdps.juvjrsnv@example.com,"Aug 28, 1957",United States,Philadelphia,19101,456 Juvjrsnv St,2015-02-01,established,low
+2771,Tnxvwf,Ojpaweyo,+40-368-4257,tnxvwf.ojpaweyo@example.com,"May 17, 1977",Canada,Ottawa,K1A 0A1,157 Ojpaweyo St,2014-06-17,premium,very_high
+2777,Bhbvsb,Kiizmsgz,+38-136-7334,bhbvsb.kiizmsgz@example.com,"Jul 10, 1993",Canada,Calgary,T1Y 0A1,95 Kiizmsgz St,2014-04-28,young_professional,low
+2784,Zcdvgr,Wtjufjqh,+66-221-1434,zcdvgr.wtjufjqh@example.com,"Jan 4, 1992",United States,New York,10001,260 Wtjufjqh St,2014-03-11,young_professional,high
+2787,Wozqus,Sgtrnsud,+86-331-6426,wozqus.sgtrnsud@example.com,"Feb 27, 2004",United States,Dallas,75201,430 Sgtrnsud St,2013-04-14,young_professional,medium
+2788,Fjnqfu,Cwqwmzxv,+64-754-7792,fjnqfu.cwqwmzxv@example.com,"Mar 4, 1950",United States,Houston,77001,669 Cwqwmzxv St,2015-02-26,established,medium
+2789,Sgobop,Boexluhr,+77-269-7404,sgobop.boexluhr@example.com,"Jun 17, 1974",Canada,Hamilton,L8E 0A1,356 Boexluhr St,2013-10-11,young_professional,high
+2790,Xfrszl,Tgbnusxq,+72-757-2398,xfrszl.tgbnusxq@example.com,"Nov 21, 1957",United States,San Antonio,78201,221 Tgbnusxq St,2014-10-21,occasional,low
+2793,Spvtxf,Mplpgmnt,+31-615-2312,spvtxf.mplpgmnt@example.com,"Aug 13, 1962",Canada,Calgary,T1Y 0A1,835 Mplpgmnt St,2015-05-16,established,high
+2795,Tecfzz,Neslcjiq,+64-714-9985,tecfzz.neslcjiq@example.com,"Jul 18, 1956",Canada,Quebec City,G1A 0A1,816 Neslcjiq St,2013-05-20,occasional,low
+2797,Supewt,Gtwspbbd,+39-281-8813,supewt.gtwspbbd@example.com,"May 3, 1984",United States,Houston,77001,214 Gtwspbbd St,2014-04-21,young_professional,low
+2799,Sptxhe,Tnysybpu,+90-591-8150,sptxhe.tnysybpu@example.com,"Apr 26, 1981",United States,Houston,77001,63 Tnysybpu St,2014-07-12,frequent_shopper,low
+2800,Ishzob,Bemaszvc,+89-682-5443,ishzob.bemaszvc@example.com,"Nov 23, 1964",United States,Chicago,60601,655 Bemaszvc St,2015-06-02,occasional,medium
+2801,Cqcjlz,Uxilrdrh,+36-407-1569,cqcjlz.uxilrdrh@example.com,"Dec 7, 1956",United States,Philadelphia,19101,942 Uxilrdrh St,2015-01-18,established,high
+2802,Wrsykx,Bjcnaupd,+50-100-1440,wrsykx.bjcnaupd@example.com,"Dec 5, 1987",United States,Phoenix,85001,823 Bjcnaupd St,2014-11-26,occasional,medium
+2807,Egbxwu,Rsjbesbo,+33-235-7196,egbxwu.rsjbesbo@example.com,"Jun 22, 1992",Canada,Ottawa,K1A 0A1,698 Rsjbesbo St,2014-02-21,family,medium
+2809,Lmcbci,Qdbecarh,+63-616-9623,lmcbci.qdbecarh@example.com,"May 22, 1980",United States,San Antonio,78201,941 Qdbecarh St,2014-12-16,premium,very_high
+2823,Yhngoa,Tkttmiiy,+60-522-6088,yhngoa.tkttmiiy@example.com,"Sep 20, 1958",United States,San Antonio,78201,637 Tkttmiiy St,2014-04-10,occasional,high
+2825,Rcmihj,Nukbofac,+71-802-8162,rcmihj.nukbofac@example.com,"Feb 14, 1991",United States,Philadelphia,19101,512 Nukbofac St,2013-03-23,young_professional,medium
+2843,Uakbrr,Qcaflmle,+69-257-8987,uakbrr.qcaflmle@example.com,"Sep 28, 1956",United States,Chicago,60601,209 Qcaflmle St,2015-01-21,occasional,medium
+2853,Xljhaa,Sivclodd,+78-894-7800,xljhaa.sivclodd@example.com,"Dec 13, 1997",Canada,Vancouver,V5K 0A1,668 Sivclodd St,2013-02-17,premium,very_high
+2877,Hppkau,Ktygspol,+84-933-4764,hppkau.ktygspol@example.com,"Jun 9, 1953",Canada,Winnipeg,R2C 0A1,821 Ktygspol St,2013-12-03,occasional,high
+2881,Rvnobe,Arenslam,+44-234-7244,rvnobe.arenslam@example.com,"Feb 10, 1990",Canada,Toronto,M5A 1A1,103 Arenslam St,2013-05-27,occasional,medium
+2886,Cosfco,Obbpilmc,+62-957-4486,cosfco.obbpilmc@example.com,"Feb 24, 1950",Canada,Ottawa,K1A 0A1,264 Obbpilmc St,2015-04-17,occasional,medium
+2891,Tlugup,Hthvbvgv,+66-302-4744,tlugup.hthvbvgv@example.com,"Dec 7, 1991",United States,New York,10001,918 Hthvbvgv St,2013-10-14,young_professional,high
+2903,Nzojej,Immxtcfv,+34-647-1120,nzojej.immxtcfv@example.com,"May 17, 1985",Canada,Edmonton,T5A 0A1,315 Immxtcfv St,2013-01-22,young_professional,medium
+2910,Hjecol,Mnmsfpvk,+58-311-5761,hjecol.mnmsfpvk@example.com,"Feb 12, 2006",Canada,Hamilton,L8E 0A1,811 Mnmsfpvk St,2014-07-20,young_professional,medium
+2911,Pfzcyh,Jkblrnul,+73-218-8592,pfzcyh.jkblrnul@example.com,"Feb 2, 1955",Canada,Montreal,H1A 0A1,28 Jkblrnul St,2013-10-04,occasional,medium
+2914,Uwyxuu,Exdinpfc,+42-575-5885,uwyxuu.exdinpfc@example.com,"Feb 23, 1979",Canada,Quebec City,G1A 0A1,724 Exdinpfc St,2014-10-26,premium,high
+2915,Iommxj,Golhqamr,+79-638-5209,iommxj.golhqamr@example.com,"Apr 17, 1964",Canada,Kitchener,N2A 0A1,406 Golhqamr St,2015-01-04,occasional,low
+2918,Vzkfna,Vynqeqmo,+35-634-4315,vzkfna.vynqeqmo@example.com,"May 1, 1973",United States,Dallas,75201,653 Vynqeqmo St,2013-09-21,premium,very_high
+2926,Rcjifk,Zxgjtaqr,+94-284-4767,rcjifk.zxgjtaqr@example.com,"Aug 6, 1959",United States,San Antonio,78201,558 Zxgjtaqr St,2014-06-26,occasional,low
+2932,Uffqfm,Tlbuqvjn,+34-117-7402,uffqfm.tlbuqvjn@example.com,"May 7, 1958",United States,Los Angeles,90001,125 Tlbuqvjn St,2013-01-25,established,medium
+2934,Fqbiyj,Poyrjamn,+49-991-9753,fqbiyj.poyrjamn@example.com,"Feb 22, 1984",Canada,Calgary,T1Y 0A1,176 Poyrjamn St,2013-05-21,young_professional,high
+2939,Tcrczd,Pvvagjuo,+69-960-4452,tcrczd.pvvagjuo@example.com,"Dec 18, 1968",United States,Phoenix,85001,57 Pvvagjuo St,2013-05-08,occasional,high
+2966,Ngvgkt,Urfilmoh,+60-900-6684,ngvgkt.urfilmoh@example.com,"Dec 23, 2000",Canada,Winnipeg,R2C 0A1,113 Urfilmoh St,2014-07-01,student,medium
+2972,Bsvaey,Vurzdgui,+55-740-8733,bsvaey.vurzdgui@example.com,"Nov 11, 1957",Canada,Winnipeg,R2C 0A1,198 Vurzdgui St,2013-09-22,established,high
+2974,Psucxo,Xtepnrip,+79-786-5850,psucxo.xtepnrip@example.com,"Dec 17, 1977",Canada,Edmonton,T5A 0A1,119 Xtepnrip St,2013-09-17,occasional,medium
+2981,Smtlcb,Hhryfkmg,+58-895-5608,smtlcb.hhryfkmg@example.com,"Nov 1, 1991",Canada,Ottawa,K1A 0A1,258 Hhryfkmg St,2013-12-21,young_professional,medium
+2993,Ikhxqe,Zlmjuiub,+35-658-7269,ikhxqe.zlmjuiub@example.com,"Jun 23, 1961",Canada,Toronto,M5A 1A1,535 Zlmjuiub St,2014-11-16,established,medium
+2994,Lkqybt,Vanzxfhg,+36-444-4720,lkqybt.vanzxfhg@example.com,"Apr 6, 1954",Canada,Hamilton,L8E 0A1,775 Vanzxfhg St,2013-03-24,established,medium
+2997,Irasja,Ncqbxxbj,+78-500-9311,irasja.ncqbxxbj@example.com,"Feb 12, 1996",Canada,Hamilton,L8E 0A1,1 Ncqbxxbj St,2015-07-25,frequent_shopper,low
+3001,Fxlzrn,Sahwolii,+77-751-9196,fxlzrn.sahwolii@example.com,"Dec 21, 1980",United States,San Antonio,78201,237 Sahwolii St,2014-01-15,frequent_shopper,high
+3005,Qwigxe,Anzwefpq,+82-622-9661,qwigxe.anzwefpq@example.com,"Nov 22, 2005",Canada,Winnipeg,R2C 0A1,892 Anzwefpq St,2014-03-26,premium,high
+3016,Lcplkx,Wkunnydx,+98-827-7615,lcplkx.wkunnydx@example.com,"Aug 3, 1976",United States,San Diego,92101,839 Wkunnydx St,2015-07-16,occasional,medium
+3018,Uhfrvt,Tygdysvu,+35-801-1429,uhfrvt.tygdysvu@example.com,"Jul 24, 1955",Canada,Montreal,H1A 0A1,522 Tygdysvu St,2015-06-23,established,medium
+3019,Gfdhtn,Ohdkfxjv,+32-784-2912,gfdhtn.ohdkfxjv@example.com,"Dec 2, 2005",Canada,Edmonton,T5A 0A1,368 Ohdkfxjv St,2017-05-10,frequent_shopper,high
+3026,Qpnqus,Rdmluewg,+30-950-7331,qpnqus.rdmluewg@example.com,"Dec 22, 1971",United States,Los Angeles,90001,713 Rdmluewg St,2013-11-17,occasional,medium
+3032,Iebyxm,Kyuofjfn,+89-771-9776,iebyxm.kyuofjfn@example.com,"Mar 2, 1982",Canada,Montreal,H1A 0A1,843 Kyuofjfn St,2015-02-20,family,medium
+3035,Dyyxlp,Mmzbplhy,+64-344-7767,dyyxlp.mmzbplhy@example.com,"May 6, 1996",United States,Philadelphia,19101,150 Mmzbplhy St,2013-11-09,frequent_shopper,high
+3038,Pqdjbp,Tmoyybxd,+87-727-2818,pqdjbp.tmoyybxd@example.com,"May 13, 1994",United States,Los Angeles,90001,93 Tmoyybxd St,2013-07-02,family,medium
+3046,Jfgsna,Udbasgjr,+63-704-9927,jfgsna.udbasgjr@example.com,"Nov 20, 1970",United States,Los Angeles,90001,773 Udbasgjr St,2013-01-10,premium,high
+3057,Sudzhl,Hqlwlpkb,+58-697-1505,sudzhl.hqlwlpkb@example.com,"Nov 22, 1952",United States,New York,10001,150 Hqlwlpkb St,2014-10-22,established,high
+3062,Iwqdmk,Yflxqxfw,+96-220-3974,iwqdmk.yflxqxfw@example.com,"May 5, 1960",United States,Houston,77001,855 Yflxqxfw St,2014-02-16,established,medium
+3063,Antzhc,Crjpttif,+68-126-5299,antzhc.crjpttif@example.com,"Oct 23, 1996",Canada,Edmonton,T5A 0A1,950 Crjpttif St,2015-04-27,family,medium
+3066,Usgigs,Mgnokpvs,+77-237-6971,usgigs.mgnokpvs@example.com,"Jul 27, 1963",Canada,Vancouver,V5K 0A1,340 Mgnokpvs St,2013-07-24,occasional,high
+3082,Gjlhri,Rsqpowky,+35-132-5253,gjlhri.rsqpowky@example.com,"May 12, 1999",Canada,Ottawa,K1A 0A1,836 Rsqpowky St,2013-01-12,student,medium
+3084,Igrvvg,Ftglmzvv,+51-152-3463,igrvvg.ftglmzvv@example.com,"Feb 8, 1981",United States,San Antonio,78201,54 Ftglmzvv St,2015-04-30,young_professional,high
+3089,Mazgbp,Jshcqpvu,+84-438-6685,mazgbp.jshcqpvu@example.com,"Jan 22, 1990",Canada,Ottawa,K1A 0A1,298 Jshcqpvu St,2015-05-23,frequent_shopper,high
+3092,Vzytmj,Puqbgazo,+94-836-3906,vzytmj.puqbgazo@example.com,"Oct 26, 1952",United States,San Diego,92101,643 Puqbgazo St,2013-08-29,established,medium
+3096,Osrsou,Urshacyx,+43-467-4835,osrsou.urshacyx@example.com,"Jan 2, 1980",Canada,Ottawa,K1A 0A1,592 Urshacyx St,2016-01-25,frequent_shopper,medium
+3099,Zgadzu,Edyzqxvw,+91-278-4176,zgadzu.edyzqxvw@example.com,"May 9, 2001",United States,New York,10001,603 Edyzqxvw St,2013-03-29,frequent_shopper,high
+3104,Thqwdm,Uwmobaow,+77-877-4103,thqwdm.uwmobaow@example.com,"Jun 4, 1986",United States,Houston,77001,569 Uwmobaow St,2013-11-21,premium,very_high
+3106,Fmojje,Vhmkkfdq,+52-993-9278,fmojje.vhmkkfdq@example.com,"May 28, 2004",United States,Philadelphia,19101,670 Vhmkkfdq St,2014-10-30,student,low
+3111,Gkukew,Xocorqbh,+95-440-8984,gkukew.xocorqbh@example.com,"Mar 4, 1983",United States,San Antonio,78201,500 Xocorqbh St,2014-10-21,frequent_shopper,medium
+3114,Grnbfc,Sdvuncwi,+31-948-5417,grnbfc.sdvuncwi@example.com,"Oct 9, 1995",United States,Philadelphia,19101,770 Sdvuncwi St,2014-03-28,young_professional,high
+3115,Hpatdn,Naaeitwd,+33-362-9603,hpatdn.naaeitwd@example.com,"May 26, 1973",Canada,Kitchener,N2A 0A1,282 Naaeitwd St,2013-05-21,family,medium
+3116,Xfoswb,Ufnukrqo,+40-702-5294,xfoswb.ufnukrqo@example.com,"Aug 2, 1976",United States,Dallas,75201,136 Ufnukrqo St,2014-07-22,premium,very_high
+3119,Lamdjb,Tiksyzvy,+63-299-2662,lamdjb.tiksyzvy@example.com,"Apr 21, 1973",United States,Los Angeles,90001,388 Tiksyzvy St,2014-04-16,family,medium
+3122,Fpsuvi,Ldhdxqaa,+53-780-3763,fpsuvi.ldhdxqaa@example.com,"Oct 15, 1990",Canada,Kitchener,N2A 0A1,293 Ldhdxqaa St,2014-12-30,frequent_shopper,high
+3130,Ennoak,Lysunxqp,+46-436-9506,ennoak.lysunxqp@example.com,"Sep 28, 1985",United States,Chicago,60601,79 Lysunxqp St,2013-01-23,frequent_shopper,medium
+3131,Jzfnzs,Cikkotcq,+92-364-4689,jzfnzs.cikkotcq@example.com,"Jun 3, 1995",Canada,Calgary,T1Y 0A1,505 Cikkotcq St,2015-07-18,occasional,medium
+3135,Lguxnt,Yptccukd,+60-567-6019,lguxnt.yptccukd@example.com,"Aug 12, 2002",United States,Houston,77001,802 Yptccukd St,2014-03-28,frequent_shopper,high
+3136,Nytyhf,Miseqsec,+90-883-3673,nytyhf.miseqsec@example.com,"Jan 10, 1976",United States,San Jose,95101,465 Miseqsec St,2014-06-17,young_professional,medium
+3140,Llkfkf,Iqylunpj,+33-229-5627,llkfkf.iqylunpj@example.com,"Apr 7, 1973",Canada,Ottawa,K1A 0A1,298 Iqylunpj St,2015-03-21,family,low
+3141,Iswvzp,Jbafnwvq,+43-113-1746,iswvzp.jbafnwvq@example.com,"Mar 4, 1992",Canada,Edmonton,T5A 0A1,923 Jbafnwvq St,2015-05-21,family,medium
+3144,Atmqoi,Yzgpldmu,+84-766-7579,atmqoi.yzgpldmu@example.com,"Nov 19, 1997",Canada,Toronto,M5A 1A1,175 Yzgpldmu St,2013-10-30,young_professional,low
+3145,Hharqy,Xvsowret,+86-771-7138,hharqy.xvsowret@example.com,"Nov 15, 1955",Canada,Ottawa,K1A 0A1,150 Xvsowret St,2013-08-15,established,medium
+3151,Wdnwic,Onomefgy,+37-921-9289,wdnwic.onomefgy@example.com,"Jun 27, 1993",United States,Philadelphia,19101,460 Onomefgy St,2013-01-13,frequent_shopper,medium
+3159,Bwfkqq,Anjxgzou,+95-328-2960,bwfkqq.anjxgzou@example.com,"Jun 1, 1995",United States,San Diego,92101,947 Anjxgzou St,2013-01-31,frequent_shopper,high
+3163,Mizmqs,Xjacixme,+79-801-3434,mizmqs.xjacixme@example.com,"Feb 20, 1953",United States,San Jose,95101,589 Xjacixme St,2013-06-15,occasional,medium
+3165,Advpyh,Rbkmkyat,+34-222-2734,advpyh.rbkmkyat@example.com,"Oct 22, 1950",United States,Chicago,60601,671 Rbkmkyat St,2013-04-10,occasional,high
+3182,Owhzay,Nxsyljrg,+87-655-9669,owhzay.nxsyljrg@example.com,"Aug 5, 1968",United States,San Antonio,78201,173 Nxsyljrg St,2013-06-11,occasional,medium
+3184,Cndmdx,Imrolcbi,+86-289-2422,cndmdx.imrolcbi@example.com,"Sep 10, 1998",United States,Philadelphia,19101,168 Imrolcbi St,2013-10-01,young_professional,high
+3194,Wkeqfc,Yfriulgd,+46-562-7897,wkeqfc.yfriulgd@example.com,"Apr 25, 1966",Canada,Edmonton,T5A 0A1,785 Yfriulgd St,2015-07-29,occasional,medium
+3198,Kmvxkt,Ukoyrjhf,+77-413-2115,kmvxkt.ukoyrjhf@example.com,"Sep 27, 1959",United States,Chicago,60601,254 Ukoyrjhf St,2014-03-14,established,medium
+3199,Pzjehu,Vzcjttpg,+65-832-4923,pzjehu.vzcjttpg@example.com,"Jul 5, 1979",Canada,Edmonton,T5A 0A1,752 Vzcjttpg St,2013-08-23,occasional,medium
+3204,Nuhuwv,Hrrqkqtn,+70-561-6485,nuhuwv.hrrqkqtn@example.com,"Jul 6, 1978",Canada,Montreal,H1A 0A1,210 Hrrqkqtn St,2013-04-28,premium,high
+3215,Rgzsmy,Skucbbcs,+46-258-1807,rgzsmy.skucbbcs@example.com,"May 6, 1995",Canada,Winnipeg,R2C 0A1,89 Skucbbcs St,2015-03-26,frequent_shopper,high
+3223,Ptsinf,Umgbfqmb,+80-920-9847,ptsinf.umgbfqmb@example.com,"Mar 22, 1997",Canada,Montreal,H1A 0A1,950 Umgbfqmb St,2014-11-08,young_professional,high
+3229,Rowwvz,Rbdxkogb,+98-260-4424,rowwvz.rbdxkogb@example.com,"Dec 9, 1963",Canada,Quebec City,G1A 0A1,246 Rbdxkogb St,2015-05-18,premium,very_high
+3231,Jdfmju,Yjvjvobx,+98-791-6334,jdfmju.yjvjvobx@example.com,"Feb 11, 1966",United States,Chicago,60601,897 Yjvjvobx St,2014-01-22,established,medium
+3239,Fwsdlt,Bdjlnzfh,+75-873-9728,fwsdlt.bdjlnzfh@example.com,"Mar 26, 1985",Canada,Quebec City,G1A 0A1,376 Bdjlnzfh St,2013-07-01,young_professional,medium
+3240,Otmlwz,Dxagautb,+69-829-3058,otmlwz.dxagautb@example.com,"Apr 2, 1982",Canada,Ottawa,K1A 0A1,253 Dxagautb St,2014-02-13,premium,very_high
+3248,Fglvqi,Lyklvdha,+91-672-9674,fglvqi.lyklvdha@example.com,"Mar 21, 1969",Canada,Montreal,H1A 0A1,934 Lyklvdha St,2013-08-18,established,high
+3251,Pvomjh,Hapevgzg,+94-581-6336,pvomjh.hapevgzg@example.com,"Apr 18, 1963",United States,San Jose,95101,205 Hapevgzg St,2015-02-23,established,high
+3257,Wuhpht,Ktjyoklf,+34-792-7185,wuhpht.ktjyoklf@example.com,"Jun 18, 1992",United States,San Jose,95101,315 Ktjyoklf St,2014-11-29,premium,high
+3260,Nucvss,Osqgudzd,+94-125-4405,nucvss.osqgudzd@example.com,"Apr 5, 1951",United States,Dallas,75201,452 Osqgudzd St,2014-11-13,occasional,high
+3270,Trnsqf,Dhnnrmti,+61-125-9270,trnsqf.dhnnrmti@example.com,"Aug 4, 1988",United States,Houston,77001,638 Dhnnrmti St,2014-11-05,family,medium
+3275,Zdpfcp,Vhmisnmi,+59-236-2808,zdpfcp.vhmisnmi@example.com,"Oct 15, 1978",United States,Los Angeles,90001,172 Vhmisnmi St,2014-10-27,premium,high
+3279,Kqugcc,Mxhspnlc,+61-486-4535,kqugcc.mxhspnlc@example.com,"Dec 5, 1956",Canada,Edmonton,T5A 0A1,377 Mxhspnlc St,2015-01-26,occasional,medium
+3280,Oioknk,Chvfjvtq,+53-233-1538,oioknk.chvfjvtq@example.com,"Aug 13, 2006",United States,Philadelphia,19101,615 Chvfjvtq St,2014-12-21,young_professional,medium
+3289,Atqbnq,Guyjmwdp,+92-672-8106,atqbnq.guyjmwdp@example.com,"Dec 23, 1954",Canada,Ottawa,K1A 0A1,224 Guyjmwdp St,2014-10-09,occasional,high
+3291,Qnfcsk,Zbbtoqbx,+57-745-4671,qnfcsk.zbbtoqbx@example.com,"Jul 17, 1976",United States,Los Angeles,90001,328 Zbbtoqbx St,2013-06-09,young_professional,high
+3294,Ptkvtj,Ehhvrfye,+95-677-4526,ptkvtj.ehhvrfye@example.com,"Mar 23, 1981",United States,Houston,77001,463 Ehhvrfye St,2014-12-30,occasional,medium
+3296,Coxhwd,Pmhovwdw,+58-508-1159,coxhwd.pmhovwdw@example.com,"Nov 15, 1988",United States,Los Angeles,90001,232 Pmhovwdw St,2013-02-28,occasional,medium
+3300,Petvka,Bxsjisxi,+31-115-1088,petvka.bxsjisxi@example.com,"Dec 28, 1993",United States,Houston,77001,43 Bxsjisxi St,2014-05-04,premium,very_high
+3301,Vjhrgj,Elzixrkl,+73-350-6052,vjhrgj.elzixrkl@example.com,"Apr 18, 2004",United States,Dallas,75201,716 Elzixrkl St,2013-07-24,premium,high
+3304,Kefdxq,Vxuubihh,+72-756-6214,kefdxq.vxuubihh@example.com,"Nov 12, 1985",United States,Philadelphia,19101,750 Vxuubihh St,2013-08-06,frequent_shopper,medium
+3315,Kxsjzj,Swphkdvi,+48-784-6861,kxsjzj.swphkdvi@example.com,"Nov 25, 1980",Canada,Winnipeg,R2C 0A1,714 Swphkdvi St,2014-09-23,young_professional,high
+3320,Gruqnz,Yklktuyw,+93-545-9131,gruqnz.yklktuyw@example.com,"Oct 15, 1992",Canada,Ottawa,K1A 0A1,668 Yklktuyw St,2014-03-10,family,medium
+3348,Wxqafh,Wafrlsbg,+92-904-9951,wxqafh.wafrlsbg@example.com,"Aug 26, 1959",Canada,Winnipeg,R2C 0A1,954 Wafrlsbg St,2013-10-05,established,medium
+3350,Wsokyk,Enolxugd,+98-428-4948,wsokyk.enolxugd@example.com,"Aug 10, 1998",United States,Phoenix,85001,180 Enolxugd St,2013-12-28,young_professional,high
+3354,Zakgdd,Feehfkyt,+33-243-6027,zakgdd.feehfkyt@example.com,"Feb 9, 1999",United States,Dallas,75201,579 Feehfkyt St,2014-05-22,student,medium
+3355,Ujwjnf,Ifzgliby,+65-803-4131,ujwjnf.ifzgliby@example.com,"Mar 6, 1997",United States,San Jose,95101,261 Ifzgliby St,2014-04-01,family,medium
+3359,Ldmqru,Rnefyrqn,+68-511-1031,ldmqru.rnefyrqn@example.com,"Dec 3, 1988",Canada,Kitchener,N2A 0A1,799 Rnefyrqn St,2014-02-16,young_professional,medium
+3361,Ffbxbg,Ktdtzrzu,+63-627-3585,ffbxbg.ktdtzrzu@example.com,"Dec 4, 1974",Canada,Kitchener,N2A 0A1,543 Ktdtzrzu St,2014-11-18,frequent_shopper,high
+3369,Jruzfm,Nchaxfrv,+51-548-6457,jruzfm.nchaxfrv@example.com,"Mar 7, 2000",Canada,Winnipeg,R2C 0A1,617 Nchaxfrv St,2014-12-01,student,medium
+3373,Zskbbv,Jezyxwgw,+84-718-5675,zskbbv.jezyxwgw@example.com,"Mar 22, 1966",Canada,Hamilton,L8E 0A1,898 Jezyxwgw St,2014-11-17,established,low
+3375,Luzzfk,Adpwqiru,+39-891-8231,luzzfk.adpwqiru@example.com,"Nov 2, 1972",Canada,Kitchener,N2A 0A1,723 Adpwqiru St,2013-01-05,occasional,medium
+3390,Nexqit,Dnfdpnjx,+35-581-4553,nexqit.dnfdpnjx@example.com,"Jul 12, 1999",United States,San Antonio,78201,109 Dnfdpnjx St,2013-09-05,young_professional,low
+3391,Vsuqvk,Runcwzal,+48-242-7586,vsuqvk.runcwzal@example.com,"Aug 27, 1983",United States,New York,10001,541 Runcwzal St,2015-01-08,family,medium
+3399,Paofoq,Mvcaskzn,+89-357-3855,paofoq.mvcaskzn@example.com,"Nov 22, 1991",Canada,Edmonton,T5A 0A1,690 Mvcaskzn St,2013-10-04,premium,very_high
+3401,Nocrwj,Bhaotgcg,+50-993-5769,nocrwj.bhaotgcg@example.com,"Jun 6, 1982",United States,Phoenix,85001,550 Bhaotgcg St,2014-07-28,premium,high
+3414,Phunkw,Oghwxata,+76-459-7688,phunkw.oghwxata@example.com,"Feb 4, 1998",Canada,Quebec City,G1A 0A1,352 Oghwxata St,2014-12-15,family,low
+3415,Yicnun,Cxruurux,+91-521-3449,yicnun.cxruurux@example.com,"Feb 23, 2003",United States,San Diego,92101,173 Cxruurux St,2013-01-03,student,low
+3416,Gsrero,Zhutunve,+32-359-6172,gsrero.zhutunve@example.com,"Nov 11, 1976",United States,Houston,77001,295 Zhutunve St,2014-03-04,premium,high
+3426,Ddbaoj,Zvzwbvgd,+95-711-1002,ddbaoj.zvzwbvgd@example.com,"Jun 27, 1997",Canada,Kitchener,N2A 0A1,952 Zvzwbvgd St,2014-12-22,frequent_shopper,very_high
+3441,Cidlry,Djjjqcbd,+93-245-8455,cidlry.djjjqcbd@example.com,"Jun 17, 1952",United States,New York,10001,841 Djjjqcbd St,2015-05-13,occasional,medium
+3443,Zeerpq,Mqubzlhs,+48-606-7793,zeerpq.mqubzlhs@example.com,"Apr 1, 1953",United States,Chicago,60601,485 Mqubzlhs St,2013-09-29,established,medium
+3447,Jltlrj,Eugrlysh,+31-964-5906,jltlrj.eugrlysh@example.com,"Oct 28, 1983",Canada,Hamilton,L8E 0A1,933 Eugrlysh St,2014-11-27,young_professional,high
+3450,Kuynzt,Hnhtjbey,+89-606-2809,kuynzt.hnhtjbey@example.com,"Nov 20, 1998",United States,Chicago,60601,634 Hnhtjbey St,2013-11-28,family,medium
+3454,Vhswej,Jcxirhfr,+93-530-9303,vhswej.jcxirhfr@example.com,"Aug 20, 1997",United States,San Jose,95101,280 Jcxirhfr St,2013-01-19,occasional,low
+3457,Gxjeod,Zdmivfyv,+80-721-4447,gxjeod.zdmivfyv@example.com,"Feb 1, 1952",Canada,Toronto,M5A 1A1,503 Zdmivfyv St,2013-06-03,occasional,low
+3461,Bbyrvm,Htmnbjlz,+61-788-7630,bbyrvm.htmnbjlz@example.com,"Feb 20, 1964",United States,Dallas,75201,45 Htmnbjlz St,2015-03-08,occasional,high
+3462,Qrokep,Qqvhdwdl,+69-922-6986,qrokep.qqvhdwdl@example.com,"Feb 19, 1961",United States,New York,10001,106 Qqvhdwdl St,2014-09-11,occasional,medium
+3466,Byuqto,Tdospzub,+70-675-9412,byuqto.tdospzub@example.com,"Oct 25, 2004",United States,Chicago,60601,496 Tdospzub St,2015-07-19,frequent_shopper,high
+3479,Yrhkvg,Nbsjkbrv,+51-223-5125,yrhkvg.nbsjkbrv@example.com,"May 28, 1954",United States,Philadelphia,19101,109 Nbsjkbrv St,2013-01-08,established,high
+3489,Iezuqb,Mislfnuc,+89-460-5751,iezuqb.mislfnuc@example.com,"Nov 21, 1976",United States,Chicago,60601,943 Mislfnuc St,2014-08-29,young_professional,medium
+3496,Nezcaw,Fwezbtnl,+91-959-4847,nezcaw.fwezbtnl@example.com,"May 5, 1978",United States,San Diego,92101,222 Fwezbtnl St,2013-07-06,frequent_shopper,very_high
+3504,Ugbean,Gqsiohrf,+82-945-7138,ugbean.gqsiohrf@example.com,"Mar 19, 1962",United States,Houston,77001,825 Gqsiohrf St,2013-04-03,established,medium
+3515,Gputut,Mpkksgsm,+53-897-5341,gputut.mpkksgsm@example.com,"Mar 14, 1996",United States,Houston,77001,647 Mpkksgsm St,2013-03-15,frequent_shopper,high
+3521,Eayyet,Lcjqstry,+33-687-3027,eayyet.lcjqstry@example.com,"Jul 20, 1967",United States,San Diego,92101,832 Lcjqstry St,2016-03-25,occasional,medium
+3534,Cfpnvq,Gmdbgwxw,+89-637-5279,cfpnvq.gmdbgwxw@example.com,"Jun 5, 1971",United States,Philadelphia,19101,694 Gmdbgwxw St,2013-06-19,frequent_shopper,medium
+3537,Zxjzsi,Fhyfdmmu,+83-150-6544,zxjzsi.fhyfdmmu@example.com,"Feb 26, 1983",Canada,Hamilton,L8E 0A1,800 Fhyfdmmu St,2014-04-01,frequent_shopper,high
+3541,Kolrib,Ygiwimik,+77-916-2130,kolrib.ygiwimik@example.com,"Jul 7, 1962",United States,Dallas,75201,809 Ygiwimik St,2013-06-04,established,low
+3548,Cvwmou,Kvekofzz,+88-144-3859,cvwmou.kvekofzz@example.com,"Sep 10, 1969",United States,San Antonio,78201,669 Kvekofzz St,2014-10-15,occasional,low
+3553,Evblkj,Prkykddd,+81-857-9762,evblkj.prkykddd@example.com,"Mar 5, 1984",Canada,Quebec City,G1A 0A1,10 Prkykddd St,2014-03-14,frequent_shopper,medium
+3563,Kocbdg,Wkzjlfpk,+34-666-6653,kocbdg.wkzjlfpk@example.com,"Jul 8, 1968",Canada,Vancouver,V5K 0A1,48 Wkzjlfpk St,2014-05-14,established,medium
+3582,Pegcmf,Lekpzxyt,+96-873-3215,pegcmf.lekpzxyt@example.com,"Feb 24, 2002",Canada,Montreal,H1A 0A1,43 Lekpzxyt St,2013-11-23,student,medium
+3584,Udzvzn,Btiiokei,+91-741-2822,udzvzn.btiiokei@example.com,"Apr 6, 1977",United States,San Jose,95101,188 Btiiokei St,2014-09-21,occasional,low
+3591,Fdfpff,Vnvlnphi,+71-994-8776,fdfpff.vnvlnphi@example.com,"Mar 20, 1957",Canada,Montreal,H1A 0A1,842 Vnvlnphi St,2014-12-19,occasional,medium
+3593,Rubiiu,Yydcuhjy,+62-916-4035,rubiiu.yydcuhjy@example.com,"Jan 26, 1999",Canada,Vancouver,V5K 0A1,749 Yydcuhjy St,2015-05-11,student,medium
+3604,Tittgf,Sorqpmym,+54-247-8640,tittgf.sorqpmym@example.com,"May 14, 1978",United States,San Diego,92101,854 Sorqpmym St,2013-11-20,young_professional,high
+3605,Xseqlg,Qmpvqwgb,+90-802-8176,xseqlg.qmpvqwgb@example.com,"May 6, 1996",Canada,Edmonton,T5A 0A1,347 Qmpvqwgb St,2013-06-03,frequent_shopper,high
+3614,Mavqam,Sqzdauxb,+41-945-6317,mavqam.sqzdauxb@example.com,"May 20, 1999",Canada,Calgary,T1Y 0A1,371 Sqzdauxb St,2013-09-23,young_professional,high
+3622,Islaip,Voewmcif,+88-548-1686,islaip.voewmcif@example.com,"Mar 6, 1987",Canada,Toronto,M5A 1A1,401 Voewmcif St,2013-07-12,frequent_shopper,low
+3627,Wlkplf,Jytcuucs,+83-578-5995,wlkplf.jytcuucs@example.com,"Apr 14, 1999",Canada,Ottawa,K1A 0A1,166 Jytcuucs St,2015-01-03,young_professional,medium
+3635,Ekwsap,Ffxtykjl,+87-114-5825,ekwsap.ffxtykjl@example.com,"Nov 24, 1972",United States,Phoenix,85001,139 Ffxtykjl St,2015-04-04,family,medium
+3641,Rqsshm,Xqqqgrhf,+81-516-4444,rqsshm.xqqqgrhf@example.com,"Jan 22, 1964",Canada,Winnipeg,R2C 0A1,637 Xqqqgrhf St,2013-10-09,established,high
+3643,Bsgeyo,Nfwtqxib,+56-817-2534,bsgeyo.nfwtqxib@example.com,"Nov 22, 1961",Canada,Vancouver,V5K 0A1,273 Nfwtqxib St,2013-07-18,occasional,high
+3644,Tmkbzo,Aflbveru,+48-121-7507,tmkbzo.aflbveru@example.com,"Dec 24, 1957",United States,Chicago,60601,646 Aflbveru St,2014-07-06,occasional,medium
+3646,Gyrmpj,Dfzdcztm,+50-649-6666,gyrmpj.dfzdcztm@example.com,"Feb 24, 1975",United States,San Diego,92101,882 Dfzdcztm St,2015-03-02,family,medium
+3655,Cakzav,Mycdeeyk,+41-359-5725,cakzav.mycdeeyk@example.com,"Jan 6, 1998",Canada,Toronto,M5A 1A1,478 Mycdeeyk St,2014-09-20,occasional,medium
+3664,Wsdtbu,Kuenmefy,+41-732-5635,wsdtbu.kuenmefy@example.com,"Nov 4, 1963",United States,Philadelphia,19101,63 Kuenmefy St,2014-01-03,occasional,medium
+3677,Ikbojf,Ulcaxcar,+96-377-3313,ikbojf.ulcaxcar@example.com,"May 12, 1977",Canada,Toronto,M5A 1A1,365 Ulcaxcar St,2015-07-13,family,medium
+3685,Qmsdkp,Ebhiklqm,+98-866-4424,qmsdkp.ebhiklqm@example.com,"Nov 1, 1953",Canada,Winnipeg,R2C 0A1,739 Ebhiklqm St,2015-06-09,premium,very_high
+3687,Xwdofr,Jnfgizwd,+63-289-9001,xwdofr.jnfgizwd@example.com,"Feb 7, 1970",Canada,Ottawa,K1A 0A1,815 Jnfgizwd St,2014-12-08,frequent_shopper,low
+3690,Itvkwg,Quuvzuwx,+45-545-8956,itvkwg.quuvzuwx@example.com,"Apr 3, 1977",Canada,Calgary,T1Y 0A1,639 Quuvzuwx St,2013-07-08,young_professional,high
+3692,Tilrxr,Zrqkefve,+67-396-5527,tilrxr.zrqkefve@example.com,"Dec 8, 1997",United States,Dallas,75201,634 Zrqkefve St,2014-06-20,frequent_shopper,high
+3709,Fjkkim,Cczxxskd,+81-757-1725,fjkkim.cczxxskd@example.com,"Oct 14, 1967",Canada,Montreal,H1A 0A1,153 Cczxxskd St,2014-03-09,established,medium
+3716,Havikv,Vqwzhltj,+87-497-9781,havikv.vqwzhltj@example.com,"Apr 27, 1957",Canada,Edmonton,T5A 0A1,546 Vqwzhltj St,2013-10-06,premium,very_high
+3719,Otesug,Ompbazjy,+69-910-9177,otesug.ompbazjy@example.com,"Apr 1, 1957",Canada,Calgary,T1Y 0A1,289 Ompbazjy St,2013-06-30,established,high
+3724,Wfuwzl,Yexbtbor,+55-998-8605,wfuwzl.yexbtbor@example.com,"Jan 7, 1958",Canada,Winnipeg,R2C 0A1,319 Yexbtbor St,2015-01-31,established,low
+3725,Nzyoou,Ucekbpod,+38-998-2533,nzyoou.ucekbpod@example.com,"Aug 19, 1957",Canada,Vancouver,V5K 0A1,554 Ucekbpod St,2014-11-11,established,medium
+3726,Urdlig,Fjpersdw,+37-154-4742,urdlig.fjpersdw@example.com,"May 4, 1973",Canada,Vancouver,V5K 0A1,641 Fjpersdw St,2013-11-13,frequent_shopper,medium
+3727,Kebleu,Herbtogt,+62-464-7287,kebleu.herbtogt@example.com,"Oct 26, 1953",United States,San Diego,92101,188 Herbtogt St,2013-12-08,occasional,high
+3730,Vijnki,Oacrjfew,+87-845-3508,vijnki.oacrjfew@example.com,"Sep 2, 1953",Canada,Edmonton,T5A 0A1,491 Oacrjfew St,2013-02-07,occasional,high
+3739,Dfcwtz,Gnsombfd,+92-981-9785,dfcwtz.gnsombfd@example.com,"Jun 20, 1973",Canada,Quebec City,G1A 0A1,352 Gnsombfd St,2013-06-18,frequent_shopper,high
+3745,Qouapn,Whydhbbx,+71-722-1889,qouapn.whydhbbx@example.com,"Sep 1, 1959",Canada,Vancouver,V5K 0A1,797 Whydhbbx St,2013-11-02,occasional,high
+3759,Xnkrac,Aqsuzjpe,+46-125-6145,xnkrac.aqsuzjpe@example.com,"Sep 6, 1988",Canada,Hamilton,L8E 0A1,663 Aqsuzjpe St,2013-04-22,frequent_shopper,high
+3768,Ciskqr,Lctbygzu,+89-254-2065,ciskqr.lctbygzu@example.com,"Jul 15, 1991",Canada,Winnipeg,R2C 0A1,981 Lctbygzu St,2014-01-17,frequent_shopper,medium
+3778,Hvmdrs,Lysbglwc,+87-272-7155,hvmdrs.lysbglwc@example.com,"Sep 5, 1956",Canada,Calgary,T1Y 0A1,358 Lysbglwc St,2015-01-10,frequent_shopper,very_high
+3801,Hbeuke,Yvyvnrek,+42-731-3814,hbeuke.yvyvnrek@example.com,"Oct 27, 1999",Canada,Hamilton,L8E 0A1,401 Yvyvnrek St,2013-08-01,student,medium
+3802,Tktvyj,Hkuvmbad,+92-101-9127,tktvyj.hkuvmbad@example.com,"Mar 5, 2001",Canada,Edmonton,T5A 0A1,319 Hkuvmbad St,2013-09-29,student,low
+3805,Zgdjtt,Ndxjctud,+52-827-5024,zgdjtt.ndxjctud@example.com,"Dec 26, 1999",Canada,Toronto,M5A 1A1,299 Ndxjctud St,2013-07-21,student,low
+3807,Iupcbo,Pbqsqpjv,+56-754-4461,iupcbo.pbqsqpjv@example.com,"May 1, 1990",United States,San Jose,95101,270 Pbqsqpjv St,2013-09-11,frequent_shopper,medium
+3808,Blmbve,Dcpfrpgf,+57-227-9971,blmbve.dcpfrpgf@example.com,"Jun 21, 1958",Canada,Quebec City,G1A 0A1,501 Dcpfrpgf St,2013-01-10,established,medium
+3810,Kfahfj,Zfsnhvyc,+64-488-5469,kfahfj.zfsnhvyc@example.com,"Apr 14, 2000",Canada,Quebec City,G1A 0A1,957 Zfsnhvyc St,2014-07-14,young_professional,medium
+3812,Jrdfci,Ujbsxlbx,+37-481-7265,jrdfci.ujbsxlbx@example.com,"Jun 8, 1958",United States,New York,10001,725 Ujbsxlbx St,2015-07-06,occasional,medium
+3824,Poszxs,Rdjlvjlw,+84-834-7206,poszxs.rdjlvjlw@example.com,"Jan 16, 1987",United States,Chicago,60601,304 Rdjlvjlw St,2013-07-10,family,medium
+3826,Nusxfv,Wiqcqfmx,+77-860-8331,nusxfv.wiqcqfmx@example.com,"Oct 4, 1951",United States,Philadelphia,19101,523 Wiqcqfmx St,2014-05-04,established,medium
+3835,Tbfvth,Oafqoqbo,+57-379-7963,tbfvth.oafqoqbo@example.com,"Apr 5, 2001",United States,San Diego,92101,962 Oafqoqbo St,2015-02-22,premium,high
+3848,Rldovb,Uszktqjm,+52-835-1218,rldovb.uszktqjm@example.com,"Aug 7, 1986",Canada,Ottawa,K1A 0A1,553 Uszktqjm St,2013-01-01,occasional,low
+3864,Fahdkv,Wkqhvynb,+78-732-8835,fahdkv.wkqhvynb@example.com,"Jun 18, 1984",Canada,Hamilton,L8E 0A1,32 Wkqhvynb St,2014-05-24,frequent_shopper,high
+3870,Aeauxm,Qdxsikdj,+58-347-7783,aeauxm.qdxsikdj@example.com,"Sep 3, 1968",United States,Los Angeles,90001,482 Qdxsikdj St,2015-02-02,established,low
+3871,Wkgppo,Wxcqutnz,+61-340-9064,wkgppo.wxcqutnz@example.com,"Apr 9, 1976",United States,Chicago,60601,502 Wxcqutnz St,2014-08-05,frequent_shopper,medium
+3872,Qhynhs,Lwhlhgny,+39-472-1705,qhynhs.lwhlhgny@example.com,"Jul 24, 1989",Canada,Vancouver,V5K 0A1,367 Lwhlhgny St,2014-05-30,young_professional,low
+3887,Nbvoyd,Wfbywpdm,+57-128-5047,nbvoyd.wfbywpdm@example.com,"Mar 28, 1978",Canada,Calgary,T1Y 0A1,638 Wfbywpdm St,2013-06-24,family,medium
+3891,Elijrp,Bwleugth,+68-176-3799,elijrp.bwleugth@example.com,"Aug 13, 1986",Canada,Montreal,H1A 0A1,728 Bwleugth St,2014-04-19,young_professional,low
+3901,Izhuym,Jmayqhar,+63-904-9224,izhuym.jmayqhar@example.com,"Feb 13, 1998",Canada,Vancouver,V5K 0A1,503 Jmayqhar St,2016-02-26,frequent_shopper,high
+3902,Novmmv,Boznhdmn,+63-921-3866,novmmv.boznhdmn@example.com,"Feb 23, 2006",Canada,Montreal,H1A 0A1,112 Boznhdmn St,2013-02-12,frequent_shopper,high
+3903,Bxtnis,Lfjvjpgo,+91-334-9242,bxtnis.lfjvjpgo@example.com,"Dec 16, 1973",United States,Chicago,60601,859 Lfjvjpgo St,2015-04-06,frequent_shopper,medium
+3904,Ugtusx,Aoxdlemv,+65-997-4681,ugtusx.aoxdlemv@example.com,"Jan 6, 1953",Canada,Quebec City,G1A 0A1,888 Aoxdlemv St,2015-01-29,occasional,medium
+3908,Villnz,Cshciqiv,+39-760-2600,villnz.cshciqiv@example.com,"Apr 23, 1957",Canada,Toronto,M5A 1A1,563 Cshciqiv St,2013-06-17,established,low
+3910,Cxojyd,Heqwvdiw,+44-787-5547,cxojyd.heqwvdiw@example.com,"Aug 28, 1993",United States,Dallas,75201,172 Heqwvdiw St,2013-10-10,occasional,medium
+3915,Jjklqr,Gnkbatxj,+39-478-8690,jjklqr.gnkbatxj@example.com,"Jan 23, 1969",Canada,Montreal,H1A 0A1,369 Gnkbatxj St,2013-08-28,occasional,high
+3917,Vdcwvq,Mlepovob,+62-828-3213,vdcwvq.mlepovob@example.com,"Nov 20, 2005",United States,Dallas,75201,638 Mlepovob St,2014-12-17,young_professional,medium
+3925,Kbnwjx,Pffzcugi,+38-845-3430,kbnwjx.pffzcugi@example.com,"Mar 6, 1964",United States,San Diego,92101,665 Pffzcugi St,2014-03-28,established,medium
+3932,Amhiax,Irmqozry,+39-894-1178,amhiax.irmqozry@example.com,"Jul 6, 1986",Canada,Quebec City,G1A 0A1,645 Irmqozry St,2013-01-22,young_professional,medium
+3933,Qssuxx,Xevnzvnd,+45-558-1271,qssuxx.xevnzvnd@example.com,"Feb 13, 1966",Canada,Calgary,T1Y 0A1,30 Xevnzvnd St,2014-06-03,occasional,medium
+3939,Pvhtms,Imcrpewu,+59-921-7520,pvhtms.imcrpewu@example.com,"Jan 25, 1963",Canada,Kitchener,N2A 0A1,175 Imcrpewu St,2014-09-18,occasional,high
+3941,Fxqgqy,Mnojkinc,+74-668-7494,fxqgqy.mnojkinc@example.com,"Aug 21, 1993",Canada,Toronto,M5A 1A1,19 Mnojkinc St,2013-07-29,occasional,medium
+3949,Wuircp,Bzuxhvyi,+30-395-2349,wuircp.bzuxhvyi@example.com,"Dec 24, 1989",Canada,Quebec City,G1A 0A1,955 Bzuxhvyi St,2013-04-23,family,low
+3951,Exwaop,Emnsmcid,+91-572-6186,exwaop.emnsmcid@example.com,"Feb 19, 1989",Canada,Winnipeg,R2C 0A1,897 Emnsmcid St,2013-10-10,frequent_shopper,medium
+3953,Oqzwah,Rpkdzkmo,+99-182-7855,oqzwah.rpkdzkmo@example.com,"Sep 5, 1973",Canada,Edmonton,T5A 0A1,281 Rpkdzkmo St,2014-06-01,frequent_shopper,high
+3956,Kglgsh,Puvzwjyv,+81-117-7650,kglgsh.puvzwjyv@example.com,"Feb 24, 1985",Canada,Hamilton,L8E 0A1,244 Puvzwjyv St,2013-04-28,family,medium
+3967,Pobhxr,Ocqveiel,+42-983-3689,pobhxr.ocqveiel@example.com,"Aug 4, 1960",Canada,Calgary,T1Y 0A1,701 Ocqveiel St,2013-02-19,occasional,medium
+3969,Ktqvjt,Sgcttfcg,+81-767-5165,ktqvjt.sgcttfcg@example.com,"Dec 8, 2006",United States,Philadelphia,19101,366 Sgcttfcg St,2013-07-16,student,low
+3974,Ofqyht,Seywjyjq,+54-705-3537,ofqyht.seywjyjq@example.com,"Nov 22, 1982",United States,Phoenix,85001,954 Seywjyjq St,2014-03-28,frequent_shopper,very_high
+3977,Vcdvnd,Occktzsi,+84-617-9207,vcdvnd.occktzsi@example.com,"Apr 24, 1991",United States,Los Angeles,90001,431 Occktzsi St,2014-01-26,occasional,medium
+3987,Gjqdxy,Jfclhpcn,+81-558-3466,gjqdxy.jfclhpcn@example.com,"Aug 19, 2000",Canada,Kitchener,N2A 0A1,862 Jfclhpcn St,2016-11-27,premium,high
+3991,Bkcezi,Frwouzjb,+62-688-2065,bkcezi.frwouzjb@example.com,"Jun 24, 1993",United States,Los Angeles,90001,698 Frwouzjb St,2014-02-08,occasional,medium
+3993,Tolzxc,Hsthuwze,+70-548-8663,tolzxc.hsthuwze@example.com,"Nov 19, 1966",Canada,Vancouver,V5K 0A1,168 Hsthuwze St,2014-12-15,established,high
+4003,Xmvhkv,Dafvbyas,+47-922-3105,xmvhkv.dafvbyas@example.com,"Sep 20, 1954",Canada,Winnipeg,R2C 0A1,511 Dafvbyas St,2014-07-28,established,medium
+4005,Ijwttw,Ksaijrvz,+58-664-9523,ijwttw.ksaijrvz@example.com,"Oct 13, 2006",Canada,Hamilton,L8E 0A1,429 Ksaijrvz St,2014-06-02,young_professional,medium
+4032,Ywcseh,Apdfsapt,+86-873-6632,ywcseh.apdfsapt@example.com,"Apr 13, 1954",Canada,Vancouver,V5K 0A1,716 Apdfsapt St,2014-11-12,occasional,high
+4039,Estyey,Bqnbmnpp,+61-152-3631,estyey.bqnbmnpp@example.com,"Feb 17, 1999",United States,Houston,77001,346 Bqnbmnpp St,2014-03-01,student,medium
+4045,Sytgse,Mtjrtxkt,+77-336-2537,sytgse.mtjrtxkt@example.com,"Feb 12, 1970",Canada,Hamilton,L8E 0A1,500 Mtjrtxkt St,2015-10-16,family,medium
+4058,Rsigkq,Mhmabmpe,+63-952-1552,rsigkq.mhmabmpe@example.com,"Feb 11, 1973",Canada,Quebec City,G1A 0A1,140 Mhmabmpe St,2018-01-01,occasional,medium
+4063,Pwyxvr,Xnfmgfsj,+44-292-5363,pwyxvr.xnfmgfsj@example.com,"Mar 17, 1991",Canada,Kitchener,N2A 0A1,101 Xnfmgfsj St,2014-08-09,occasional,medium
+4065,Uflwpq,Aeztmprr,+71-307-3674,uflwpq.aeztmprr@example.com,"Aug 4, 1977",Canada,Ottawa,K1A 0A1,850 Aeztmprr St,2013-08-07,frequent_shopper,low
+4066,Desefc,Qpgyfcxb,+40-538-8295,desefc.qpgyfcxb@example.com,"Sep 12, 1996",United States,Chicago,60601,615 Qpgyfcxb St,2014-07-07,young_professional,low
+4073,Hdouqv,Hjckthga,+33-207-8069,hdouqv.hjckthga@example.com,"Aug 15, 1983",United States,Phoenix,85001,249 Hjckthga St,2014-08-19,family,low
+4078,Vobgxi,Dwysglif,+35-591-3275,vobgxi.dwysglif@example.com,"Nov 18, 1995",Canada,Edmonton,T5A 0A1,695 Dwysglif St,2013-11-05,frequent_shopper,low
+4080,Sieioq,Xfaviwae,+67-186-5161,sieioq.xfaviwae@example.com,"Apr 4, 1982",Canada,Kitchener,N2A 0A1,890 Xfaviwae St,2014-12-20,family,medium
+4087,Qwteis,Tmshlacq,+55-941-6605,qwteis.tmshlacq@example.com,"Sep 11, 1994",Canada,Kitchener,N2A 0A1,96 Tmshlacq St,2013-12-18,family,medium
+4091,Zcntnu,Qybopman,+65-941-7899,zcntnu.qybopman@example.com,"Jan 18, 1975",Canada,Montreal,H1A 0A1,983 Qybopman St,2013-04-10,occasional,medium
+4096,Vcxvbf,Ghypbjhv,+42-515-6089,vcxvbf.ghypbjhv@example.com,"Oct 21, 1964",Canada,Toronto,M5A 1A1,304 Ghypbjhv St,2014-03-28,premium,very_high
+4124,Xwsrwz,Muhzcuhi,+31-766-6183,xwsrwz.muhzcuhi@example.com,"Oct 8, 1982",Canada,Vancouver,V5K 0A1,33 Muhzcuhi St,2013-09-23,occasional,medium
+4136,Kskhna,Lrhupmby,+65-536-1524,kskhna.lrhupmby@example.com,"May 6, 1965",United States,San Jose,95101,161 Lrhupmby St,2015-08-05,established,high
+4147,Anibng,Hcmfbipw,+81-986-4591,anibng.hcmfbipw@example.com,"Jan 20, 1968",Canada,Hamilton,L8E 0A1,70 Hcmfbipw St,2015-05-18,occasional,high
+4148,Feijlx,Kngahkrn,+47-900-3343,feijlx.kngahkrn@example.com,"Oct 23, 1989",Canada,Hamilton,L8E 0A1,531 Kngahkrn St,2013-10-11,family,medium
+4153,Hmswwj,Dbracptb,+81-826-6977,hmswwj.dbracptb@example.com,"Nov 8, 1983",United States,Philadelphia,19101,874 Dbracptb St,2013-01-07,family,medium
+4154,Wjdijl,Ktxhtjvh,+82-718-9507,wjdijl.ktxhtjvh@example.com,"Sep 15, 1971",United States,Los Angeles,90001,62 Ktxhtjvh St,2014-10-12,frequent_shopper,medium
+4158,Qjhdbu,Jujewhfc,+86-261-5944,qjhdbu.jujewhfc@example.com,"Aug 25, 1965",United States,Philadelphia,19101,542 Jujewhfc St,2014-09-10,established,high
+4167,Qulkph,Pzscipcd,+68-382-2536,qulkph.pzscipcd@example.com,"Feb 6, 1984",Canada,Winnipeg,R2C 0A1,852 Pzscipcd St,2013-06-15,occasional,low
+4170,Fatkxw,Ahrkptek,+79-853-7961,fatkxw.ahrkptek@example.com,"Jan 5, 1952",United States,San Jose,95101,876 Ahrkptek St,2013-02-23,occasional,medium
+4179,Zlcuyi,Pbkaxobk,+78-949-7419,zlcuyi.pbkaxobk@example.com,"Jan 13, 1977",United States,San Jose,95101,820 Pbkaxobk St,2014-01-02,family,medium
+4181,Kaupal,Qgylkhiu,+92-598-6329,kaupal.qgylkhiu@example.com,"Aug 17, 1972",Canada,Edmonton,T5A 0A1,679 Qgylkhiu St,2013-03-14,frequent_shopper,medium
+4184,Ehxfbz,Jdunfoor,+63-511-8245,ehxfbz.jdunfoor@example.com,"May 14, 1952",United States,Chicago,60601,746 Jdunfoor St,2013-02-12,established,medium
+4190,Xselwz,Cafsevau,+51-126-8765,xselwz.cafsevau@example.com,"Nov 12, 1954",United States,San Diego,92101,456 Cafsevau St,2013-07-31,occasional,medium
+4191,Cpysid,Gdfdqpvi,+76-746-1048,cpysid.gdfdqpvi@example.com,"Dec 8, 1979",Canada,Toronto,M5A 1A1,14 Gdfdqpvi St,2015-01-27,young_professional,high
+4202,Kiucxi,Razjwlfw,+50-692-1035,kiucxi.razjwlfw@example.com,"Aug 3, 1989",Canada,Quebec City,G1A 0A1,831 Razjwlfw St,2013-02-16,family,low
+4206,Kjljqs,Iqoqdhcx,+51-882-2082,kjljqs.iqoqdhcx@example.com,"Sep 11, 1959",Canada,Vancouver,V5K 0A1,843 Iqoqdhcx St,2013-03-10,occasional,low
+4208,Afxxkc,Icmzogql,+73-759-6090,afxxkc.icmzogql@example.com,"Mar 28, 1985",Canada,Ottawa,K1A 0A1,943 Icmzogql St,2013-07-22,young_professional,medium
+4212,Gkcrsn,Kyemjgpt,+86-886-8054,gkcrsn.kyemjgpt@example.com,"Oct 27, 2003",Canada,Ottawa,K1A 0A1,688 Kyemjgpt St,2013-11-10,young_professional,medium
+4217,Ltqvap,Vgwjxnab,+73-197-5578,ltqvap.vgwjxnab@example.com,"Jan 5, 1977",United States,Chicago,60601,744 Vgwjxnab St,2014-08-29,frequent_shopper,very_high
+4218,Fmvozr,Srbnqpyq,+43-908-4646,fmvozr.srbnqpyq@example.com,"Oct 15, 1995",Canada,Calgary,T1Y 0A1,823 Srbnqpyq St,2014-07-04,family,medium
+4233,Ofcqyi,Yochyebs,+32-366-9810,ofcqyi.yochyebs@example.com,"May 10, 1986",Canada,Quebec City,G1A 0A1,332 Yochyebs St,2013-11-15,occasional,medium
+4247,Eypnaz,Limudtxr,+60-233-8142,eypnaz.limudtxr@example.com,"Dec 11, 1992",United States,San Jose,95101,630 Limudtxr St,2015-04-13,frequent_shopper,medium
+4255,Nburxm,Edrxtmzk,+39-955-6556,nburxm.edrxtmzk@example.com,"May 7, 1981",United States,Dallas,75201,187 Edrxtmzk St,2015-02-15,family,low
+4262,Oumgar,Pwniedoz,+45-368-2522,oumgar.pwniedoz@example.com,"Jul 10, 1973",Canada,Vancouver,V5K 0A1,999 Pwniedoz St,2013-03-14,young_professional,medium
+4267,Tflvjv,Fuqcdnyk,+47-225-3538,tflvjv.fuqcdnyk@example.com,"Sep 20, 1955",Canada,Kitchener,N2A 0A1,7 Fuqcdnyk St,2013-10-22,established,medium
+4274,Uxmxah,Aduqlkaw,+43-767-7106,uxmxah.aduqlkaw@example.com,"Dec 27, 1970",Canada,Vancouver,V5K 0A1,863 Aduqlkaw St,2014-11-25,frequent_shopper,high
+4276,Ksywcx,Skwvpagp,+67-225-8478,ksywcx.skwvpagp@example.com,"Jan 21, 1960",United States,Philadelphia,19101,958 Skwvpagp St,2013-07-06,occasional,medium
+4278,Lwcdof,Isruystb,+48-189-2140,lwcdof.isruystb@example.com,"Dec 19, 1955",Canada,Quebec City,G1A 0A1,597 Isruystb St,2013-12-29,occasional,medium
+4281,Btixrf,Lqrkuplk,+81-202-4145,btixrf.lqrkuplk@example.com,"Sep 12, 1966",Canada,Quebec City,G1A 0A1,908 Lqrkuplk St,2014-11-11,occasional,medium
+4294,Hdglgf,Jjvaxpho,+60-794-3424,hdglgf.jjvaxpho@example.com,"Jun 2, 1950",Canada,Edmonton,T5A 0A1,754 Jjvaxpho St,2014-07-03,established,high
+4300,Hkwzhy,Zomimaqg,+38-906-2967,hkwzhy.zomimaqg@example.com,"Jan 17, 1992",Canada,Montreal,H1A 0A1,966 Zomimaqg St,2013-03-04,family,medium
+4302,Slqmdp,Yeddlhqr,+83-362-5167,slqmdp.yeddlhqr@example.com,"Oct 11, 2005",United States,New York,10001,539 Yeddlhqr St,2013-07-04,young_professional,medium
+4307,Tmruol,Aotggrfu,+93-753-3466,tmruol.aotggrfu@example.com,"Oct 14, 1993",Canada,Hamilton,L8E 0A1,579 Aotggrfu St,2013-05-15,family,low
+4308,Focvdw,Azckpbqr,+76-272-9560,focvdw.azckpbqr@example.com,"Nov 6, 1957",Canada,Edmonton,T5A 0A1,137 Azckpbqr St,2013-07-26,occasional,medium
+4311,Riever,Veramnet,+90-178-5154,riever.veramnet@example.com,"Mar 25, 1994",Canada,Edmonton,T5A 0A1,13 Veramnet St,2015-07-23,occasional,medium
+4317,Gfzlnj,Hwngetex,+68-781-1229,gfzlnj.hwngetex@example.com,"Feb 27, 1974",United States,Philadelphia,19101,525 Hwngetex St,2013-02-07,family,low
+4320,Qsenaq,Ljzwnoxj,+63-890-5086,qsenaq.ljzwnoxj@example.com,"Dec 21, 1974",Canada,Calgary,T1Y 0A1,468 Ljzwnoxj St,2014-12-15,frequent_shopper,very_high
+4323,Vawsdh,Hyufrybo,+88-953-8301,vawsdh.hyufrybo@example.com,"May 11, 1966",United States,Dallas,75201,468 Hyufrybo St,2014-09-13,established,high
+4334,Phxjpl,Limjjxye,+53-687-8158,phxjpl.limjjxye@example.com,"Feb 4, 1978",United States,San Jose,95101,896 Limjjxye St,2015-08-22,family,medium
+4338,Phcbag,Aissmfxj,+42-337-2369,phcbag.aissmfxj@example.com,"Apr 20, 1984",Canada,Winnipeg,R2C 0A1,914 Aissmfxj St,2013-10-10,family,medium
+4364,Mqyztn,Jpxbmoes,+69-934-4089,mqyztn.jpxbmoes@example.com,"Apr 20, 1968",Canada,Toronto,M5A 1A1,754 Jpxbmoes St,2013-10-04,established,high
+4366,Dsvgvt,Csctilvo,+53-156-5663,dsvgvt.csctilvo@example.com,"Aug 7, 1970",Canada,Calgary,T1Y 0A1,719 Csctilvo St,2013-06-02,frequent_shopper,high
+4371,Hrhxes,Vljubkbr,+37-733-7392,hrhxes.vljubkbr@example.com,"Mar 26, 1954",United States,San Antonio,78201,934 Vljubkbr St,2014-07-21,premium,very_high
+4372,Ovuhtf,Spddsaoy,+50-205-7360,ovuhtf.spddsaoy@example.com,"Jan 4, 2001",United States,Phoenix,85001,114 Spddsaoy St,2013-06-26,young_professional,medium
+4375,Qoikcp,Mbqjpjsr,+93-521-9147,qoikcp.mbqjpjsr@example.com,"Jul 28, 1964",Canada,Edmonton,T5A 0A1,877 Mbqjpjsr St,2013-04-07,occasional,medium
+4382,Atfrzu,Lhsgsooc,+42-155-3000,atfrzu.lhsgsooc@example.com,"Dec 3, 1953",United States,Chicago,60601,684 Lhsgsooc St,2015-10-27,established,medium
+4383,Ahuvjn,Dgddgfzg,+80-260-4400,ahuvjn.dgddgfzg@example.com,"Sep 8, 1962",United States,Chicago,60601,639 Dgddgfzg St,2014-10-24,occasional,medium
+4397,Kyuywx,Njndyktc,+59-307-8502,kyuywx.njndyktc@example.com,"Feb 4, 1959",Canada,Edmonton,T5A 0A1,357 Njndyktc St,2013-03-28,occasional,high
+4400,Duwbud,Anslwgfz,+49-248-7022,duwbud.anslwgfz@example.com,"Apr 11, 1983",Canada,Vancouver,V5K 0A1,150 Anslwgfz St,2014-02-18,young_professional,medium
+4409,Fvoxuw,Ycodddtk,+60-838-6471,fvoxuw.ycodddtk@example.com,"Jun 13, 1963",Canada,Calgary,T1Y 0A1,999 Ycodddtk St,2013-10-12,established,medium
+4423,Nrrpdv,Rylanofx,+68-987-4041,nrrpdv.rylanofx@example.com,"May 27, 1951",Canada,Vancouver,V5K 0A1,156 Rylanofx St,2014-11-03,established,medium
+4425,Vqlfcz,Wenxokjh,+36-562-1418,vqlfcz.wenxokjh@example.com,"Jan 8, 1985",United States,Chicago,60601,933 Wenxokjh St,2015-12-05,occasional,low
+4428,Mzklyz,Kdhsvcoi,+85-700-9462,mzklyz.kdhsvcoi@example.com,"Jan 15, 1954",Canada,Montreal,H1A 0A1,9 Kdhsvcoi St,2014-03-26,occasional,medium
+4434,Kwplqc,Ogjhednb,+68-617-1725,kwplqc.ogjhednb@example.com,"Mar 3, 1962",United States,Los Angeles,90001,408 Ogjhednb St,2014-10-24,established,medium
+4435,Cslgif,Rvesezfk,+99-204-6291,cslgif.rvesezfk@example.com,"Mar 3, 1976",Canada,Edmonton,T5A 0A1,127 Rvesezfk St,2014-09-30,frequent_shopper,low
+4437,Jjfoip,Huwufqca,+77-908-7945,jjfoip.huwufqca@example.com,"Oct 26, 2004",Canada,Calgary,T1Y 0A1,85 Huwufqca St,2014-09-26,student,medium
+4438,Wypaxn,Abwzprww,+40-290-2892,wypaxn.abwzprww@example.com,"Sep 8, 1992",Canada,Quebec City,G1A 0A1,248 Abwzprww St,2015-07-21,occasional,low
+4455,Itxuhf,Zdyfqkax,+90-399-7824,itxuhf.zdyfqkax@example.com,"Oct 22, 2005",United States,Phoenix,85001,337 Zdyfqkax St,2013-01-11,student,medium
+4470,Sddvtk,Eeduposg,+63-227-2477,sddvtk.eeduposg@example.com,"Jan 27, 1993",United States,Los Angeles,90001,152 Eeduposg St,2015-01-28,family,medium
+4471,Ncdnvn,Hxihojcp,+40-939-8417,ncdnvn.hxihojcp@example.com,"Feb 11, 1976",United States,San Jose,95101,172 Hxihojcp St,2014-01-17,premium,very_high
+4477,Srfwnv,Pnvajlys,+32-281-7690,srfwnv.pnvajlys@example.com,"Mar 5, 1982",United States,San Antonio,78201,223 Pnvajlys St,2013-05-17,family,medium
+4484,Kxbutd,Rmfoouzk,+48-122-3086,kxbutd.rmfoouzk@example.com,"Jan 19, 1961",United States,Philadelphia,19101,516 Rmfoouzk St,2013-01-19,established,high
+4489,Yzxflj,Fuxscedx,+72-653-7261,yzxflj.fuxscedx@example.com,"Jan 1, 1975",United States,Dallas,75201,618 Fuxscedx St,2015-09-29,family,low
+4505,Birwvp,Stfwxpuy,+93-617-6904,birwvp.stfwxpuy@example.com,"Jan 5, 1990",United States,San Jose,95101,907 Stfwxpuy St,2014-05-14,family,medium
+4509,Oegyrt,Ecahyocu,+46-345-5024,oegyrt.ecahyocu@example.com,"May 11, 2001",United States,Phoenix,85001,585 Ecahyocu St,2013-04-03,student,medium
+4515,Mnuwog,Cajbxhyn,+38-557-8581,mnuwog.cajbxhyn@example.com,"Jun 28, 1989",United States,Dallas,75201,20 Cajbxhyn St,2014-03-09,frequent_shopper,medium
+4516,Aedheh,Gawpvdzm,+45-871-9058,aedheh.gawpvdzm@example.com,"May 27, 1963",United States,Philadelphia,19101,956 Gawpvdzm St,2013-10-22,occasional,low
+4532,Wxtlzj,Rjsbxepf,+30-658-1702,wxtlzj.rjsbxepf@example.com,"Oct 13, 1958",Canada,Hamilton,L8E 0A1,709 Rjsbxepf St,2013-03-12,occasional,low
+4535,Lpvaaa,Cyaqylqo,+41-628-7749,lpvaaa.cyaqylqo@example.com,"Nov 19, 1971",Canada,Quebec City,G1A 0A1,447 Cyaqylqo St,2014-03-27,family,medium
+4539,Zmsvfq,Oilwthhc,+31-837-8380,zmsvfq.oilwthhc@example.com,"Nov 1, 1955",United States,Houston,77001,656 Oilwthhc St,2015-04-01,occasional,high
+4550,Txksna,Tgagbcbt,+41-357-9682,txksna.tgagbcbt@example.com,"Feb 23, 1996",United States,Philadelphia,19101,860 Tgagbcbt St,2013-06-20,family,low
+4556,Ybgbcl,Bwpzdevm,+49-758-3447,ybgbcl.bwpzdevm@example.com,"Sep 16, 1993",Canada,Vancouver,V5K 0A1,226 Bwpzdevm St,2013-07-26,frequent_shopper,high
+4579,Jysdct,Lsvjhykb,+85-327-4147,jysdct.lsvjhykb@example.com,"Sep 22, 1950",Canada,Edmonton,T5A 0A1,292 Lsvjhykb St,2015-03-05,established,medium
+4580,Ucjmll,Lrpdpbki,+67-828-5852,ucjmll.lrpdpbki@example.com,"May 27, 1994",Canada,Edmonton,T5A 0A1,537 Lrpdpbki St,2014-10-30,young_professional,medium
+4605,Rvxvcj,Nahlkcds,+97-184-1895,rvxvcj.nahlkcds@example.com,"Jan 28, 1990",Canada,Winnipeg,R2C 0A1,594 Nahlkcds St,2013-04-03,young_professional,high
+4617,Ddozox,Xvfdwygy,+94-201-8822,ddozox.xvfdwygy@example.com,"Jun 12, 1982",Canada,Toronto,M5A 1A1,899 Xvfdwygy St,2014-05-14,occasional,low
+4620,Ghhcqs,Yawzdnnk,+48-847-1440,ghhcqs.yawzdnnk@example.com,"Apr 27, 1991",United States,Los Angeles,90001,164 Yawzdnnk St,2013-07-18,occasional,medium
+4630,Ivjlii,Yirbskft,+50-909-7909,ivjlii.yirbskft@example.com,"Nov 14, 1964",United States,Philadelphia,19101,522 Yirbskft St,2014-03-05,established,medium
+4631,Qvfglt,Lfwsends,+32-868-8430,qvfglt.lfwsends@example.com,"Feb 18, 1974",United States,Los Angeles,90001,390 Lfwsends St,2014-06-26,occasional,medium
+4634,Cttbbl,Nmvguicp,+47-733-2375,cttbbl.nmvguicp@example.com,"May 5, 1999",Canada,Hamilton,L8E 0A1,89 Nmvguicp St,2014-01-19,student,medium
+4640,Mmwqxn,Dbwblrzf,+77-328-1085,mmwqxn.dbwblrzf@example.com,"Dec 20, 1965",Canada,Vancouver,V5K 0A1,635 Dbwblrzf St,2014-06-18,established,medium
+4641,Nrkhzk,Lhqjutgz,+84-432-3778,nrkhzk.lhqjutgz@example.com,"Feb 2, 2004",Canada,Montreal,H1A 0A1,711 Lhqjutgz St,2013-10-19,premium,high
+4656,Ddoyyn,Pkjnthtj,+62-580-3619,ddoyyn.pkjnthtj@example.com,"Dec 15, 1998",Canada,Ottawa,K1A 0A1,747 Pkjnthtj St,2013-02-18,family,low
+4661,Csqhgf,Aybuzqtb,+63-368-4170,csqhgf.aybuzqtb@example.com,"Dec 7, 1987",United States,Los Angeles,90001,677 Aybuzqtb St,2014-07-11,premium,very_high
+4665,Trjwor,Mnjtkrgj,+55-794-1268,trjwor.mnjtkrgj@example.com,"Nov 8, 1952",Canada,Quebec City,G1A 0A1,244 Mnjtkrgj St,2013-08-09,established,medium
+4667,Lajiwu,Tdfnruwn,+54-968-7562,lajiwu.tdfnruwn@example.com,"Mar 24, 1965",United States,Philadelphia,19101,648 Tdfnruwn St,2013-01-03,established,medium
+4673,Zwvbrk,Gsihzpdb,+53-418-1241,zwvbrk.gsihzpdb@example.com,"Jan 1, 1956",United States,Chicago,60601,477 Gsihzpdb St,2013-02-28,established,high
+4678,Ozhngr,Pmfdoazs,+63-257-6900,ozhngr.pmfdoazs@example.com,"Apr 25, 1997",Canada,Kitchener,N2A 0A1,310 Pmfdoazs St,2014-07-26,premium,high
+4680,Mkvlvf,Ybjubbfo,+97-722-9181,mkvlvf.ybjubbfo@example.com,"Aug 23, 1995",United States,San Jose,95101,187 Ybjubbfo St,2014-09-11,premium,very_high
+4684,Tigofj,Mnoxzsdt,+79-330-3823,tigofj.mnoxzsdt@example.com,"Nov 27, 1956",Canada,Montreal,H1A 0A1,540 Mnoxzsdt St,2015-06-17,established,medium
+4698,Bfysyb,Tjwnpesn,+87-395-8602,bfysyb.tjwnpesn@example.com,"Feb 1, 1951",Canada,Ottawa,K1A 0A1,309 Tjwnpesn St,2013-12-14,established,medium
+4702,Xlkurv,Hxsykrmr,+94-979-6361,xlkurv.hxsykrmr@example.com,"May 16, 1963",United States,Phoenix,85001,531 Hxsykrmr St,2014-05-19,established,medium
+4705,Zskeys,Imbuobwp,+77-574-8376,zskeys.imbuobwp@example.com,"Aug 12, 2001",Canada,Winnipeg,R2C 0A1,339 Imbuobwp St,2013-05-16,student,medium
+4711,Ybmxto,Teygosdm,+75-923-4869,ybmxto.teygosdm@example.com,"Jul 4, 1998",Canada,Edmonton,T5A 0A1,440 Teygosdm St,2014-01-03,young_professional,high
+4719,Dhtoae,Ijdyrnjq,+57-140-3091,dhtoae.ijdyrnjq@example.com,"Jun 18, 1991",Canada,Kitchener,N2A 0A1,749 Ijdyrnjq St,2016-08-30,frequent_shopper,high
+4728,Lkuwle,Mmjefjfd,+97-171-2447,lkuwle.mmjefjfd@example.com,"Aug 1, 2005",Canada,Montreal,H1A 0A1,300 Mmjefjfd St,2013-07-30,young_professional,medium
+4729,Fetqod,Suoibcqh,+77-516-5279,fetqod.suoibcqh@example.com,"May 23, 2006",United States,Dallas,75201,700 Suoibcqh St,2014-08-06,frequent_shopper,high
+4730,Cefrtf,Wtkosdvn,+91-961-1500,cefrtf.wtkosdvn@example.com,"Mar 5, 2001",Canada,Edmonton,T5A 0A1,948 Wtkosdvn St,2015-07-14,student,low
+4735,Heiwgl,Cymbwacl,+39-447-8615,heiwgl.cymbwacl@example.com,"Oct 14, 1994",Canada,Kitchener,N2A 0A1,986 Cymbwacl St,2015-02-28,frequent_shopper,medium
+4744,Htxrpn,Ivkqwicz,+53-386-2098,htxrpn.ivkqwicz@example.com,"Jan 23, 1979",United States,Dallas,75201,364 Ivkqwicz St,2014-04-30,young_professional,medium
+4751,Yjhzqu,Vpiuzhyd,+99-890-2827,yjhzqu.vpiuzhyd@example.com,"Aug 18, 1962",United States,San Jose,95101,266 Vpiuzhyd St,2015-04-24,occasional,medium
+4759,Ybfegj,Hkdfxcxe,+59-693-8508,ybfegj.hkdfxcxe@example.com,"Feb 21, 2001",United States,San Diego,92101,271 Hkdfxcxe St,2013-02-23,young_professional,medium
+4763,Kvuscp,Qtnrhzbc,+95-420-2279,kvuscp.qtnrhzbc@example.com,"Dec 23, 1971",Canada,Vancouver,V5K 0A1,843 Qtnrhzbc St,2013-02-09,frequent_shopper,medium
+4769,Qmnyyc,Otihzbkl,+68-991-4750,qmnyyc.otihzbkl@example.com,"Jun 16, 1951",Canada,Quebec City,G1A 0A1,868 Otihzbkl St,2015-01-04,established,high
+4780,Ddrpev,Qgggmqqz,+84-489-2690,ddrpev.qgggmqqz@example.com,"Dec 16, 1996",United States,New York,10001,283 Qgggmqqz St,2013-07-26,young_professional,medium
+4799,Njctso,Xswbpemm,+45-434-9504,njctso.xswbpemm@example.com,"May 17, 1955",United States,New York,10001,464 Xswbpemm St,2013-06-27,occasional,medium
+4815,Amabsj,Whfxilhk,+73-775-9080,amabsj.whfxilhk@example.com,"Feb 15, 1953",Canada,Calgary,T1Y 0A1,46 Whfxilhk St,2014-10-20,premium,very_high
+4817,Jilume,Lydgputj,+49-122-1293,jilume.lydgputj@example.com,"Sep 3, 1975",Canada,Hamilton,L8E 0A1,132 Lydgputj St,2013-03-03,occasional,medium
+4832,Iomazv,Cwrezcxr,+78-472-7928,iomazv.cwrezcxr@example.com,"Apr 4, 1982",United States,Phoenix,85001,330 Cwrezcxr St,2014-11-09,frequent_shopper,high
+4840,Fifyul,Oohvcwgc,+44-552-9421,fifyul.oohvcwgc@example.com,"Feb 7, 1964",Canada,Calgary,T1Y 0A1,447 Oohvcwgc St,2014-11-16,established,high
+4844,Mlfwcs,Wzxgpddd,+88-696-7830,mlfwcs.wzxgpddd@example.com,"Sep 18, 1996",Canada,Winnipeg,R2C 0A1,913 Wzxgpddd St,2014-09-14,young_professional,medium
+4851,Xbglys,Esmfhuui,+98-699-8042,xbglys.esmfhuui@example.com,"May 20, 1977",United States,San Antonio,78201,634 Esmfhuui St,2015-09-26,young_professional,high
+4852,Kbxbxb,Hiaftcbl,+75-348-5657,kbxbxb.hiaftcbl@example.com,"Jan 5, 1992",Canada,Kitchener,N2A 0A1,638 Hiaftcbl St,2014-04-25,frequent_shopper,high
+4860,Sfwoqu,Hjqxhwnz,+58-999-5843,sfwoqu.hjqxhwnz@example.com,"Dec 28, 1989",Canada,Montreal,H1A 0A1,440 Hjqxhwnz St,2013-12-06,family,medium
+4870,Yqvznn,Jjhrbelw,+50-894-7303,yqvznn.jjhrbelw@example.com,"Nov 27, 1990",Canada,Winnipeg,R2C 0A1,555 Jjhrbelw St,2015-02-08,occasional,medium
+4876,Vooekq,Gvstzepo,+61-439-9962,vooekq.gvstzepo@example.com,"Jun 13, 1996",Canada,Kitchener,N2A 0A1,461 Gvstzepo St,2015-06-12,frequent_shopper,high
+4878,Iowvee,Wysqpjdj,+30-169-1101,iowvee.wysqpjdj@example.com,"Jan 22, 1962",United States,San Antonio,78201,54 Wysqpjdj St,2015-04-08,occasional,low
+4882,Vntada,Ggypxftg,+32-826-6272,vntada.ggypxftg@example.com,"Dec 16, 1969",United States,San Jose,95101,979 Ggypxftg St,2013-08-05,occasional,high
+4887,Bgtmvn,Dnumnpnf,+38-919-4272,bgtmvn.dnumnpnf@example.com,"Dec 17, 1997",United States,Houston,77001,778 Dnumnpnf St,2015-01-14,frequent_shopper,high
+4892,Eeatkh,Ayyimaoj,+78-549-9530,eeatkh.ayyimaoj@example.com,"Mar 25, 1962",United States,Chicago,60601,337 Ayyimaoj St,2013-03-18,occasional,high
+4896,Tuefdm,Jcwnbuih,+98-532-2398,tuefdm.jcwnbuih@example.com,"May 19, 2001",Canada,Kitchener,N2A 0A1,194 Jcwnbuih St,2013-11-27,young_professional,high
+4899,Vpxdvy,Wrbxrosf,+71-381-4018,vpxdvy.wrbxrosf@example.com,"Jul 28, 1974",United States,San Diego,92101,678 Wrbxrosf St,2014-07-04,frequent_shopper,low
+4901,Wevsom,Xnrzrmzw,+87-131-1665,wevsom.xnrzrmzw@example.com,"Oct 17, 1968",United States,San Antonio,78201,563 Xnrzrmzw St,2013-10-26,frequent_shopper,very_high
+4906,Qhsaiv,Kyjbjewd,+99-885-3733,qhsaiv.kyjbjewd@example.com,"Jun 17, 1974",United States,San Diego,92101,316 Kyjbjewd St,2014-07-27,young_professional,high
+4914,Efysfr,Ihzumypa,+91-980-2052,efysfr.ihzumypa@example.com,"Jan 11, 1956",United States,Chicago,60601,91 Ihzumypa St,2013-12-17,established,low
+4920,Vmafsk,Mksiulvo,+51-202-2467,vmafsk.mksiulvo@example.com,"Oct 24, 1958",United States,San Antonio,78201,344 Mksiulvo St,2014-04-04,occasional,medium
+4927,Npecth,Izfujzmh,+60-230-4439,npecth.izfujzmh@example.com,"Jan 13, 1979",United States,Houston,77001,422 Izfujzmh St,2014-05-23,frequent_shopper,high
+4928,Paasvv,Kdxrcgta,+75-743-6074,paasvv.kdxrcgta@example.com,"Feb 17, 1991",United States,Phoenix,85001,788 Kdxrcgta St,2013-06-15,frequent_shopper,low
+4931,Vrhgue,Npzdnfea,+89-915-1161,vrhgue.npzdnfea@example.com,"Feb 26, 1950",United States,Los Angeles,90001,252 Npzdnfea St,2015-09-19,established,medium
+4939,Nzultp,Lylyewdk,+94-736-5751,nzultp.lylyewdk@example.com,"Mar 5, 1999",United States,Philadelphia,19101,477 Lylyewdk St,2015-02-07,young_professional,medium
+4945,Pimdet,Zvagjirk,+91-727-8072,pimdet.zvagjirk@example.com,"Jul 1, 1969",Canada,Toronto,M5A 1A1,45 Zvagjirk St,2013-07-27,established,medium
+4947,Ypyafn,Tfiiwpnz,+95-878-8855,ypyafn.tfiiwpnz@example.com,"Aug 1, 1985",United States,Los Angeles,90001,360 Tfiiwpnz St,2013-12-05,frequent_shopper,medium
+4950,Akxgbk,Fxtbrlub,+96-670-3225,akxgbk.fxtbrlub@example.com,"Jan 3, 1984",Canada,Vancouver,V5K 0A1,19 Fxtbrlub St,2014-01-18,premium,high
+4952,Fufhmw,Sbgptspx,+61-136-1383,fufhmw.sbgptspx@example.com,"Jul 22, 1960",Canada,Montreal,H1A 0A1,570 Sbgptspx St,2014-07-27,established,medium
+4961,Phwjfi,Myxbvzkf,+34-594-1874,phwjfi.myxbvzkf@example.com,"Nov 2, 1972",United States,New York,10001,790 Myxbvzkf St,2013-07-30,frequent_shopper,high
+4977,Gjldyg,Egqqecse,+62-591-5059,gjldyg.egqqecse@example.com,"Aug 16, 1986",United States,Chicago,60601,537 Egqqecse St,2014-11-26,young_professional,medium
+4980,Asgaxi,Btardzti,+39-155-6819,asgaxi.btardzti@example.com,"Jul 24, 1999",Canada,Winnipeg,R2C 0A1,394 Btardzti St,2015-06-20,frequent_shopper,very_high
+4983,Eremdc,Orekppbr,+59-545-4710,eremdc.orekppbr@example.com,"Apr 5, 1953",Canada,Winnipeg,R2C 0A1,635 Orekppbr St,2015-01-28,occasional,high
+4999,Omjnoy,Rmuqvxgw,+32-354-7682,omjnoy.rmuqvxgw@example.com,"Aug 26, 1996",United States,San Diego,92101,437 Rmuqvxgw St,2018-04-29,frequent_shopper,medium

@@ -1,0 +1,25 @@
+# local tooling (not part of any deliverable)
+/resources/
+
+# secrets
+.env
+*.env
+credentials.json
+*.pem
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# office lock files (word, excel, power bi...)
+~$*
+
+# power bi
+*.pbix.bak
+
+# os / editor
+.DS_Store
+Thumbs.db

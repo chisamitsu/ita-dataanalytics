@@ -1,0 +1,101 @@
+id,product_name,price,colour,weight,warehouse_id,category,brand,cost,launch_date
+1,Direwolf Stannis,$161.11,#7c7c7c,1.0,WH-4,Sports,Runway Pro,$63.84,2014-11-01
+2,Tarly Stark,$9.24,#919191,2.0,WH-3,Gaming,Questbyte,$4.74,2013-02-07
+3,duel tourney Lannister,$171.13,#d8d8d8,1.5,WH-2,Food,Daily Pantry,$107.07,2013-08-18
+4,warden south duel,$71.89,#111111,3.0,WH-1,Books,NorthPress,$39.17,2013-12-31
+5,skywalker ewok,$171.22,#dbdbdb,3.2,WH-0,Home,NordHaus,$83.69,2014-07-17
+6,dooku solo,$136.60,#c4c4c4,0.8,WH-1,Home,NordHaus,$66.78,2014-03-14
+7,north of Casterly,$63.33,#b7b7b7,0.6,WH-2,Electronics,Nexa,$37.41,2013-10-10
+8,Winterfell,$32.37,#383838,1.4,WH-3,Travel,Voyago,$15.20,2013-01-27
+9,Winterfell,$76.40,#b5b5b5,1.2,WH-4,Books,Campus Read,$40.42,2013-08-14
+10,Karstark Dorne,$119.52,#f4f4f4,2.4,WH-5,Food,FreshBox,$89.07,2013-10-04
+11,Karstark Dorne,$49.70,#141414,2.7,WH-6,Electronics,Nexa,$34.45,2014-09-01
+12,duel Direwolf,$181.60,#a8a8a8,2.1,WH-7,Gaming,Questbyte,$99.46,2013-10-11
+13,palpatine chewbacca,$139.59,#2b2b2b,1.0,WH-8,Travel,CityHop,$82.76,2014-04-26
+14,Direwolf,$147.53,#c4c4c4,2.0,WH-9,Home,NordHaus,$71.07,2014-03-29
+15,Stannis warden,$194.29,#dbdbdb,1.5,WH-10,Home,CasaNova,$107.93,2014-10-21
+16,the duel warden,$180.91,#666666,3.0,WH-11,Home,NordHaus,$101.11,2014-05-31
+17,skywalker ewok sith,$91.89,#7c7c7c,3.2,WH-12,Fashion,Arden,$38.01,2014-07-01
+18,Karstark warden,$148.91,#c4c4c4,0.8,WH-13,Beauty,CareLab,$47.62,2013-07-11
+19,dooku solo,$60.33,#3f3f3f,0.6,WH-14,Sports,Trail&Co,$27.81,2013-02-18
+20,warden Karstark,$91.96,#b5b5b5,1.4,WH-15,Fashion,Blue Loom,$40.04,2014-05-27
+21,duel Direwolf,$96.90,#e2e2e2,1.2,WH-16,Books,PageWorks,$62.72,2013-01-17
+22,chewbacca mustafar,$150.02,#fcfcfc,2.4,WH-17,Home,NordHaus,$89.46,2013-06-21
+23,riverlands north,$169.96,#545454,2.7,WH-18,Fashion,Arden,$55.00,2013-08-08
+24,south duel tourney,$48.99,#aaaaaa,2.1,WH-19,Sports,MotionLab,$24.26,2013-06-07
+25,skywalker ewok,$157.53,#2b2b2b,1.0,WH-20,Beauty,Luma Skin,$53.56,2014-04-22
+26,Stark Karstark,$53.01,#898989,2.0,WH-21,Food,GreenFork,$30.49,2013-02-15
+27,Stannis riverlands,$172.93,#7a7a7a,1.5,WH-22,Home,NordHaus,$83.83,2014-01-08
+28,chewbacca mustafar,$127.44,#efefef,3.0,WH-23,Beauty,Luma Skin,$45.65,2014-06-02
+29,Tully maester Tarly,$167.20,#111111,3.2,WH-24,Books,PageWorks,$92.89,2013-04-09
+30,Karstark warden,$79.53,#606060,0.8,WH-25,Electronics,Nexa,$50.18,2013-02-06
+31,Lannister,$85.02,#3f3f3f,0.6,WH-26,Books,Campus Read,$57.38,2013-10-07
+32,north,$178.28,#0f0f0f,1.4,WH-27,Home,CasaNova,$98.47,2013-12-15
+33,duel warden,$127.09,#191919,1.2,WH-28,Electronics,Auralab,$82.56,2014-05-12
+34,of north,$128.48,#919191,2.4,WH-29,Gaming,LevelUp,$65.55,2013-10-29
+35,the giantsblood maester,$107.17,#8c8c8c,2.7,WH-30,Gaming,LevelUp,$54.33,2013-06-30
+36,Lannister,$96.22,#a5a5a5,2.1,WH-31,Food,FreshBox,$53.67,2014-08-30
+37,Direwolf Littlefinger,$26.66,#aaaaaa,1.0,WH-32,Fashion,Arden,$12.58,2013-04-09
+38,ewok sith,$55.43,#666666,2.0,WH-33,Electronics,Nexa,$36.05,2014-12-01
+39,warden,$196.65,#a0a0a0,1.5,WH-34,Toys,FunHouse,$69.07,2013-04-26
+40,tatooine dooku solo,$73.31,#070707,3.0,WH-35,Sports,Runway Pro,$42.78,2013-07-10
+41,Lannister Barratheon Direwolf,$141.01,#fcfcfc,3.2,WH-36,Electronics,Auralab,$86.52,2013-09-10
+42,sith,$83.51,#494949,0.8,WH-37,Beauty,Luma Skin,$27.23,2013-06-10
+43,duel,$59.80,#5b5b5b,0.6,WH-38,Electronics,Voltix,$38.78,2013-09-13
+44,Karstark Dorne,$105.48,#878787,1.4,WH-39,Gaming,Questbyte,$68.26,2013-11-19
+45,south,$92.65,#bfbfbf,1.2,WH-40,Fashion,Urban Thread,$36.91,2013-05-08
+46,giantsblood maester Karstark,$58.78,#2b2b2b,2.4,WH-41,Toys,MiniWorld,$29.45,2013-01-18
+47,Tully,$82.15,#919191,2.7,WH-42,Fashion,Blue Loom,$41.27,2014-07-20
+48,rock Renly in,$21.53,#9e9e9e,2.1,WH-43,Beauty,Bloom,$7.38,2014-07-24
+49,the giantsblood maester,$53.31,#e2e2e2,1.0,WH-44,Books,NorthPress,$33.64,2013-11-19
+50,in,$124.04,#7a7a7a,2.0,WH-45,Home,CasaNova,$63.57,2014-11-17
+51,north Tully,$30.14,#262626,1.5,WH-46,Gaming,DiceLab,$17.37,2014-09-18
+52,riverlands the duel,$31.52,#727272,3.0,WH-47,Food,Daily Pantry,$21.53,2013-10-15
+53,kingsblood Littlefinger the,$137.81,#3a3a3a,3.2,WH-48,Gaming,DiceLab,$76.78,2014-10-25
+54,dooku solo,$13.14,#e5e5e5,0.8,WH-49,Travel,Packwise,$5.54,2014-10-01
+55,Tully maester,$3.83,#6d6d6d,0.6,WH-50,Books,NorthPress,$2.49,2013-06-04
+56,Direwolf riverlands,$167.07,#5b5b5b,1.4,WH-51,Gaming,LevelUp,$76.87,2014-05-05
+57,Direwolf Stannis riverlands,$170.76,#848484,1.2,WH-52,Electronics,Auralab,$92.74,2014-01-21
+58,solo palpatine chewbacca,$130.59,#2b2b2b,2.4,WH-53,Home,NordHaus,$73.81,2013-04-14
+59,Direwolf Stannis,$114.77,#bcbcbc,2.7,WH-54,Electronics,Auralab,$66.83,2014-01-28
+60,rock Renly,$68.38,#898989,2.1,WH-55,Fashion,Urban Thread,$30.94,2013-09-03
+61,Winterfell Lannister,$28.01,#848484,1.0,WH-56,Sports,ActivePeak,$12.91,2013-06-25
+62,the duel,$188.94,#666666,2.0,WH-57,Fashion,ModaNova,$80.91,2013-02-08
+63,Jade tatooine dooku,$188.58,#dbdbdb,1.5,WH-58,Travel,CityHop,$97.20,2014-04-22
+64,Direwolf,$195.62,#b7b7b7,3.0,WH-59,Fashion,Arden,$93.66,2014-11-13
+65,riverlands the,$121.91,#6b6b6b,3.2,WH-60,Fashion,Arden,$50.98,2014-06-22
+66,mustafar jinn,$2.12,#545454,0.8,WH-61,Books,Atlas Books,$1.10,2014-02-12
+67,Winterfell,$195.94,#1c1c1c,0.6,WH-62,Home,NordHaus,$113.05,2014-06-09
+68,Stark Karstark,$167.37,#333333,1.4,WH-63,Food,Daily Pantry,$94.32,2014-05-21
+69,Littlefinger the giantsblood,$57.25,#b7b7b7,1.2,WH-64,Electronics,Nexa,$39.76,2013-02-05
+70,Direwolf Stannis,$6.93,#c9c9c9,2.4,WH-65,Gaming,Arcadia,$3.89,2014-11-16
+71,Tully Dorne,$103.73,#424242,2.7,WH-66,Food,FreshBox,$68.59,2013-01-20
+72,north,$161.60,#474747,2.1,WH-67,Home,Oakline,$70.43,2013-11-17
+73,Dorne bastard,$114.09,#848484,1.0,WH-68,Electronics,PixelForge,$80.50,2014-05-27
+74,duel warden,$158.29,#707070,2.0,WH-69,Food,Daily Pantry,$116.99,2014-02-04
+75,giantsblood maester Karstark,$9.46,#f9f9f9,1.5,WH-70,Food,FreshBox,$6.46,2014-10-16
+76,Littlefinger Tarly,$65.07,#686868,3.0,WH-71,Food,GreenFork,$40.42,2014-04-16
+77,Tarly Littlefinger,$150.50,#f4f4f4,3.2,WH-72,Food,Daily Pantry,$93.81,2013-05-23
+78,Karstark warden,$178.85,#919191,0.8,WH-73,Electronics,Voltix,$116.03,2013-04-02
+79,Direwolf riverlands the,$132.86,#b2b2b2,0.6,WH-74,Fashion,Arden,$70.07,2013-12-20
+80,Tarly Stark,$14.10,#020202,1.4,WH-75,Electronics,PixelForge,$9.72,2013-02-20
+81,the duel,$15.87,#7f7f7f,1.2,WH-76,Travel,AeroLite,$8.79,2014-10-27
+82,kingsblood Littlefinger the,$12.45,#545454,2.4,WH-77,Toys,MiniWorld,$4.92,2014-11-29
+83,duel tourney,$26.51,#cccccc,2.7,WH-78,Fashion,Blue Loom,$10.14,2014-07-29
+84,Karstark Tully Dorne,$92.91,#353535,2.1,WH-79,Electronics,Voltix,$65.58,2013-07-09
+85,bastard of north,$62.62,#474747,1.0,WH-80,Fashion,ModaNova,$29.51,2013-05-05
+86,Stark kingsblood,$189.21,#141414,2.0,WH-81,Fashion,Blue Loom,$59.12,2013-05-30
+87,sith Jade,$96.26,#e2e2e2,1.5,WH-82,Food,Market&Co,$66.36,2013-11-10
+88,Stannis warden south,$167.15,#515151,3.0,WH-83,Toys,FunHouse,$56.85,2014-07-24
+89,skywalker ewok,$172.78,#636363,3.2,WH-84,Travel,Packwise,$85.93,2013-12-08
+90,Winterfell,$39.73,#757575,0.8,WH-85,Beauty,CareLab,$16.58,2013-11-01
+91,the duel,$59.76,#adadad,0.6,WH-86,Electronics,Voltix,$36.54,2014-11-23
+92,Stannis warden,$168.49,#afafaf,1.4,WH-87,Food,Market&Co,$105.96,2014-11-13
+93,Littlefinger Tarly Stark,$192.60,#efefef,1.2,WH-88,Food,FreshBox,$111.91,2013-02-23
+94,in south Winterfell,$51.94,#3a3a3a,2.4,WH-89,Books,PageWorks,$32.04,2014-03-20
+95,riverlands north Direwolf,$6.90,#c1c1c1,2.7,WH-90,Food,FreshBox,$5.03,2014-09-05
+96,dooku solo,$20.92,#282828,2.1,WH-91,Beauty,CareLab,$8.75,2013-09-21
+97,jinn Winterfell,$65.25,#bababa,1.0,WH-92,Beauty,CareLab,$26.25,2013-02-22
+98,Direwolf Littlefinger,$38.33,#bababa,2.0,WH-93,Sports,Trail&Co,$16.74,2014-07-26
+99,the duel,$151.78,#212121,1.5,WH-94,Electronics,Nexa,$95.85,2014-09-12
+100,south duel,$40.43,#6d6d6d,3.0,WH-95,Electronics,PixelForge,$24.95,2013-01-05
