@@ -189,14 +189,14 @@ WHERE SAFE_CAST(t.amount AS FLOAT64) BETWEEN 100 AND 200
 
 -- --- Ejercicio 1 --------------------------------------------------------
 -- products_clean: product_id a INT64 (cruza con transactions_clean.
--- product_ids en Nivel 3), price/cost sin "$", warehouse_id sin "WH-" a
--- INT64, launch_date a DATE.
+-- product_ids en Nivel 3), price/cost sin "$" a NUMERIC (importes
+-- monetarios), warehouse_id sin "WH-" a INT64, launch_date a DATE.
 CREATE OR REPLACE TABLE `sprint3-analytics-hisamitsu.sprint3_silver.products_clean` AS
 SELECT
     SAFE_CAST(id AS INT64) AS product_id,
     product_name AS name,
-    SAFE_CAST(REPLACE(price, '$', '') AS FLOAT64) AS price,
-    SAFE_CAST(REPLACE(cost, '$', '') AS FLOAT64) AS cost,
+    SAFE_CAST(REPLACE(price, '$', '') AS NUMERIC) AS price,
+    SAFE_CAST(REPLACE(cost, '$', '') AS NUMERIC) AS cost,
     colour,
     weight,
     SAFE_CAST(REPLACE(warehouse_id, 'WH-', '') AS INT64) AS warehouse_id,
@@ -206,16 +206,16 @@ SELECT
 FROM `sprint3-analytics-hisamitsu.sprint3_bronze.products_raw`;
 
 -- --- Ejercicio 2 --------------------------------------------------------
--- transactions_clean: amount/lat/longitude/user_id a número, timestamp
--- parseado, product_ids a ARRAY<INT64>. card_id, business_id y declined,
--- igual.
+-- transactions_clean: amount a NUMERIC, lat/longitude/user_id a número, 
+-- timestamp parseado, product_ids a ARRAY<INT64>. card_id, business_id
+-- y declined, igual.
 CREATE OR REPLACE TABLE `sprint3-analytics-hisamitsu.sprint3_silver.transactions_clean` AS
 SELECT
     id AS transaction_id,
     card_id,
     business_id,
-    PARSE_TIMESTAMP('%Y-%m-%d %H:%M:%S', `timestamp`) AS `timestamp`,
-    IFNULL(SAFE_CAST(amount AS FLOAT64), 0) AS amount,
+    SAFE.PARSE_TIMESTAMP('%Y-%m-%d %H:%M:%S', `timestamp`) AS `timestamp`,
+    IFNULL(SAFE_CAST(amount AS NUMERIC), 0) AS amount,
     declined,
     ARRAY(
         SELECT SAFE_CAST(TRIM(product_id) AS INT64) AS product_id
@@ -260,24 +260,65 @@ SELECT
 FROM `sprint3-analytics-hisamitsu.sprint3_bronze.european_users_raw`;
 
 -- --- Ejercicio 4 --------------------------------------------------------
--- companies_clean y credit_cards_clean: copia directa a tabla nativa.
--- companies_raw ya trae la clave como company_id, no hace falta renombrar.
+-- companies_clean: copia directa a tabla nativa. companies_raw ya trae la
+-- clave como company_id, no hace falta renombrar. credit_cards_clean va
+-- debajo, con enmascarado de los campos sensibles.
 CREATE OR REPLACE TABLE `sprint3-analytics-hisamitsu.sprint3_silver.companies_clean` AS
 SELECT *
 FROM `sprint3-analytics-hisamitsu.sprint3_bronze.companies_raw`;
 
+-- pin, cvv, track1 y track2 no se copian a Silver: no hace falta
+-- conservarlos y es justo el tipo de dato de tarjeta que no debería
+-- exponerse más allá de Bronze. pan se enmascara, dejando solo los
+-- últimos 4 dígitos.
 CREATE OR REPLACE TABLE `sprint3-analytics-hisamitsu.sprint3_silver.credit_cards_clean` AS
 SELECT
     id AS credit_card_id,
     user_id,
     iban,
-    pan,
-    pin,
-    cvv,
-    track1,
-    track2,
+    CONCAT('************', SUBSTR(pan, -4)) AS pan_masked,
     SAFE.PARSE_DATE('%m/%d/%y', expiring_date) AS expiring_date
 FROM `sprint3-analytics-hisamitsu.sprint3_bronze.credit_cards_raw`;
+
+-- --- Controles de calidad (Bronze -> Silver) -----------------------------
+-- Recuento de filas: Bronze y Silver deben coincidir, ninguna tabla
+-- debería perder filas en la limpieza.
+SELECT
+    (SELECT COUNT(*) FROM `sprint3-analytics-hisamitsu.sprint3_bronze.products_raw`) AS products_bronze,
+    (SELECT COUNT(*) FROM `sprint3-analytics-hisamitsu.sprint3_silver.products_clean`) AS products_silver,
+    (SELECT COUNT(*) FROM `sprint3-analytics-hisamitsu.sprint3_bronze.transactions_raw`) AS transactions_bronze,
+    (SELECT COUNT(*) FROM `sprint3-analytics-hisamitsu.sprint3_silver.transactions_clean`) AS transactions_silver,
+    (SELECT COUNT(*) FROM `sprint3-analytics-hisamitsu.sprint3_bronze.credit_cards_raw`) AS credit_cards_bronze,
+    (SELECT COUNT(*) FROM `sprint3-analytics-hisamitsu.sprint3_silver.credit_cards_clean`) AS credit_cards_silver;
+
+-- NULLs nuevos tras el SAFE_CAST: valor NULL en Silver que no estaba
+-- vacío/NULL en origen significa una conversión fallida (formato
+-- inesperado), no un NULL real del dato.
+SELECT
+    COUNTIF(p.price IS NULL AND r.price IS NOT NULL AND r.price != '') AS price_cast_failures,
+    COUNTIF(p.cost IS NULL AND r.cost IS NOT NULL AND r.cost != '') AS cost_cast_failures,
+    COUNTIF(p.launch_date IS NULL AND r.launch_date IS NOT NULL AND r.launch_date != '') AS launch_date_cast_failures
+FROM `sprint3-analytics-hisamitsu.sprint3_bronze.products_raw` AS r
+JOIN `sprint3-analytics-hisamitsu.sprint3_silver.products_clean` AS p
+    ON SAFE_CAST(r.id AS INT64) = p.product_id;
+
+SELECT
+    COUNTIF(t.amount IS NULL) AS amount_cast_failures,
+    COUNTIF(t.timestamp IS NULL) AS timestamp_cast_failures,
+    COUNTIF(t.user_id IS NULL AND r.user_id != '') AS user_id_cast_failures
+FROM `sprint3-analytics-hisamitsu.sprint3_bronze.transactions_raw` AS r
+JOIN `sprint3-analytics-hisamitsu.sprint3_silver.transactions_clean` AS t
+    ON r.id = t.transaction_id;
+
+-- Duplicados en la clave de cada tabla Silver.
+SELECT 'products_clean' AS table_name, COUNT(*) - COUNT(DISTINCT product_id) AS duplicate_keys
+FROM `sprint3-analytics-hisamitsu.sprint3_silver.products_clean`
+UNION ALL
+SELECT 'transactions_clean', COUNT(*) - COUNT(DISTINCT transaction_id)
+FROM `sprint3-analytics-hisamitsu.sprint3_silver.transactions_clean`
+UNION ALL
+SELECT 'credit_cards_clean', COUNT(*) - COUNT(DISTINCT credit_card_id)
+FROM `sprint3-analytics-hisamitsu.sprint3_silver.credit_cards_clean`;
 
 -- =====================================================================
 -- NIVEL 3: Presentación de datos y creación de vistas
@@ -286,6 +327,9 @@ FROM `sprint3-analytics-hisamitsu.sprint3_bronze.credit_cards_raw`;
 -- --- Ejercicio 1 --------------------------------------------------------
 -- Vista de marketing: nombre, teléfono y país de la compañía, media de
 -- compra y clasificación de cliente (Premium si la media > 260€).
+-- Transacciones rechazadas (declined = '1') fuera del cálculo: mismo
+-- criterio que en el Nivel 1 Ejercicio 5, para que "ventas" signifique lo
+-- mismo en todas las métricas de Gold.
 CREATE OR REPLACE VIEW `sprint3-analytics-hisamitsu.sprint3_gold.v_marketing_kpis` AS
 SELECT
     company.company_name,
@@ -296,7 +340,10 @@ SELECT
 FROM `sprint3-analytics-hisamitsu.sprint3_silver.companies_clean` AS company
 INNER JOIN `sprint3-analytics-hisamitsu.sprint3_silver.transactions_clean` AS transactions
     ON company.company_id = transactions.business_id
-GROUP BY company.company_name, company.phone, company.country;
+WHERE transactions.declined = '0'
+-- company_id en el GROUP BY (aunque no vaya en el SELECT) para no agrupar
+-- compañías distintas que compartan nombre/teléfono/país.
+GROUP BY company.company_id, company.company_name, company.phone, company.country;
 
 -- Consulta de entrega. No hace falta ordenar por client_tier: es función
 -- directa de average_amount (corte en 260), así que ordenar solo por
@@ -308,19 +355,21 @@ ORDER BY average_amount DESC;
 -- --- Ejercicio 2 --------------------------------------------------------
 -- Ranking de productos: aplana product_ids de transactions_clean y
 -- cuenta ventas. LEFT JOIN desde products_clean para no perder los
--- productos con 0 ventas.
+-- productos con 0 ventas. Excluye transacciones rechazadas, mismo
+-- criterio que en v_marketing_kpis.
 CREATE OR REPLACE TABLE `sprint3-analytics-hisamitsu.sprint3_gold.product_sales_ranking` AS
 WITH products_sold AS (
     SELECT product_id
     FROM `sprint3-analytics-hisamitsu.sprint3_silver.transactions_clean`,
         UNNEST(product_ids) AS product_id
+    WHERE declined = '0'
 )
 SELECT
     products.product_id,
     products.name,
     products.price,
     products.colour,
-    COUNT(products_sold.product_id) AS times_sold
+    COUNT(products_sold.product_id) AS total_sold
 FROM `sprint3-analytics-hisamitsu.sprint3_silver.products_clean` AS products
 LEFT JOIN products_sold ON products.product_id = products_sold.product_id
 GROUP BY products.product_id, products.name, products.price, products.colour;
