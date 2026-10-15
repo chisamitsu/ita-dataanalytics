@@ -100194,10 +100194,14 @@ WHERE `company`.`id` IN (SELECT DISTINCT `company_id`
                         
 -- - Eliminarán del sistema las empresas que no tienen transacciones
 --   registradas, entrega el listado de estas empresas.
+-- NOT EXISTS en vez de NOT IN: company_id en transaction admite NULL, y
+-- con NOT IN un solo NULL en la subconsulta deja la condición en UNKNOWN
+-- para todas las filas (la consulta devolvería 0 resultados).
 SELECT *
 FROM `company`
-WHERE `company`.`id` NOT IN (SELECT DISTINCT `company_id`
-							FROM `transaction`);
+WHERE NOT EXISTS (SELECT 1
+					FROM `transaction`
+					WHERE `transaction`.`company_id` = `company`.`id`);
 
 -- --- Ejercicio 4 -------------------------------------------------------
 -- Tu tarea es diseñar y crear una tabla llamada "credit_card" que
