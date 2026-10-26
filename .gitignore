@@ -1,6 +1,9 @@
 # local tooling (not part of any deliverable)
 /resources/
 
+# course input data (datasets given with each sprint, not part of the deliverable)
+recursos/
+
 # secrets
 .env
 *.env
