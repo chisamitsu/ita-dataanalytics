@@ -1,0 +1,42 @@
+Ciutat,País,Cost_vida_index,Transport_public_score,Clima_tipus
+Barcelona,Espanya,78,8.5,Mediterrani
+Madrid,Espanya,75,8.0,Continental
+València,Espanya,70,7.5,Mediterrani
+Sevilla,Espanya,65,7.0,Mediterrani
+Bilbao,Espanya,72,7.8,Oceànic
+Zaragoza,Espanya,68,7.0,Continental
+Murcia,Espanya,60,6.5,Mediterrani
+Palma,Espanya,73,7.2,Mediterrani
+Girona,Espanya,66,6.8,Mediterrani
+Tarragona,Espanya,67,6.9,Mediterrani
+A Coru\u00f1a,Espanya,69,7.1,Oceànic
+Valladolid,Espanya,64,6.7,Continental
+Alacant,Espanya,68,7.0,Mediterrani
+Las Palmas de Gran Canaria,Espanya,62,6.8,Subtropical
+
+Paris,França,85,9.0,Oceànic
+Marseille,França,72,7.4,Mediterrani
+Lyon,França,74,7.6,Continental
+Bordeaux,França,73,7.2,Oceànic
+Lille,França,71,7.3,Continental
+
+Milano,Itàlia,80,7.5,Continental
+Roma,Itàlia,78,7.6,Mediterrani
+Torino,Itàlia,74,7.2,Continental
+Genova,Itàlia,72,6.9,Mediterrani
+Venezia,Itàlia,79,7.0,Mediterrani
+Napoli,Itàlia,65,6.5,Mediterrani
+Firenze,Itàlia,77,7.1,Continental
+
+Berlin,Alemanya,76,8.5,Continental
+Munchen,Alemanya,82,8.0,Continental
+Hamburg,Alemanya,78,8.1,Oceànic
+Frankfurt,Alemanya,80,8.3,Continental
+Stuttgart,Alemanya,79,7.9,Continental
+Leipzig,Alemanya,70,7.2,Continental
+
+Oslo,Noruega,90,9.2,Fred
+Bergen,Noruega,85,8.8,Oceànic
+
+Paris,Estats Units,88,6.0,Continental
+Valencia,Veneçuela,55,5.5,Tropical

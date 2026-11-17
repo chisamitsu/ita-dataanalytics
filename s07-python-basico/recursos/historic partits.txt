@@ -1,0 +1,500 @@
+Manlleu	0-1	Granollers
+Vilafranca	4-5	Terrassa
+Olot	5-0	Granollers
+Vilafranca	5-5	Manlleu
+Cornellà	5-1	Prat
+Cerdanyola	0-5	Vilafranca
+Sant Andreu	2-3	Cornellà
+Vilafranca	5-4	Olot
+FC Barcelona	4-4	Badalona
+Granollers	1-5	Sabadell
+Granollers	0-5	Europa
+Prat	5-2	Llagostera
+Llagostera	2-5	Vilafranca
+Sant Andreu	1-4	Figueres
+Figueres	1-2	Cerdanyola
+Granollers	0-4	Cornellà
+Figueres	2-3	RCD Espanyol
+Llagostera	2-5	Figueres
+Cornellà	3-1	Reus Deportiu
+Europa	5-1	Granollers
+Terrassa	0-4	Europa
+Olot	1-2	Sant Andreu
+Vilafranca	5-2	Europa
+Vilafranca	1-5	Reus Deportiu
+Reus Deportiu	4-4	Nàstic de Tarragona
+Prat	3-0	Lleida Esportiu
+Sant Andreu	1-2	Cerdanyola
+Granollers	2-0	Prat
+Vilafranca	5-5	Terrassa
+Girona FC	3-0	Nàstic de Tarragona
+Cerdanyola	2-4	Olot
+Prat	3-2	Nàstic de Tarragona
+Figueres	4-4	Terrassa
+Badalona	4-3	Sant Andreu
+Badalona	3-4	Manlleu
+Terrassa	4-0	Nàstic de Tarragona
+Reus Deportiu	1-0	Llagostera
+Manlleu	2-3	Badalona
+Granollers	2-3	Nàstic de Tarragona
+Figueres	4-1	Lleida Esportiu
+Olot	1-1	FC Barcelona
+Manlleu	2-5	Girona FC
+Figueres	5-5	Cornellà
+Llagostera	3-1	Figueres
+Cerdanyola	5-1	Manlleu
+Olot	4-0	FC Barcelona
+Badalona	4-2	FC Barcelona
+Sabadell	5-1	Lleida Esportiu
+Girona FC	0-3	RCD Espanyol
+Terrassa	0-4	Girona FC
+Manlleu	2-1	Nàstic de Tarragona
+FC Barcelona	5-2	Terrassa
+FC Barcelona	5-3	RCD Espanyol
+Lleida Esportiu	0-2	Sabadell
+Vilafranca	4-2	Badalona
+Terrassa	1-2	Cornellà
+Sabadell	3-2	Olot
+Figueres	2-5	Granollers
+Vilafranca	1-2	RCD Espanyol
+Cerdanyola	0-0	Manlleu
+Vilafranca	3-4	Lleida Esportiu
+Vilafranca	4-0	Cerdanyola
+Olot	2-3	Badalona
+Prat	5-4	Europa
+Cerdanyola	4-5	Lleida Esportiu
+Sant Andreu	0-2	Girona FC
+Cornellà	5-5	Terrassa
+Granollers	5-2	Vilafranca
+Sant Andreu	5-5	Vilafranca
+Llagostera	5-4	RCD Espanyol
+Badalona	0-3	Sabadell
+Olot	3-0	RCD Espanyol
+Prat	5-2	Cerdanyola
+Cornellà	3-5	Manlleu
+Cornellà	0-3	Lleida Esportiu
+Badalona	5-4	Lleida Esportiu
+Llagostera	2-0	Terrassa
+Badalona	3-3	Europa
+Llagostera	0-4	Europa
+Vilafranca	4-0	Prat
+Cerdanyola	5-3	Vilafranca
+Girona FC	3-4	Lleida Esportiu
+Girona FC	1-0	Llagostera
+Cerdanyola	4-1	Girona FC
+Lleida Esportiu	2-3	Reus Deportiu
+Nàstic de Tarragona	3-4	Olot
+Prat	1-0	Figueres
+Figueres	4-0	Cerdanyola
+Girona FC	5-1	Olot
+Llagostera	3-0	Vilafranca
+Europa	2-0	Sant Andreu
+Figueres	1-5	Reus Deportiu
+Sant Andreu	2-2	Lleida Esportiu
+Olot	4-4	Cerdanyola
+Cornellà	2-5	Lleida Esportiu
+Terrassa	4-5	Granollers
+Vilafranca	0-0	Nàstic de Tarragona
+Cornellà	2-5	FC Barcelona
+Manlleu	5-2	Girona FC
+Manlleu	2-1	Sant Andreu
+RCD Espanyol	1-4	Girona FC
+Badalona	1-1	Cerdanyola
+Olot	1-2	Vilafranca
+RCD Espanyol	4-4	Badalona
+Prat	2-3	Vilafranca
+Manlleu	4-5	Cerdanyola
+Sabadell	1-0	Terrassa
+RCD Espanyol	4-4	Manlleu
+Manlleu	2-3	Reus Deportiu
+Cornellà	5-2	Nàstic de Tarragona
+Sant Andreu	0-5	Badalona
+Cornellà	5-2	Sabadell
+Terrassa	0-3	Girona FC
+Sabadell	4-3	Terrassa
+Lleida Esportiu	1-1	Badalona
+Cornellà	1-2	Reus Deportiu
+Manlleu	5-3	Europa
+Lleida Esportiu	5-0	RCD Espanyol
+Figueres	0-4	Granollers
+Prat	1-5	FC Barcelona
+Manlleu	0-5	Sabadell
+Sabadell	5-4	Vilafranca
+Sant Andreu	0-2	Lleida Esportiu
+Manlleu	1-2	RCD Espanyol
+Figueres	5-5	Reus Deportiu
+RCD Espanyol	0-2	Nàstic de Tarragona
+Cerdanyola	1-2	Girona FC
+Figueres	2-4	RCD Espanyol
+Olot	3-4	RCD Espanyol
+FC Barcelona	4-0	Badalona
+Granollers	2-4	Sabadell
+Reus Deportiu	1-0	Figueres
+Prat	3-4	Lleida Esportiu
+Sabadell	0-5	Figueres
+Vilafranca	2-3	Cornellà
+Llagostera	3-5	Cornellà
+Sant Andreu	3-4	Granollers
+Figueres	4-2	Europa
+Girona FC	2-4	Badalona
+Girona FC	4-1	Cerdanyola
+Cerdanyola	3-4	Vilafranca
+Badalona	5-1	Vilafranca
+Manlleu	0-2	Figueres
+Figueres	0-0	FC Barcelona
+Reus Deportiu	3-3	Prat
+Cerdanyola	5-0	Terrassa
+Sabadell	2-3	Lleida Esportiu
+Girona FC	5-1	Sant Andreu
+FC Barcelona	4-0	Vilafranca
+Llagostera	3-0	Olot
+Sabadell	1-5	Cornellà
+Llagostera	3-1	Manlleu
+Granollers	2-3	RCD Espanyol
+Prat	3-4	Cornellà
+Terrassa	4-4	Olot
+Reus Deportiu	3-5	Sant Andreu
+Nàstic de Tarragona	4-0	RCD Espanyol
+Llagostera	2-4	Terrassa
+Girona FC	3-2	Terrassa
+Cornellà	4-1	RCD Espanyol
+Terrassa	3-2	Cerdanyola
+Girona FC	0-4	FC Barcelona
+Lleida Esportiu	3-4	Llagostera
+Llagostera	5-0	Reus Deportiu
+Figueres	3-5	Nàstic de Tarragona
+Olot	2-0	Granollers
+Vilafranca	1-4	Lleida Esportiu
+Nàstic de Tarragona	2-5	Girona FC
+Cerdanyola	3-3	Nàstic de Tarragona
+Prat	5-0	Manlleu
+Cornellà	0-4	Cerdanyola
+Nàstic de Tarragona	3-0	Cornellà
+FC Barcelona	4-0	Sant Andreu
+Cerdanyola	2-3	Sabadell
+FC Barcelona	5-4	Granollers
+Olot	3-3	Sant Andreu
+Europa	5-2	Vilafranca
+RCD Espanyol	1-1	Vilafranca
+Sabadell	3-1	Olot
+Lleida Esportiu	0-0	Badalona
+Europa	2-3	Olot
+Granollers	0-1	Terrassa
+Badalona	3-5	Nàstic de Tarragona
+Sant Andreu	2-0	Nàstic de Tarragona
+Cerdanyola	1-2	Figueres
+RCD Espanyol	5-3	Cerdanyola
+Europa	0-3	Girona FC
+Sabadell	2-5	RCD Espanyol
+Cerdanyola	2-5	Sabadell
+Prat	5-0	Cornellà
+Granollers	3-4	Terrassa
+Reus Deportiu	5-2	Prat
+Sabadell	3-1	Manlleu
+Cerdanyola	3-4	Figueres
+Terrassa	5-1	Lleida Esportiu
+Cornellà	2-0	Lleida Esportiu
+Cerdanyola	2-1	Figueres
+Figueres	5-3	Reus Deportiu
+RCD Espanyol	1-1	Granollers
+FC Barcelona	1-5	Llagostera
+Reus Deportiu	5-5	Lleida Esportiu
+Vilafranca	3-0	Manlleu
+Prat	0-1	Reus Deportiu
+Sant Andreu	5-2	Granollers
+Terrassa	2-2	Badalona
+Europa	5-5	Manlleu
+Europa	4-4	FC Barcelona
+Prat	2-0	Granollers
+Reus Deportiu	3-0	Figueres
+Nàstic de Tarragona	5-4	Cerdanyola
+Vilafranca	4-0	Sant Andreu
+Llagostera	1-1	Cornellà
+Olot	4-0	Nàstic de Tarragona
+Cornellà	1-4	Girona FC
+Girona FC	4-0	FC Barcelona
+Girona FC	3-5	Lleida Esportiu
+Prat	5-3	Granollers
+Manlleu	0-5	Granollers
+Olot	0-3	Badalona
+Sabadell	4-3	Prat
+Nàstic de Tarragona	4-2	Prat
+Cerdanyola	1-2	Figueres
+Cornellà	4-5	Vilafranca
+Llagostera	5-2	Terrassa
+Llagostera	1-4	Figueres
+Terrassa	3-5	Llagostera
+Vilafranca	2-4	Cornellà
+Llagostera	2-0	Sant Andreu
+Cerdanyola	0-5	FC Barcelona
+RCD Espanyol	1-1	Lleida Esportiu
+Nàstic de Tarragona	2-0	Sant Andreu
+Sabadell	5-1	Cornellà
+Llagostera	3-1	Cornellà
+Granollers	5-0	Manlleu
+Europa	4-0	RCD Espanyol
+Cornellà	0-3	Reus Deportiu
+Terrassa	2-3	Olot
+Lleida Esportiu	2-1	Sabadell
+Llagostera	2-4	Manlleu
+FC Barcelona	2-5	RCD Espanyol
+Cerdanyola	2-4	Nàstic de Tarragona
+RCD Espanyol	1-3	Llagostera
+Cornellà	2-0	Cerdanyola
+Nàstic de Tarragona	5-0	FC Barcelona
+Reus Deportiu	3-3	Sabadell
+Manlleu	3-1	Llagostera
+Olot	3-3	Figueres
+Girona FC	0-2	Olot
+Manlleu	2-2	Figueres
+Badalona	1-0	Vilafranca
+RCD Espanyol	5-4	Figueres
+Llagostera	4-0	Sant Andreu
+Reus Deportiu	0-3	Llagostera
+Girona FC	2-0	Prat
+Figueres	5-2	Reus Deportiu
+Granollers	4-2	Lleida Esportiu
+Nàstic de Tarragona	2-2	Vilafranca
+Vilafranca	2-1	Granollers
+Sant Andreu	5-5	Sabadell
+Llagostera	3-5	Cornellà
+Girona FC	2-4	Figueres
+FC Barcelona	2-0	Prat
+Manlleu	2-2	Badalona
+Reus Deportiu	5-3	Terrassa
+Figueres	4-5	Llagostera
+Terrassa	4-4	Badalona
+Manlleu	0-4	Sant Andreu
+RCD Espanyol	2-0	Nàstic de Tarragona
+Cornellà	0-5	Prat
+Lleida Esportiu	4-2	Sant Andreu
+RCD Espanyol	3-1	Nàstic de Tarragona
+Sabadell	1-0	Granollers
+FC Barcelona	5-5	Prat
+Cerdanyola	0-1	Girona FC
+Prat	2-4	Sant Andreu
+Vilafranca	1-1	RCD Espanyol
+Cerdanyola	5-0	Terrassa
+FC Barcelona	0-5	Cornellà
+Manlleu	3-0	Cerdanyola
+Sabadell	1-4	Vilafranca
+Llagostera	0-5	Lleida Esportiu
+Nàstic de Tarragona	2-2	Sant Andreu
+Prat	0-0	RCD Espanyol
+Cerdanyola	2-5	Lleida Esportiu
+Manlleu	5-0	Girona FC
+Granollers	4-5	RCD Espanyol
+Badalona	2-4	Olot
+Lleida Esportiu	2-3	Girona FC
+Figueres	3-1	Badalona
+Terrassa	4-5	Cornellà
+RCD Espanyol	1-2	Europa
+Europa	0-1	Vilafranca
+Nàstic de Tarragona	2-5	Figueres
+Sant Andreu	1-5	Manlleu
+Europa	5-3	FC Barcelona
+Sant Andreu	1-3	Lleida Esportiu
+Cerdanyola	2-4	Badalona
+Sant Andreu	4-0	Terrassa
+Sabadell	4-3	Europa
+Badalona	3-1	Nàstic de Tarragona
+Granollers	4-1	Vilafranca
+Reus Deportiu	4-1	Vilafranca
+Prat	1-5	Granollers
+RCD Espanyol	0-5	Nàstic de Tarragona
+Badalona	0-2	Sabadell
+Girona FC	3-3	Badalona
+Terrassa	1-0	Sabadell
+Lleida Esportiu	2-5	Figueres
+Olot	2-2	Figueres
+RCD Espanyol	0-4	Llagostera
+Badalona	5-0	Figueres
+Prat	1-2	Olot
+Cerdanyola	0-2	Lleida Esportiu
+FC Barcelona	2-5	Figueres
+Terrassa	5-5	Badalona
+Nàstic de Tarragona	5-4	Badalona
+Nàstic de Tarragona	0-4	Terrassa
+Sant Andreu	3-4	Nàstic de Tarragona
+Cornellà	3-3	Reus Deportiu
+Cerdanyola	4-1	Manlleu
+Sabadell	3-3	Nàstic de Tarragona
+Reus Deportiu	4-5	Nàstic de Tarragona
+Cerdanyola	2-0	FC Barcelona
+Nàstic de Tarragona	2-3	RCD Espanyol
+Europa	4-2	Badalona
+Cornellà	3-4	RCD Espanyol
+Sabadell	1-1	Granollers
+Girona FC	5-2	Olot
+FC Barcelona	5-2	Nàstic de Tarragona
+Nàstic de Tarragona	2-5	Figueres
+Vilafranca	2-0	FC Barcelona
+Europa	2-3	Lleida Esportiu
+RCD Espanyol	5-2	Olot
+Lleida Esportiu	0-1	Nàstic de Tarragona
+Prat	1-0	Olot
+Terrassa	5-2	Europa
+Llagostera	0-5	Nàstic de Tarragona
+Nàstic de Tarragona	3-2	Reus Deportiu
+Reus Deportiu	1-4	Llagostera
+Sabadell	0-4	Badalona
+Vilafranca	2-1	Lleida Esportiu
+Llagostera	0-2	Terrassa
+Girona FC	5-5	Vilafranca
+Granollers	4-4	Olot
+Girona FC	3-0	Cerdanyola
+FC Barcelona	1-1	Cerdanyola
+Badalona	5-5	Reus Deportiu
+Cornellà	4-4	Figueres
+Girona FC	5-4	Figueres
+Sabadell	5-3	FC Barcelona
+Nàstic de Tarragona	0-4	Girona FC
+Terrassa	3-2	Reus Deportiu
+Reus Deportiu	1-1	Europa
+Terrassa	5-5	Llagostera
+Prat	4-1	Cornellà
+Sant Andreu	3-0	Prat
+Prat	1-3	Cerdanyola
+Sabadell	5-0	Figueres
+Olot	1-1	Manlleu
+Reus Deportiu	0-1	Terrassa
+Sant Andreu	2-2	Terrassa
+Nàstic de Tarragona	2-4	Sabadell
+Llagostera	3-5	Cerdanyola
+Granollers	3-1	Badalona
+Figueres	4-0	Reus Deportiu
+Europa	4-5	Llagostera
+Girona FC	2-4	Terrassa
+Olot	1-2	Granollers
+Vilafranca	5-5	Olot
+RCD Espanyol	4-2	Figueres
+Terrassa	3-3	Figueres
+Girona FC	5-2	Sabadell
+Sabadell	3-3	Cornellà
+Granollers	0-2	Girona FC
+Olot	0-4	FC Barcelona
+Europa	4-4	Girona FC
+Lleida Esportiu	5-4	Vilafranca
+Reus Deportiu	2-4	Sabadell
+Sant Andreu	5-2	Olot
+Lleida Esportiu	2-2	Granollers
+Llagostera	4-2	Granollers
+Terrassa	0-2	Llagostera
+Lleida Esportiu	5-3	Badalona
+Sabadell	3-5	Figueres
+Nàstic de Tarragona	3-4	Sabadell
+Europa	0-5	Cerdanyola
+Cornellà	4-5	Manlleu
+Reus Deportiu	5-1	Lleida Esportiu
+Vilafranca	1-0	RCD Espanyol
+RCD Espanyol	4-5	Girona FC
+Granollers	4-0	Vilafranca
+Sant Andreu	2-4	Reus Deportiu
+Lleida Esportiu	1-2	FC Barcelona
+Llagostera	4-4	Sant Andreu
+Girona FC	2-4	Llagostera
+Figueres	0-4	Reus Deportiu
+Lleida Esportiu	1-5	RCD Espanyol
+Prat	2-0	Sant Andreu
+Badalona	0-1	Sant Andreu
+Olot	1-2	Reus Deportiu
+Sabadell	1-4	Sant Andreu
+Sant Andreu	0-1	Lleida Esportiu
+FC Barcelona	3-2	Lleida Esportiu
+Badalona	3-0	Llagostera
+Llagostera	0-2	Cornellà
+Cornellà	3-1	Olot
+Nàstic de Tarragona	0-1	Cornellà
+Girona FC	4-1	RCD Espanyol
+Vilafranca	4-4	Llagostera
+Nàstic de Tarragona	3-4	FC Barcelona
+Nàstic de Tarragona	0-2	Cornellà
+Terrassa	0-0	Manlleu
+Sabadell	3-3	Terrassa
+Nàstic de Tarragona	2-2	Vilafranca
+Sabadell	4-4	Figueres
+RCD Espanyol	2-0	Prat
+Cornellà	1-2	Terrassa
+Prat	0-0	Badalona
+Figueres	0-2	Granollers
+Manlleu	5-0	FC Barcelona
+Sant Andreu	3-5	Reus Deportiu
+RCD Espanyol	2-1	Badalona
+Sant Andreu	5-0	Cornellà
+Olot	4-5	FC Barcelona
+Olot	5-1	Figueres
+Prat	3-1	Cornellà
+Olot	3-1	Figueres
+Olot	2-4	Girona FC
+Sabadell	5-3	Cerdanyola
+Llagostera	3-5	Manlleu
+Granollers	2-4	Badalona
+RCD Espanyol	4-5	Cerdanyola
+Llagostera	4-4	Sant Andreu
+FC Barcelona	5-3	Vilafranca
+Lleida Esportiu	2-1	Reus Deportiu
+Granollers	2-1	Cerdanyola
+Europa	0-3	Manlleu
+Granollers	4-5	RCD Espanyol
+FC Barcelona	4-5	Nàstic de Tarragona
+Manlleu	3-3	RCD Espanyol
+Sabadell	4-5	Manlleu
+Europa	2-0	Reus Deportiu
+Olot	4-0	Granollers
+Terrassa	3-1	RCD Espanyol
+Vilafranca	2-5	Terrassa
+Reus Deportiu	0-5	Sant Andreu
+Nàstic de Tarragona	4-0	RCD Espanyol
+Prat	4-4	Sant Andreu
+Terrassa	5-3	Vilafranca
+FC Barcelona	3-0	Llagostera
+Granollers	5-0	Olot
+Figueres	4-5	Vilafranca
+Terrassa	3-3	Llagostera
+Prat	3-3	RCD Espanyol
+Nàstic de Tarragona	1-4	Llagostera
+Olot	4-4	Vilafranca
+Olot	0-3	Granollers
+Badalona	3-3	Llagostera
+Europa	1-5	Olot
+Cornellà	2-2	Sant Andreu
+Girona FC	5-1	Lleida Esportiu
+Reus Deportiu	5-2	Sant Andreu
+Vilafranca	0-4	Lleida Esportiu
+FC Barcelona	1-5	Llagostera
+Badalona	3-4	Terrassa
+FC Barcelona	1-1	RCD Espanyol
+Sant Andreu	5-4	Terrassa
+Sabadell	0-1	Girona FC
+RCD Espanyol	1-3	Prat
+Nàstic de Tarragona	3-3	Prat
+FC Barcelona	5-2	Prat
+RCD Espanyol	1-4	Cerdanyola
+Terrassa	1-2	Sant Andreu
+Llagostera	5-4	Europa
+Lleida Esportiu	1-5	Figueres
+Nàstic de Tarragona	1-3	Girona FC
+Cornellà	5-2	Badalona
+Olot	3-0	Lleida Esportiu
+Granollers	5-3	Manlleu
+Granollers	1-3	Llagostera
+Sabadell	5-3	Olot
+Reus Deportiu	3-1	Terrassa
+Prat	3-3	RCD Espanyol
+RCD Espanyol	5-1	Nàstic de Tarragona
+Sant Andreu	0-0	Terrassa
+Cornellà	5-0	Terrassa
+Vilafranca	4-5	Cornellà
+Vilafranca	4-5	Badalona
+FC Barcelona	4-3	Lleida Esportiu
+Terrassa	5-4	Cornellà
+Olot	1-5	Europa
+Lleida Esportiu	4-5	Figueres
+Sant Andreu	5-0	Europa
+Sant Andreu	3-1	Girona FC
+Sabadell	1-3	Llagostera
+Nàstic de Tarragona	1-3	Olot
+Badalona	5-4	Prat
+Olot	4-5	Llagostera
+FC Barcelona	3-1	Cornellà
+Olot	0-5	Granollers

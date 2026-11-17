@@ -1,0 +1,37 @@
+{
+  "base_increment_by_group": {
+    "Grup A": 5.0,
+    "Grup B": 3.5,
+    "Grup C": 2.0,
+    "Grup D": 8.0
+  },
+
+  "children_adjustment": {
+    "has_children": 1.5,
+    "no_children": 0.0
+  },
+
+  "age_adjustment": {
+    "18-29": 0.0,
+    "30-44": 1.0,
+    "45-59": 2.0,
+    "60+": 1.5
+  },
+
+  "cost_of_living_adjustment": {
+    "low": 0.0,
+    "medium": 1.0,
+    "high": 2.0
+  },
+
+  "transport_adjustment": {
+    "low": 0.5,
+    "medium": 0.0,
+    "high": -0.5
+  },
+
+  "rules": {
+    "max_total_increment_percent": 15,
+    "min_salary_threshold": 800
+  }
+}
